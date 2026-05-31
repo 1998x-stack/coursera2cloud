@@ -1,2 +1,121 @@
-{"slug": "executing-full-text-queries-with-elasticsearch", "name": "Executing Full Text Queries with Elasticsearch", "category": "Computer Science / Databases and Search", "enabled": true}
-{"slug": "information-theory", "name": "Information Theory", "category": "Computer Science / Theory", "enabled": true}
+{"slug": "machine-learning", "name": "Machine Learning", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "ai-for-everyone", "name": "AI For Everyone", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "neural-networks-deep-learning", "name": "Neural Networks and Deep Learning", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "convolutional-neural-networks", "name": "Convolutional Neural Networks", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "nlp-sequence-models", "name": "Sequence Models", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "machine-learning-with-python", "name": "Machine Learning with Python", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "generative-ai-for-everyone", "name": "Generative AI for Everyone", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "introduction-to-generative-ai", "name": "Introduction to Generative AI", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "introduction-to-large-language-models", "name": "Introduction to Large Language Models", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "introduction-tensorflow", "name": "Introduction to TensorFlow", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "advanced-learning-algorithms", "name": "Advanced Learning Algorithms", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "unsupervised-learning-recommenders-reinforcement-learning", "name": "Unsupervised Learning, Recommenders, Reinforcement", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "deep-learning-specialization", "name": "Deep Learning Specialization", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "google-ai-essentials", "name": "Google AI Essentials", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "generative-ai-with-llms", "name": "Generative AI with Large Language Models", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "intro-to-gen-ai", "name": "Intro to Generative AI", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "prompt-engineering-for-chatgpt", "name": "Prompt Engineering for ChatGPT", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "tensorflow-advanced-techniques", "name": "TensorFlow: Advanced Techniques", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "natural-language-processing", "name": "Natural Language Processing", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "introduction-to-computer-vision", "name": "Introduction to Computer Vision", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "reinforcement-learning", "name": "Reinforcement Learning", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "responsible-ai", "name": "Responsible AI", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "python", "name": "Programming for Everybody (Python)", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "python-data", "name": "Python Data Structures", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "python-network-data", "name": "Using Python to Access Web Data", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "python-databases", "name": "Using Databases with Python", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "crash-course-on-python", "name": "Crash Course on Python", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "python-for-data-science-ai-development", "name": "Python for Data Science, AI and Development", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "python-basics", "name": "Python Basics", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "interactive-python-1", "name": "Interactive Programming in Python (Part 1)", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "interactive-python-2", "name": "Interactive Programming in Python (Part 2)", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "java-programming", "name": "Java Programming: Solving Problems with Software", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "java-programming-arrays-lists-data", "name": "Java Programming: Arrays, Lists, and Structured Data", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "object-oriented-programming-in-java", "name": "Object Oriented Programming in Java", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "c-for-everyone", "name": "C for Everyone: Programming Fundamentals", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "programming-languages", "name": "Programming Languages", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "algorithms-part1", "name": "Algorithms, Part I", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
+{"slug": "algorithms-part2", "name": "Algorithms, Part II", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
+{"slug": "data-structures-algorithms", "name": "Data Structures and Algorithms", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
+{"slug": "algorithmic-toolbox", "name": "Algorithmic Toolbox", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
+{"slug": "data-structures", "name": "Data Structures", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
+{"slug": "algorithms-on-graphs", "name": "Algorithms on Graphs", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
+{"slug": "algorithms-on-strings", "name": "Algorithms on Strings", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
+{"slug": "advanced-algorithms-and-complexity", "name": "Advanced Algorithms and Complexity", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
+{"slug": "data-structures-and-performance", "name": "Data Structures and Performance", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
+{"slug": "computer-science-algorithms-theory-machines", "name": "Computer Science: Algorithms, Theory, and Machines", "category": "Computer Science / Theory", "enabled": false}
+{"slug": "computer-science-programming-with-a-purpose", "name": "Computer Science: Programming with a Purpose", "category": "Computer Science / Fundamentals", "enabled": false}
+{"slug": "computational-thinking-problem-solving", "name": "Computational Thinking for Problem Solving", "category": "Computer Science / Fundamentals", "enabled": false}
+{"slug": "introduction-to-discrete-mathematics-for-computer-science", "name": "Intro to Discrete Math for Computer Science", "category": "Computer Science / Fundamentals", "enabled": false}
+{"slug": "introduction-to-computer-science-and-programming", "name": "Introduction to Computer Science and Programming", "category": "Computer Science / Fundamentals", "enabled": false}
+{"slug": "html-css-javascript-for-web-developers", "name": "HTML, CSS, and Javascript for Web Developers", "category": "Computer Science / Web Development", "enabled": false}
+{"slug": "front-end-web-development-with-react", "name": "Front-End Web Development with React", "category": "Computer Science / Web Development", "enabled": false}
+{"slug": "server-side-development-with-nodejs-express-and-mongodb", "name": "Server-side Development with NodeJS", "category": "Computer Science / Web Development", "enabled": false}
+{"slug": "full-stack-web-development", "name": "Full Stack Web Development", "category": "Computer Science / Web Development", "enabled": false}
+{"slug": "web-development", "name": "Web Development", "category": "Computer Science / Web Development", "enabled": false}
+{"slug": "responsive-web-design", "name": "Responsive Web Design", "category": "Computer Science / Web Development", "enabled": false}
+{"slug": "sql-for-data-science", "name": "SQL for Data Science", "category": "Computer Science / Databases", "enabled": false}
+{"slug": "introduction-to-databases", "name": "Introduction to Databases", "category": "Computer Science / Databases", "enabled": false}
+{"slug": "foundations-of-cybersecurity", "name": "Foundations of Cybersecurity", "category": "Computer Science / Cybersecurity", "enabled": false}
+{"slug": "introduction-to-cybersecurity-tools-and-cyber-attacks", "name": "Introduction to Cybersecurity Tools and Cyber Attacks", "category": "Computer Science / Cybersecurity", "enabled": false}
+{"slug": "cryptography", "name": "Cryptography I", "category": "Computer Science / Cybersecurity", "enabled": false}
+{"slug": "computer-security", "name": "Computer Security", "category": "Computer Science / Cybersecurity", "enabled": false}
+{"slug": "network-security", "name": "Network Security", "category": "Computer Science / Cybersecurity", "enabled": false}
+{"slug": "cybersecurity-compliance-framework-standards-regulations", "name": "Cybersecurity Compliance Framework", "category": "Computer Science / Cybersecurity", "enabled": false}
+{"slug": "ethical-hacking", "name": "Ethical Hacking", "category": "Computer Science / Cybersecurity", "enabled": false}
+{"slug": "introduction-to-cloud-computing", "name": "Introduction to Cloud Computing", "category": "Computer Science / Cloud Computing", "enabled": false}
+{"slug": "google-cloud-fundamentals-core-infrastructure", "name": "Google Cloud Fundamentals: Core Infrastructure", "category": "Computer Science / Cloud Computing", "enabled": false}
+{"slug": "aws-cloud-technical-essentials", "name": "AWS Cloud Technical Essentials", "category": "Computer Science / Cloud Computing", "enabled": false}
+{"slug": "aws-fundamentals", "name": "AWS Fundamentals", "category": "Computer Science / Cloud Computing", "enabled": false}
+{"slug": "developing-applications-with-google-cloud", "name": "Developing Applications with Google Cloud", "category": "Computer Science / Cloud Computing", "enabled": false}
+{"slug": "data-engineering-with-google-cloud", "name": "Data Engineering with Google Cloud", "category": "Computer Science / Cloud Computing", "enabled": false}
+{"slug": "introduction-to-software-engineering", "name": "Introduction to Software Engineering", "category": "Computer Science / Software Engineering", "enabled": false}
+{"slug": "software-development-lifecycle", "name": "Software Development Lifecycle", "category": "Computer Science / Software Engineering", "enabled": false}
+{"slug": "agile-project-management", "name": "Agile Project Management", "category": "Computer Science / Software Engineering", "enabled": false}
+{"slug": "java-programming-and-software-engineering-fundamentals", "name": "Java Programming and Software Engineering Fundamentals", "category": "Computer Science / Software Engineering", "enabled": false}
+{"slug": "computer-networking", "name": "The Bits and Bytes of Computer Networking", "category": "Computer Science / Computer Networks", "enabled": false}
+{"slug": "operating-systems", "name": "Operating Systems and You: Becoming a Power User", "category": "Computer Science / Operating Systems", "enabled": false}
+{"slug": "system-administration-it-infrastructure-services", "name": "System Administration and IT Infrastructure", "category": "Computer Science / IT Support", "enabled": false}
+{"slug": "technical-support-fundamentals", "name": "Technical Support Fundamentals", "category": "Computer Science / IT Support", "enabled": false}
+{"slug": "what-is-data-science", "name": "What is Data Science?", "category": "Computer Science / Data Science", "enabled": false}
+{"slug": "introduction-to-data-science-in-python", "name": "Introduction to Data Science in Python", "category": "Computer Science / Data Science", "enabled": false}
+{"slug": "data-science-methodology", "name": "Data Science Methodology", "category": "Computer Science / Data Science", "enabled": false}
+{"slug": "data-analysis-with-python", "name": "Data Analysis with Python", "category": "Computer Science / Data Science", "enabled": false}
+{"slug": "applied-data-science-with-python", "name": "Applied Data Science with Python", "category": "Computer Science / Data Science", "enabled": false}
+{"slug": "r-programming", "name": "R Programming", "category": "Computer Science / Data Science", "enabled": false}
+{"slug": "linux-and-bash-for-data-engineering", "name": "Linux and Bash for Data Engineering", "category": "Computer Science / DevOps", "enabled": false}
+{"slug": "introduction-to-devops", "name": "Introduction to DevOps", "category": "Computer Science / DevOps", "enabled": false}
+{"slug": "docker-kubernetes-the-big-picture", "name": "Docker and Kubernetes: The Big Picture", "category": "Computer Science / DevOps", "enabled": false}
+{"slug": "blockchain-basics", "name": "Blockchain Basics", "category": "Computer Science / Blockchain", "enabled": false}
+{"slug": "bitcoin-and-cryptocurrency-technologies", "name": "Bitcoin and Cryptocurrency Technologies", "category": "Computer Science / Blockchain", "enabled": false}
+{"slug": "mobile-app-development", "name": "Mobile App Development", "category": "Computer Science / Mobile Development", "enabled": false}
+{"slug": "ios-app-development-basics", "name": "iOS App Development Basics", "category": "Computer Science / Mobile Development", "enabled": false}
+{"slug": "android-app-development", "name": "Android App Development", "category": "Computer Science / Mobile Development", "enabled": false}
+{"slug": "distributed-systems", "name": "Distributed Systems", "category": "Computer Science / Systems", "enabled": false}
+{"slug": "computer-architecture", "name": "Computer Architecture", "category": "Computer Science / Systems", "enabled": false}
+{"slug": "compilers", "name": "Compilers", "category": "Computer Science / Systems", "enabled": false}
+{"slug": "introduction-to-computer-networks", "name": "Introduction to Computer Networks", "category": "Computer Science / Computer Networks", "enabled": false}
+{"slug": "build-a-computer", "name": "Build a Modern Computer from First Principles (Nand to Tetris)", "category": "Computer Science / Systems", "enabled": false}
+{"slug": "introduction-to-artificial-intelligence-ai", "name": "Introduction to Artificial Intelligence (AI)", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "fundamentals-of-machine-learning-and-ai", "name": "Fundamentals of Machine Learning and AI", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "nuts-and-bolts-of-machine-learning", "name": "The Nuts and Bolts of Machine Learning", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "getting-started-with-tensorflow2", "name": "Getting Started with TensorFlow 2", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "cyber-security-essentials", "name": "Cyber Security Essentials", "category": "Computer Science / Cybersecurity", "enabled": false}
+{"slug": "it-fundamentals-for-cybersecurity", "name": "IT Fundamentals for Cybersecurity", "category": "Computer Science / Cybersecurity", "enabled": false}
+{"slug": "usable-security", "name": "Usable Security", "category": "Computer Science / Cybersecurity", "enabled": false}
+{"slug": "design-patterns", "name": "Design Patterns", "category": "Computer Science / Software Engineering", "enabled": false}
+{"slug": "introduction-to-software-product-management", "name": "Introduction to Software Product Management", "category": "Computer Science / Software Engineering", "enabled": false}
+{"slug": "programming-fundamentals", "name": "Programming Fundamentals", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "object-oriented-data-structures-cpp", "name": "Object-Oriented Data Structures in C++", "category": "Computer Science / Programming", "enabled": false}
+{"slug": "cloud-computing-concepts-part1", "name": "Cloud Computing Concepts Part 1", "category": "Computer Science / Cloud Computing", "enabled": false}
+{"slug": "modern-big-data-analysis-sql", "name": "Modern Big Data Analysis with SQL", "category": "Computer Science / Databases", "enabled": false}
+{"slug": "python-for-data-visualization", "name": "Python for Data Visualization", "category": "Computer Science / Data Science", "enabled": false}
+{"slug": "human-centered-design-introduction", "name": "Human-Centered Design: an Introduction", "category": "Computer Science / HCI & UX", "enabled": false}
+{"slug": "introduction-to-ui-design", "name": "Introduction to UI Design", "category": "Computer Science / HCI & UX", "enabled": false}
+{"slug": "design-principles-introduction", "name": "Design Principles: an Introduction", "category": "Computer Science / HCI & UX", "enabled": false}
+{"slug": "foundations-of-user-experience-design", "name": "Foundations of User Experience (UX) Design", "category": "Computer Science / HCI & UX", "enabled": false}
+{"slug": "web-applications-for-everybody", "name": "Web Applications for Everybody", "category": "Computer Science / Web Development", "enabled": false}
+{"slug": "introduction-to-cybersecurity-essentials", "name": "Introduction to Cybersecurity Essentials", "category": "Computer Science / Cybersecurity", "enabled": false}
+{"slug": "machine-learning-in-production", "name": "Machine Learning in Production", "category": "Computer Science / AI & Machine Learning", "enabled": false}
+{"slug": "agile-meets-design-thinking", "name": "Agile Meets Design Thinking", "category": "Computer Science / Software Engineering", "enabled": false}
+{"slug": "java-programming-software-engineering-fundamentals", "name": "Java Programming and Software Engineering Fundamentals", "category": "Computer Science / Software Engineering", "enabled": false}
