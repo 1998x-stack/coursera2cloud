@@ -1,309 +1,309 @@
 {"slug": "executing-full-text-queries-with-elasticsearch", "name": "Executing Full Text Queries with Elasticsearch", "category": "Computer Science / Databases and Search", "enabled": true}
 {"slug": "information-theory", "name": "Information Theory", "category": "Computer Science / Theory", "enabled": true}
-{"slug": "machine-learning", "name": "Machine Learning", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "ai-for-everyone", "name": "AI For Everyone", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "neural-networks-deep-learning", "name": "Neural Networks and Deep Learning", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "convolutional-neural-networks", "name": "Convolutional Neural Networks", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "nlp-sequence-models", "name": "Sequence Models", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "machine-learning-with-python", "name": "Machine Learning with Python", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "generative-ai-for-everyone", "name": "Generative AI for Everyone", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "introduction-to-generative-ai", "name": "Introduction to Generative AI", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "introduction-to-large-language-models", "name": "Introduction to Large Language Models", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "introduction-tensorflow", "name": "Introduction to TensorFlow", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "advanced-learning-algorithms", "name": "Advanced Learning Algorithms", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "unsupervised-learning-recommenders-reinforcement-learning", "name": "Unsupervised Learning, Recommenders, Reinforcement", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "deep-learning-specialization", "name": "Deep Learning Specialization", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "google-ai-essentials", "name": "Google AI Essentials", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "generative-ai-with-llms", "name": "Generative AI with Large Language Models", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "intro-to-gen-ai", "name": "Intro to Generative AI", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "prompt-engineering-for-chatgpt", "name": "Prompt Engineering for ChatGPT", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "tensorflow-advanced-techniques", "name": "TensorFlow: Advanced Techniques", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "natural-language-processing", "name": "Natural Language Processing", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "introduction-to-computer-vision", "name": "Introduction to Computer Vision", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "reinforcement-learning", "name": "Reinforcement Learning", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "responsible-ai", "name": "Responsible AI", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "python", "name": "Programming for Everybody (Python)", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "python-data", "name": "Python Data Structures", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "python-network-data", "name": "Using Python to Access Web Data", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "python-databases", "name": "Using Databases with Python", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "crash-course-on-python", "name": "Crash Course on Python", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "python-for-data-science-ai-development", "name": "Python for Data Science, AI and Development", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "python-basics", "name": "Python Basics", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "interactive-python-1", "name": "Interactive Programming in Python (Part 1)", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "interactive-python-2", "name": "Interactive Programming in Python (Part 2)", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "java-programming", "name": "Java Programming: Solving Problems with Software", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "java-programming-arrays-lists-data", "name": "Java Programming: Arrays, Lists, and Structured Data", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "object-oriented-programming-in-java", "name": "Object Oriented Programming in Java", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "c-for-everyone", "name": "C for Everyone: Programming Fundamentals", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "programming-languages", "name": "Programming Languages", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "algorithms-part1", "name": "Algorithms, Part I", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
-{"slug": "algorithms-part2", "name": "Algorithms, Part II", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
-{"slug": "data-structures-algorithms", "name": "Data Structures and Algorithms", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
-{"slug": "algorithmic-toolbox", "name": "Algorithmic Toolbox", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
-{"slug": "data-structures", "name": "Data Structures", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
-{"slug": "algorithms-on-graphs", "name": "Algorithms on Graphs", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
-{"slug": "algorithms-on-strings", "name": "Algorithms on Strings", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
-{"slug": "advanced-algorithms-and-complexity", "name": "Advanced Algorithms and Complexity", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
-{"slug": "data-structures-and-performance", "name": "Data Structures and Performance", "category": "Computer Science / Data Structures & Algorithms", "enabled": false}
-{"slug": "computer-science-algorithms-theory-machines", "name": "Computer Science: Algorithms, Theory, and Machines", "category": "Computer Science / Theory", "enabled": false}
-{"slug": "computer-science-programming-with-a-purpose", "name": "Computer Science: Programming with a Purpose", "category": "Computer Science / Fundamentals", "enabled": false}
-{"slug": "computational-thinking-problem-solving", "name": "Computational Thinking for Problem Solving", "category": "Computer Science / Fundamentals", "enabled": false}
-{"slug": "introduction-to-discrete-mathematics-for-computer-science", "name": "Intro to Discrete Math for Computer Science", "category": "Computer Science / Fundamentals", "enabled": false}
-{"slug": "introduction-to-computer-science-and-programming", "name": "Introduction to Computer Science and Programming", "category": "Computer Science / Fundamentals", "enabled": false}
-{"slug": "html-css-javascript-for-web-developers", "name": "HTML, CSS, and Javascript for Web Developers", "category": "Computer Science / Web Development", "enabled": false}
-{"slug": "front-end-web-development-with-react", "name": "Front-End Web Development with React", "category": "Computer Science / Web Development", "enabled": false}
-{"slug": "server-side-development-with-nodejs-express-and-mongodb", "name": "Server-side Development with NodeJS", "category": "Computer Science / Web Development", "enabled": false}
-{"slug": "full-stack-web-development", "name": "Full Stack Web Development", "category": "Computer Science / Web Development", "enabled": false}
-{"slug": "web-development", "name": "Web Development", "category": "Computer Science / Web Development", "enabled": false}
-{"slug": "responsive-web-design", "name": "Responsive Web Design", "category": "Computer Science / Web Development", "enabled": false}
-{"slug": "sql-for-data-science", "name": "SQL for Data Science", "category": "Computer Science / Databases", "enabled": false}
-{"slug": "introduction-to-databases", "name": "Introduction to Databases", "category": "Computer Science / Databases", "enabled": false}
-{"slug": "foundations-of-cybersecurity", "name": "Foundations of Cybersecurity", "category": "Computer Science / Cybersecurity", "enabled": false}
-{"slug": "introduction-to-cybersecurity-tools-and-cyber-attacks", "name": "Introduction to Cybersecurity Tools and Cyber Attacks", "category": "Computer Science / Cybersecurity", "enabled": false}
-{"slug": "cryptography", "name": "Cryptography I", "category": "Computer Science / Cybersecurity", "enabled": false}
-{"slug": "computer-security", "name": "Computer Security", "category": "Computer Science / Cybersecurity", "enabled": false}
-{"slug": "network-security", "name": "Network Security", "category": "Computer Science / Cybersecurity", "enabled": false}
-{"slug": "cybersecurity-compliance-framework-standards-regulations", "name": "Cybersecurity Compliance Framework", "category": "Computer Science / Cybersecurity", "enabled": false}
-{"slug": "ethical-hacking", "name": "Ethical Hacking", "category": "Computer Science / Cybersecurity", "enabled": false}
-{"slug": "introduction-to-cloud-computing", "name": "Introduction to Cloud Computing", "category": "Computer Science / Cloud Computing", "enabled": false}
-{"slug": "google-cloud-fundamentals-core-infrastructure", "name": "Google Cloud Fundamentals: Core Infrastructure", "category": "Computer Science / Cloud Computing", "enabled": false}
-{"slug": "aws-cloud-technical-essentials", "name": "AWS Cloud Technical Essentials", "category": "Computer Science / Cloud Computing", "enabled": false}
-{"slug": "aws-fundamentals", "name": "AWS Fundamentals", "category": "Computer Science / Cloud Computing", "enabled": false}
-{"slug": "developing-applications-with-google-cloud", "name": "Developing Applications with Google Cloud", "category": "Computer Science / Cloud Computing", "enabled": false}
-{"slug": "data-engineering-with-google-cloud", "name": "Data Engineering with Google Cloud", "category": "Computer Science / Cloud Computing", "enabled": false}
-{"slug": "introduction-to-software-engineering", "name": "Introduction to Software Engineering", "category": "Computer Science / Software Engineering", "enabled": false}
-{"slug": "software-development-lifecycle", "name": "Software Development Lifecycle", "category": "Computer Science / Software Engineering", "enabled": false}
-{"slug": "agile-project-management", "name": "Agile Project Management", "category": "Computer Science / Software Engineering", "enabled": false}
-{"slug": "java-programming-and-software-engineering-fundamentals", "name": "Java Programming and Software Engineering Fundamentals", "category": "Computer Science / Software Engineering", "enabled": false}
-{"slug": "computer-networking", "name": "The Bits and Bytes of Computer Networking", "category": "Computer Science / Computer Networks", "enabled": false}
-{"slug": "operating-systems", "name": "Operating Systems and You: Becoming a Power User", "category": "Computer Science / Operating Systems", "enabled": false}
-{"slug": "system-administration-it-infrastructure-services", "name": "System Administration and IT Infrastructure", "category": "Computer Science / IT Support", "enabled": false}
-{"slug": "technical-support-fundamentals", "name": "Technical Support Fundamentals", "category": "Computer Science / IT Support", "enabled": false}
-{"slug": "what-is-data-science", "name": "What is Data Science?", "category": "Computer Science / Data Science", "enabled": false}
-{"slug": "introduction-to-data-science-in-python", "name": "Introduction to Data Science in Python", "category": "Computer Science / Data Science", "enabled": false}
-{"slug": "data-science-methodology", "name": "Data Science Methodology", "category": "Computer Science / Data Science", "enabled": false}
-{"slug": "data-analysis-with-python", "name": "Data Analysis with Python", "category": "Computer Science / Data Science", "enabled": false}
-{"slug": "applied-data-science-with-python", "name": "Applied Data Science with Python", "category": "Computer Science / Data Science", "enabled": false}
-{"slug": "r-programming", "name": "R Programming", "category": "Computer Science / Data Science", "enabled": false}
-{"slug": "linux-and-bash-for-data-engineering", "name": "Linux and Bash for Data Engineering", "category": "Computer Science / DevOps", "enabled": false}
-{"slug": "introduction-to-devops", "name": "Introduction to DevOps", "category": "Computer Science / DevOps", "enabled": false}
-{"slug": "docker-kubernetes-the-big-picture", "name": "Docker and Kubernetes: The Big Picture", "category": "Computer Science / DevOps", "enabled": false}
-{"slug": "blockchain-basics", "name": "Blockchain Basics", "category": "Computer Science / Blockchain", "enabled": false}
-{"slug": "bitcoin-and-cryptocurrency-technologies", "name": "Bitcoin and Cryptocurrency Technologies", "category": "Computer Science / Blockchain", "enabled": false}
-{"slug": "mobile-app-development", "name": "Mobile App Development", "category": "Computer Science / Mobile Development", "enabled": false}
-{"slug": "ios-app-development-basics", "name": "iOS App Development Basics", "category": "Computer Science / Mobile Development", "enabled": false}
-{"slug": "android-app-development", "name": "Android App Development", "category": "Computer Science / Mobile Development", "enabled": false}
-{"slug": "distributed-systems", "name": "Distributed Systems", "category": "Computer Science / Systems", "enabled": false}
-{"slug": "computer-architecture", "name": "Computer Architecture", "category": "Computer Science / Systems", "enabled": false}
-{"slug": "compilers", "name": "Compilers", "category": "Computer Science / Systems", "enabled": false}
-{"slug": "introduction-to-computer-networks", "name": "Introduction to Computer Networks", "category": "Computer Science / Computer Networks", "enabled": false}
-{"slug": "build-a-computer", "name": "Build a Modern Computer from First Principles (Nand to Tetris)", "category": "Computer Science / Systems", "enabled": false}
-{"slug": "introduction-to-artificial-intelligence-ai", "name": "Introduction to Artificial Intelligence (AI)", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "fundamentals-of-machine-learning-and-ai", "name": "Fundamentals of Machine Learning and AI", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "nuts-and-bolts-of-machine-learning", "name": "The Nuts and Bolts of Machine Learning", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "getting-started-with-tensorflow2", "name": "Getting Started with TensorFlow 2", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "cyber-security-essentials", "name": "Cyber Security Essentials", "category": "Computer Science / Cybersecurity", "enabled": false}
-{"slug": "it-fundamentals-for-cybersecurity", "name": "IT Fundamentals for Cybersecurity", "category": "Computer Science / Cybersecurity", "enabled": false}
-{"slug": "usable-security", "name": "Usable Security", "category": "Computer Science / Cybersecurity", "enabled": false}
-{"slug": "design-patterns", "name": "Design Patterns", "category": "Computer Science / Software Engineering", "enabled": false}
-{"slug": "introduction-to-software-product-management", "name": "Introduction to Software Product Management", "category": "Computer Science / Software Engineering", "enabled": false}
-{"slug": "programming-fundamentals", "name": "Programming Fundamentals", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "object-oriented-data-structures-cpp", "name": "Object-Oriented Data Structures in C++", "category": "Computer Science / Programming", "enabled": false}
-{"slug": "cloud-computing-concepts-part1", "name": "Cloud Computing Concepts Part 1", "category": "Computer Science / Cloud Computing", "enabled": false}
-{"slug": "modern-big-data-analysis-sql", "name": "Modern Big Data Analysis with SQL", "category": "Computer Science / Databases", "enabled": false}
-{"slug": "python-for-data-visualization", "name": "Python for Data Visualization", "category": "Computer Science / Data Science", "enabled": false}
-{"slug": "human-centered-design-introduction", "name": "Human-Centered Design: an Introduction", "category": "Computer Science / HCI & UX", "enabled": false}
-{"slug": "introduction-to-ui-design", "name": "Introduction to UI Design", "category": "Computer Science / HCI & UX", "enabled": false}
-{"slug": "design-principles-introduction", "name": "Design Principles: an Introduction", "category": "Computer Science / HCI & UX", "enabled": false}
-{"slug": "foundations-of-user-experience-design", "name": "Foundations of User Experience (UX) Design", "category": "Computer Science / HCI & UX", "enabled": false}
-{"slug": "web-applications-for-everybody", "name": "Web Applications for Everybody", "category": "Computer Science / Web Development", "enabled": false}
-{"slug": "introduction-to-cybersecurity-essentials", "name": "Introduction to Cybersecurity Essentials", "category": "Computer Science / Cybersecurity", "enabled": false}
-{"slug": "machine-learning-in-production", "name": "Machine Learning in Production", "category": "Computer Science / AI & Machine Learning", "enabled": false}
-{"slug": "agile-meets-design-thinking", "name": "Agile Meets Design Thinking", "category": "Computer Science / Software Engineering", "enabled": false}
-{"slug": "java-programming-software-engineering-fundamentals", "name": "Java Programming and Software Engineering Fundamentals", "category": "Computer Science / Software Engineering", "enabled": false}
-{"slug": "foundations-of-digital-marketing-and-e-commerce", "name": "Foundations of Digital Marketing and E-commerce", "category": "Business / Marketing", "enabled": false}
-{"slug": "introduction-to-social-media-marketing", "name": "Introduction to Social Media Marketing", "category": "Business / Marketing", "enabled": false}
-{"slug": "marketing-in-a-digital-world", "name": "Marketing in a Digital World", "category": "Business / Marketing", "enabled": false}
-{"slug": "brand-management-aligning-business-brand-and-behaviour", "name": "Brand Management: Aligning Business, Brand and Behaviour", "category": "Business / Marketing", "enabled": false}
-{"slug": "viral-marketing-and-how-to-craft-contagious-content", "name": "Viral Marketing and How to Craft Contagious Content", "category": "Business / Marketing", "enabled": false}
-{"slug": "the-strategy-of-content-marketing", "name": "The Strategy of Content Marketing", "category": "Business / Marketing", "enabled": false}
-{"slug": "wharton-marketing", "name": "Introduction to Marketing", "category": "Business / Marketing", "enabled": false}
-{"slug": "digital-marketing", "name": "Digital Marketing", "category": "Business / Marketing", "enabled": false}
-{"slug": "marketing-analytics", "name": "Marketing Analytics", "category": "Business / Marketing", "enabled": false}
-{"slug": "international-marketing", "name": "International Marketing", "category": "Business / Marketing", "enabled": false}
-{"slug": "social-media-marketing", "name": "Social Media Marketing", "category": "Business / Marketing", "enabled": false}
-{"slug": "content-marketing", "name": "Content Marketing", "category": "Business / Marketing", "enabled": false}
-{"slug": "financial-markets", "name": "Financial Markets", "category": "Business / Finance", "enabled": false}
-{"slug": "wharton-financial-accounting", "name": "Introduction to Financial Accounting", "category": "Business / Finance", "enabled": false}
-{"slug": "wharton-finance-accounting", "name": "Introduction to Finance and Accounting", "category": "Business / Finance", "enabled": false}
-{"slug": "wharton-corporate-finance", "name": "Introduction to Corporate Finance", "category": "Business / Finance", "enabled": false}
-{"slug": "behavioral-finance", "name": "Behavioral Finance", "category": "Business / Finance", "enabled": false}
-{"slug": "finance-for-non-finance-professionals", "name": "Finance for Non-Finance Professionals", "category": "Business / Finance", "enabled": false}
-{"slug": "corporate-finance-essentials", "name": "Corporate Finance Essentials", "category": "Business / Finance", "enabled": false}
-{"slug": "introduction-to-financial-markets", "name": "Introduction to Financial Markets", "category": "Business / Finance", "enabled": false}
-{"slug": "finance-for-non-financial-managers", "name": "Finance for Non-Financial Managers", "category": "Business / Finance", "enabled": false}
-{"slug": "investment-management", "name": "Investment Management", "category": "Business / Finance", "enabled": false}
-{"slug": "private-equity-and-venture-capital", "name": "Private Equity and Venture Capital", "category": "Business / Finance", "enabled": false}
-{"slug": "financial-planning", "name": "Financial Planning for Young Adults", "category": "Business / Finance", "enabled": false}
-{"slug": "foundations-of-project-management", "name": "Foundations of Project Management", "category": "Business / Project Management", "enabled": false}
-{"slug": "project-initiation-starting-a-successful-project", "name": "Project Initiation: Starting a Successful Project", "category": "Business / Project Management", "enabled": false}
-{"slug": "project-planning-putting-it-all-together", "name": "Project Planning: Putting It All Together", "category": "Business / Project Management", "enabled": false}
-{"slug": "project-execution-running-the-project", "name": "Project Execution: Running the Project", "category": "Business / Project Management", "enabled": false}
-{"slug": "project-management-capstone", "name": "Capstone: Applying Project Management in the Real World", "category": "Business / Project Management", "enabled": false}
-{"slug": "initiating-and-planning-projects", "name": "Initiating and Planning Projects", "category": "Business / Project Management", "enabled": false}
-{"slug": "budgeting-and-scheduling-projects", "name": "Budgeting and Scheduling Projects", "category": "Business / Project Management", "enabled": false}
-{"slug": "how-to-start-your-own-business", "name": "How to Start Your Own Business", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "basics-of-entrepreneurship-thinking-and-doing", "name": "Basics of Entrepreneurship: Thinking and Doing", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "entrepreneurship-launching-innovative-business", "name": "Entrepreneurship: Launching an Innovative Business", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "developing-innovative-ideas-for-new-ventures", "name": "Developing Innovative Ideas for New Ventures", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "innovation-for-entrepreneurs", "name": "Innovation for Entrepreneurs: From Idea to Marketplace", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "new-venture-finance", "name": "New Venture Finance: Startup Funding for Entrepreneurs", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "entrepreneurship-capstone", "name": "Entrepreneurship Capstone", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "design-thinking-for-innovation", "name": "Design Thinking for Innovation", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "strategic-leadership-and-management", "name": "Strategic Leadership and Management", "category": "Business / Leadership", "enabled": false}
-{"slug": "negotiation-skills", "name": "Successful Negotiation: Essential Strategies and Skills", "category": "Business / Leadership", "enabled": false}
-{"slug": "leading-people-and-teams", "name": "Leading People and Teams", "category": "Business / Leadership", "enabled": false}
-{"slug": "inspiring-and-motivating-individuals", "name": "Inspiring and Motivating Individuals", "category": "Business / Leadership", "enabled": false}
-{"slug": "managing-talent", "name": "Managing Talent", "category": "Business / Leadership", "enabled": false}
-{"slug": "organizational-analysis", "name": "Organizational Analysis", "category": "Business / Leadership", "enabled": false}
-{"slug": "high-performance-collaboration", "name": "High Performance Collaboration: Leadership, Teamwork, and Negotiation", "category": "Business / Leadership", "enabled": false}
-{"slug": "leadership-and-emotional-intelligence", "name": "Leadership and Emotional Intelligence", "category": "Business / Leadership", "enabled": false}
-{"slug": "foundations-of-everyday-leadership", "name": "Foundations of Everyday Leadership", "category": "Business / Leadership", "enabled": false}
-{"slug": "communication-strategies-for-a-virtual-age", "name": "Communication Strategies for a Virtual Age", "category": "Business / Leadership", "enabled": false}
-{"slug": "business-foundations", "name": "Business Foundations", "category": "Business / Strategy", "enabled": false}
-{"slug": "business-strategy", "name": "Business Strategy", "category": "Business / Strategy", "enabled": false}
-{"slug": "foundations-of-business-strategy", "name": "Foundations of Business Strategy", "category": "Business / Strategy", "enabled": false}
-{"slug": "business-and-financial-modeling", "name": "Business and Financial Modeling", "category": "Business / Strategy", "enabled": false}
-{"slug": "introduction-to-business", "name": "Introduction to Business", "category": "Business / Strategy", "enabled": false}
-{"slug": "strengthen-your-business-savvy", "name": "Strengthen Your Business Savvy", "category": "Business / Strategy", "enabled": false}
-{"slug": "boost-your-business-skills", "name": "Boost Your Business Skills", "category": "Business / Strategy", "enabled": false}
-{"slug": "competitive-strategy", "name": "Competitive Strategy", "category": "Business / Strategy", "enabled": false}
-{"slug": "business-model-canvas", "name": "Business Model Canvas", "category": "Business / Strategy", "enabled": false}
-{"slug": "strategic-management", "name": "Strategic Management", "category": "Business / Strategy", "enabled": false}
-{"slug": "business-analytics", "name": "Business Analytics", "category": "Business / Analytics", "enabled": false}
-{"slug": "business-analysis-process-management", "name": "Business Analysis and Process Management", "category": "Business / Analytics", "enabled": false}
-{"slug": "foundations-of-marketing-analytics", "name": "Foundations of Marketing Analytics", "category": "Business / Analytics", "enabled": false}
-{"slug": "customer-analytics", "name": "Customer Analytics", "category": "Business / Analytics", "enabled": false}
-{"slug": "operations-analytics", "name": "Operations Analytics", "category": "Business / Analytics", "enabled": false}
-{"slug": "people-analytics", "name": "People Analytics", "category": "Business / Analytics", "enabled": false}
-{"slug": "accounting-analytics", "name": "Accounting Analytics", "category": "Business / Analytics", "enabled": false}
-{"slug": "supply-chain-management", "name": "Supply Chain Management", "category": "Business / Supply Chain", "enabled": false}
-{"slug": "operations-management", "name": "Operations Management", "category": "Business / Supply Chain", "enabled": false}
-{"slug": "supply-chain-principles", "name": "Supply Chain Principles", "category": "Business / Supply Chain", "enabled": false}
-{"slug": "supply-chain-logistics", "name": "Supply Chain Logistics", "category": "Business / Supply Chain", "enabled": false}
-{"slug": "supply-chain-planning", "name": "Supply Chain Planning", "category": "Business / Supply Chain", "enabled": false}
-{"slug": "supply-chain-sourcing", "name": "Supply Chain Sourcing", "category": "Business / Supply Chain", "enabled": false}
-{"slug": "microeconomics", "name": "Microeconomics: The Power of Markets", "category": "Business / Economics", "enabled": false}
-{"slug": "macroeconomics", "name": "Macroeconomics for Business Management", "category": "Business / Economics", "enabled": false}
-{"slug": "game-theory", "name": "Game Theory", "category": "Business / Economics", "enabled": false}
-{"slug": "country-level-economics", "name": "Country Level Economics: Macroeconomic Variables and Markets", "category": "Business / Economics", "enabled": false}
-{"slug": "firm-level-economics", "name": "Firm Level Economics: Consumer and Producer Behavior", "category": "Business / Economics", "enabled": false}
-{"slug": "international-business", "name": "International Business", "category": "Business / Economics", "enabled": false}
-{"slug": "globalization-and-business", "name": "Globalization and Business", "category": "Business / Economics", "enabled": false}
-{"slug": "business-writing", "name": "Business Writing", "category": "Business / Communication", "enabled": false}
-{"slug": "business-english", "name": "Business English: Networking", "category": "Business / Communication", "enabled": false}
-{"slug": "effective-communication", "name": "Effective Communication: Writing, Design, and Presentation", "category": "Business / Communication", "enabled": false}
-{"slug": "presentation-skills", "name": "Presentation Skills: Speechwriting, Slides and Delivery", "category": "Business / Communication", "enabled": false}
-{"slug": "public-speaking", "name": "Introduction to Public Speaking", "category": "Business / Communication", "enabled": false}
-{"slug": "human-resource-management", "name": "Human Resource Management: HR for People Managers", "category": "Business / Human Resources", "enabled": false}
-{"slug": "recruiting-hiring-and-onboarding-employees", "name": "Recruiting, Hiring, and Onboarding Employees", "category": "Business / Human Resources", "enabled": false}
-{"slug": "managing-employee-performance", "name": "Managing Employee Performance", "category": "Business / Human Resources", "enabled": false}
-{"slug": "diversity-and-inclusion-in-the-workplace", "name": "Diversity and Inclusion in the Workplace", "category": "Business / Human Resources", "enabled": false}
-{"slug": "digital-product-management", "name": "Digital Product Management", "category": "Business / Product Management", "enabled": false}
-{"slug": "product-management-an-introduction", "name": "Product Management: An Introduction", "category": "Business / Product Management", "enabled": false}
-{"slug": "gamification", "name": "Gamification", "category": "Business / Innovation", "enabled": false}
-{"slug": "key-technologies-for-business", "name": "Key Technologies for Business", "category": "Business / Technology", "enabled": false}
-{"slug": "business-intelligence", "name": "Business Intelligence", "category": "Business / Analytics", "enabled": false}
-{"slug": "digital-transformation", "name": "Digital Transformation", "category": "Business / Strategy", "enabled": false}
-{"slug": "negotiation-mediation-and-conflict-resolution", "name": "Negotiation, Mediation, and Conflict Resolution", "category": "Business / Leadership", "enabled": false}
-{"slug": "business-english-networking", "name": "Business English: Networking", "category": "Business / Communication", "enabled": false}
-{"slug": "supply-chain-operations", "name": "Supply Chain Operations", "category": "Business / Supply Chain", "enabled": false}
-{"slug": "international-business-essentials", "name": "International Business Essentials", "category": "Business / Economics", "enabled": false}
-{"slug": "foundations-of-digital-marketing", "name": "Foundations of Digital Marketing", "category": "Business / Marketing", "enabled": false}
-{"slug": "google-digital-marketing-ecommerce", "name": "Google Digital Marketing and E-commerce", "category": "Business / Marketing", "enabled": false}
-{"slug": "wharton-accounting", "name": "Introduction to Financial Accounting", "category": "Business / Accounting", "enabled": false}
-{"slug": "wharton-operations", "name": "Introduction to Operations Management", "category": "Business / Operations", "enabled": false}
-{"slug": "foundations-business-strategy", "name": "Foundations of Business Strategy", "category": "Business / Business Strategy", "enabled": false}
-{"slug": "introduction-to-digital-marketing", "name": "Introduction to Digital Marketing", "category": "Business / Digital Marketing", "enabled": false}
-{"slug": "marketing-digital", "name": "Marketing in a Digital World", "category": "Business / Digital Marketing", "enabled": false}
-{"slug": "successful-negotiation", "name": "Successful Negotiation: Essential Strategies and Skills", "category": "Business / Negotiation", "enabled": false}
-{"slug": "supply-chain-excellence", "name": "Supply Chain Excellence", "category": "Business / Supply Chain", "enabled": false}
-{"slug": "organizational-leadership", "name": "Organizational Leadership", "category": "Business / Leadership", "enabled": false}
-{"slug": "leading-people-teams", "name": "Leading People and Teams", "category": "Business / Leadership", "enabled": false}
-{"slug": "management-fundamentals", "name": "Management Fundamentals", "category": "Business / Management", "enabled": false}
-{"slug": "fundamentals-of-management", "name": "Fundamentals of Management", "category": "Business / Management", "enabled": false}
-{"slug": "principles-of-management", "name": "Principles of Management", "category": "Business / Management", "enabled": false}
-{"slug": "finance-for-non-finance", "name": "Finance for Non-Finance Professionals", "category": "Business / Finance", "enabled": false}
-{"slug": "financial-accounting-fundamentals", "name": "Financial Accounting Fundamentals", "category": "Business / Accounting", "enabled": false}
-{"slug": "financial-management", "name": "Financial Management", "category": "Business / Finance", "enabled": false}
-{"slug": "entrepreneurship-1", "name": "Entrepreneurship 1: Developing the Opportunity", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "entrepreneurship-2", "name": "Entrepreneurship 2: Launching Your Start-Up", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "entrepreneurship-3", "name": "Entrepreneurship 3: Growth Strategies", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "how-start-business", "name": "How to Start Your Own Business", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "basics-entrepreneurship", "name": "Basics of Entrepreneurship: Thinking and Doing", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "startup-entrepreneurship", "name": "Startup Entrepreneurship", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "innovation-creativity-entrepreneurship", "name": "Innovation: From Creativity to Entrepreneurship", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "microeconomics-power-markets", "name": "Microeconomics: The Power of Markets", "category": "Business / Economics", "enabled": false}
-{"slug": "microeconomics-principles", "name": "Microeconomics Principles", "category": "Business / Economics", "enabled": false}
-{"slug": "economics-money-banking", "name": "Economics of Money and Banking", "category": "Business / Economics", "enabled": false}
-{"slug": "globalization-economic-growth-stability", "name": "Globalization, Economic Growth and Stability", "category": "Business / International Business", "enabled": false}
-{"slug": "fundamentals-international-business", "name": "Fundamentals of International Business", "category": "Business / International Business", "enabled": false}
-{"slug": "business-communication", "name": "Business Communication", "category": "Business / Communication", "enabled": false}
-{"slug": "improving-communication-skills", "name": "Improving Communication Skills", "category": "Business / Communication", "enabled": false}
-{"slug": "business-english-communication-skills", "name": "Business English Communication Skills", "category": "Business / Communication", "enabled": false}
-{"slug": "marketing-strategy", "name": "Marketing Strategy", "category": "Business / Marketing", "enabled": false}
-{"slug": "brand-management", "name": "Brand Management: Aligning Business, Brand and Behaviour", "category": "Business / Marketing", "enabled": false}
-{"slug": "integrated-marketing-communications", "name": "Integrated Marketing Communications", "category": "Business / Marketing", "enabled": false}
-{"slug": "business-and-marketing-strategies", "name": "Business and Marketing Strategies", "category": "Business / Marketing", "enabled": false}
-{"slug": "excel-skills-business-essentials", "name": "Excel Skills for Business: Essentials", "category": "Business / Business Essentials", "enabled": false}
-{"slug": "excel-skills-business-intermediate-1", "name": "Excel Skills for Business: Intermediate I", "category": "Business / Business Essentials", "enabled": false}
-{"slug": "excel-skills-business-intermediate-2", "name": "Excel Skills for Business: Intermediate II", "category": "Business / Business Essentials", "enabled": false}
-{"slug": "excel-skills-business-advanced", "name": "Excel Skills for Business: Advanced", "category": "Business / Business Essentials", "enabled": false}
-{"slug": "business-intelligence-tools", "name": "Business Intelligence Concepts, Tools, and Applications", "category": "Business / Business Analytics", "enabled": false}
-{"slug": "introduction-to-data-analytics", "name": "Introduction to Data Analytics", "category": "Business / Business Analytics", "enabled": false}
-{"slug": "data-driven-decision-making", "name": "Data-Driven Decision Making", "category": "Business / Business Analytics", "enabled": false}
-{"slug": "foundations-of-digital-marketing-and-ecommerce", "name": "Foundations of Digital Marketing and E-commerce", "category": "Business / Digital Marketing", "enabled": false}
-{"slug": "attract-and-engage-customers-with-digital-marketing", "name": "Attract and Engage Customers with Digital Marketing", "category": "Business / Digital Marketing", "enabled": false}
-{"slug": "think-outside-the-inbox-email-marketing", "name": "Think Outside the Inbox: Email Marketing", "category": "Business / Digital Marketing", "enabled": false}
-{"slug": "make-the-sale-build-launch-manage-ecommerce", "name": "Make the Sale: Build, Launch, and Manage E-commerce Stores", "category": "Business / E-commerce", "enabled": false}
-{"slug": "project-initiation-starting-successful-project", "name": "Project Initiation: Starting a Successful Project", "category": "Business / Project Management", "enabled": false}
-{"slug": "project-execution-running-project", "name": "Project Execution: Running the Project", "category": "Business / Project Management", "enabled": false}
-{"slug": "capstone-applying-project-management", "name": "Capstone: Applying Project Management in the Real World", "category": "Business / Project Management", "enabled": false}
-{"slug": "introduction-to-project-management", "name": "Introduction to Project Management", "category": "Business / Project Management", "enabled": false}
-{"slug": "construction-project-management", "name": "Construction Project Management", "category": "Business / Project Management", "enabled": false}
-{"slug": "engineering-project-management", "name": "Engineering Project Management", "category": "Business / Project Management", "enabled": false}
-{"slug": "ibm-project-manager", "name": "IBM Project Manager Professional Certificate", "category": "Business / Project Management", "enabled": false}
-{"slug": "microsoft-project-management", "name": "Microsoft Project Management", "category": "Business / Project Management", "enabled": false}
-{"slug": "supply-chain-analytics", "name": "Supply Chain Analytics", "category": "Business / Supply Chain Analytics", "enabled": false}
-{"slug": "art-of-negotiation", "name": "The Art of Negotiation", "category": "Business / Negotiation", "enabled": false}
-{"slug": "negotiation-fundamentals", "name": "Negotiation Fundamentals", "category": "Business / Negotiation", "enabled": false}
-{"slug": "negotiation-mediation-conflict-resolution", "name": "Negotiation, Mediation and Conflict Resolution", "category": "Business / Negotiation", "enabled": false}
-{"slug": "new-models-business-society", "name": "New Models of Business in Society", "category": "Business / Business Strategy", "enabled": false}
-{"slug": "global-impact-business-ethics", "name": "Global Impact: Business Ethics", "category": "Business / Business Ethics", "enabled": false}
-{"slug": "global-impact-multiculturalism", "name": "Global Impact: Multiculturalism", "category": "Business / International Business", "enabled": false}
-{"slug": "global-challenges-in-business", "name": "Global Challenges in Business", "category": "Business / International Business", "enabled": false}
-{"slug": "people-management-essentials", "name": "Google People Management Essentials", "category": "Business / HR & People Management", "enabled": false}
-{"slug": "introduction-to-finance-basics", "name": "Introduction to Finance: The Basics", "category": "Business / Finance", "enabled": false}
-{"slug": "finance-for-managers", "name": "Finance for Managers", "category": "Business / Finance", "enabled": false}
-{"slug": "discounted-cash-flow-modeling", "name": "Discounted Cash Flow Modeling", "category": "Business / Finance", "enabled": false}
-{"slug": "investment-risk-management", "name": "Investment Risk Management", "category": "Business / Finance", "enabled": false}
-{"slug": "financial-engineering-risk-management", "name": "Financial Engineering and Risk Management", "category": "Business / Finance", "enabled": false}
-{"slug": "private-equity-venture-capital", "name": "Private Equity and Venture Capital", "category": "Business / Finance", "enabled": false}
-{"slug": "strategic-business-leadership", "name": "Strategic Business Leadership", "category": "Business / Leadership", "enabled": false}
-{"slug": "effective-leadership-master-management-styles", "name": "Effective Leadership: Master Management Styles", "category": "Business / Leadership", "enabled": false}
-{"slug": "developing-yourself-as-a-leader", "name": "Developing Yourself as a Leader", "category": "Business / Leadership", "enabled": false}
-{"slug": "foundations-of-leadership", "name": "Foundations of Leadership", "category": "Business / Leadership", "enabled": false}
-{"slug": "boost-your-leadership-impact", "name": "Boost Your Leadership Impact", "category": "Business / Leadership", "enabled": false}
-{"slug": "global-procurement-and-sourcing", "name": "Global Procurement and Sourcing", "category": "Business / Supply Chain", "enabled": false}
-{"slug": "introduction-to-business-analysis", "name": "Introduction to Business Analysis", "category": "Business / Business Analysis", "enabled": false}
-{"slug": "ibm-business-analyst", "name": "IBM Business Analyst", "category": "Business / Business Analysis", "enabled": false}
-{"slug": "microsoft-business-analyst", "name": "Microsoft Business Analyst", "category": "Business / Business Analysis", "enabled": false}
-{"slug": "sap-business-analyst", "name": "SAP Business Analyst", "category": "Business / Business Analysis", "enabled": false}
-{"slug": "english-for-career-development", "name": "English for Career Development", "category": "Business / Communication", "enabled": false}
-{"slug": "emotional-intelligence-in-leadership", "name": "Emotional Intelligence in Leadership", "category": "Business / Leadership", "enabled": false}
-{"slug": "google-project-management", "name": "Google Project Management", "category": "Business / Project Management", "enabled": false}
-{"slug": "entrepreneurship-growing-your-business", "name": "Entrepreneurship: Growing Your Business", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "entrepreneurship-strategy-ideation-exit", "name": "Entrepreneurship Strategy: From Ideation to Exit", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "essentials-entrepreneurship-thinking-action", "name": "Essentials of Entrepreneurship: Thinking & Action", "category": "Business / Entrepreneurship", "enabled": false}
-{"slug": "influencing-people", "name": "Leadership and Influencing Skills", "category": "Business / Leadership", "enabled": false}
-{"slug": "global-business-communication", "name": "Global Business Communication", "category": "Business / Communication", "enabled": false}
+{"slug": "machine-learning", "name": "Machine Learning", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "ai-for-everyone", "name": "AI For Everyone", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "neural-networks-deep-learning", "name": "Neural Networks and Deep Learning", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "convolutional-neural-networks", "name": "Convolutional Neural Networks", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "nlp-sequence-models", "name": "Sequence Models", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "machine-learning-with-python", "name": "Machine Learning with Python", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "generative-ai-for-everyone", "name": "Generative AI for Everyone", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "introduction-to-generative-ai", "name": "Introduction to Generative AI", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "introduction-to-large-language-models", "name": "Introduction to Large Language Models", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "introduction-tensorflow", "name": "Introduction to TensorFlow", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "advanced-learning-algorithms", "name": "Advanced Learning Algorithms", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "unsupervised-learning-recommenders-reinforcement-learning", "name": "Unsupervised Learning, Recommenders, Reinforcement", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "deep-learning-specialization", "name": "Deep Learning Specialization", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "google-ai-essentials", "name": "Google AI Essentials", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "generative-ai-with-llms", "name": "Generative AI with Large Language Models", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "intro-to-gen-ai", "name": "Intro to Generative AI", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "prompt-engineering-for-chatgpt", "name": "Prompt Engineering for ChatGPT", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "tensorflow-advanced-techniques", "name": "TensorFlow: Advanced Techniques", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "natural-language-processing", "name": "Natural Language Processing", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "introduction-to-computer-vision", "name": "Introduction to Computer Vision", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "reinforcement-learning", "name": "Reinforcement Learning", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "responsible-ai", "name": "Responsible AI", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "python", "name": "Programming for Everybody (Python)", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "python-data", "name": "Python Data Structures", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "python-network-data", "name": "Using Python to Access Web Data", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "python-databases", "name": "Using Databases with Python", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "crash-course-on-python", "name": "Crash Course on Python", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "python-for-data-science-ai-development", "name": "Python for Data Science, AI and Development", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "python-basics", "name": "Python Basics", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "interactive-python-1", "name": "Interactive Programming in Python (Part 1)", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "interactive-python-2", "name": "Interactive Programming in Python (Part 2)", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "java-programming", "name": "Java Programming: Solving Problems with Software", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "java-programming-arrays-lists-data", "name": "Java Programming: Arrays, Lists, and Structured Data", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "object-oriented-programming-in-java", "name": "Object Oriented Programming in Java", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "c-for-everyone", "name": "C for Everyone: Programming Fundamentals", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "programming-languages", "name": "Programming Languages", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "algorithms-part1", "name": "Algorithms, Part I", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
+{"slug": "algorithms-part2", "name": "Algorithms, Part II", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
+{"slug": "data-structures-algorithms", "name": "Data Structures and Algorithms", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
+{"slug": "algorithmic-toolbox", "name": "Algorithmic Toolbox", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
+{"slug": "data-structures", "name": "Data Structures", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
+{"slug": "algorithms-on-graphs", "name": "Algorithms on Graphs", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
+{"slug": "algorithms-on-strings", "name": "Algorithms on Strings", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
+{"slug": "advanced-algorithms-and-complexity", "name": "Advanced Algorithms and Complexity", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
+{"slug": "data-structures-and-performance", "name": "Data Structures and Performance", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
+{"slug": "computer-science-algorithms-theory-machines", "name": "Computer Science: Algorithms, Theory, and Machines", "category": "Computer Science / Theory", "enabled": true}
+{"slug": "computer-science-programming-with-a-purpose", "name": "Computer Science: Programming with a Purpose", "category": "Computer Science / Fundamentals", "enabled": true}
+{"slug": "computational-thinking-problem-solving", "name": "Computational Thinking for Problem Solving", "category": "Computer Science / Fundamentals", "enabled": true}
+{"slug": "introduction-to-discrete-mathematics-for-computer-science", "name": "Intro to Discrete Math for Computer Science", "category": "Computer Science / Fundamentals", "enabled": true}
+{"slug": "introduction-to-computer-science-and-programming", "name": "Introduction to Computer Science and Programming", "category": "Computer Science / Fundamentals", "enabled": true}
+{"slug": "html-css-javascript-for-web-developers", "name": "HTML, CSS, and Javascript for Web Developers", "category": "Computer Science / Web Development", "enabled": true}
+{"slug": "front-end-web-development-with-react", "name": "Front-End Web Development with React", "category": "Computer Science / Web Development", "enabled": true}
+{"slug": "server-side-development-with-nodejs-express-and-mongodb", "name": "Server-side Development with NodeJS", "category": "Computer Science / Web Development", "enabled": true}
+{"slug": "full-stack-web-development", "name": "Full Stack Web Development", "category": "Computer Science / Web Development", "enabled": true}
+{"slug": "web-development", "name": "Web Development", "category": "Computer Science / Web Development", "enabled": true}
+{"slug": "responsive-web-design", "name": "Responsive Web Design", "category": "Computer Science / Web Development", "enabled": true}
+{"slug": "sql-for-data-science", "name": "SQL for Data Science", "category": "Computer Science / Databases", "enabled": true}
+{"slug": "introduction-to-databases", "name": "Introduction to Databases", "category": "Computer Science / Databases", "enabled": true}
+{"slug": "foundations-of-cybersecurity", "name": "Foundations of Cybersecurity", "category": "Computer Science / Cybersecurity", "enabled": true}
+{"slug": "introduction-to-cybersecurity-tools-and-cyber-attacks", "name": "Introduction to Cybersecurity Tools and Cyber Attacks", "category": "Computer Science / Cybersecurity", "enabled": true}
+{"slug": "cryptography", "name": "Cryptography I", "category": "Computer Science / Cybersecurity", "enabled": true}
+{"slug": "computer-security", "name": "Computer Security", "category": "Computer Science / Cybersecurity", "enabled": true}
+{"slug": "network-security", "name": "Network Security", "category": "Computer Science / Cybersecurity", "enabled": true}
+{"slug": "cybersecurity-compliance-framework-standards-regulations", "name": "Cybersecurity Compliance Framework", "category": "Computer Science / Cybersecurity", "enabled": true}
+{"slug": "ethical-hacking", "name": "Ethical Hacking", "category": "Computer Science / Cybersecurity", "enabled": true}
+{"slug": "introduction-to-cloud-computing", "name": "Introduction to Cloud Computing", "category": "Computer Science / Cloud Computing", "enabled": true}
+{"slug": "google-cloud-fundamentals-core-infrastructure", "name": "Google Cloud Fundamentals: Core Infrastructure", "category": "Computer Science / Cloud Computing", "enabled": true}
+{"slug": "aws-cloud-technical-essentials", "name": "AWS Cloud Technical Essentials", "category": "Computer Science / Cloud Computing", "enabled": true}
+{"slug": "aws-fundamentals", "name": "AWS Fundamentals", "category": "Computer Science / Cloud Computing", "enabled": true}
+{"slug": "developing-applications-with-google-cloud", "name": "Developing Applications with Google Cloud", "category": "Computer Science / Cloud Computing", "enabled": true}
+{"slug": "data-engineering-with-google-cloud", "name": "Data Engineering with Google Cloud", "category": "Computer Science / Cloud Computing", "enabled": true}
+{"slug": "introduction-to-software-engineering", "name": "Introduction to Software Engineering", "category": "Computer Science / Software Engineering", "enabled": true}
+{"slug": "software-development-lifecycle", "name": "Software Development Lifecycle", "category": "Computer Science / Software Engineering", "enabled": true}
+{"slug": "agile-project-management", "name": "Agile Project Management", "category": "Computer Science / Software Engineering", "enabled": true}
+{"slug": "java-programming-and-software-engineering-fundamentals", "name": "Java Programming and Software Engineering Fundamentals", "category": "Computer Science / Software Engineering", "enabled": true}
+{"slug": "computer-networking", "name": "The Bits and Bytes of Computer Networking", "category": "Computer Science / Computer Networks", "enabled": true}
+{"slug": "operating-systems", "name": "Operating Systems and You: Becoming a Power User", "category": "Computer Science / Operating Systems", "enabled": true}
+{"slug": "system-administration-it-infrastructure-services", "name": "System Administration and IT Infrastructure", "category": "Computer Science / IT Support", "enabled": true}
+{"slug": "technical-support-fundamentals", "name": "Technical Support Fundamentals", "category": "Computer Science / IT Support", "enabled": true}
+{"slug": "what-is-data-science", "name": "What is Data Science?", "category": "Computer Science / Data Science", "enabled": true}
+{"slug": "introduction-to-data-science-in-python", "name": "Introduction to Data Science in Python", "category": "Computer Science / Data Science", "enabled": true}
+{"slug": "data-science-methodology", "name": "Data Science Methodology", "category": "Computer Science / Data Science", "enabled": true}
+{"slug": "data-analysis-with-python", "name": "Data Analysis with Python", "category": "Computer Science / Data Science", "enabled": true}
+{"slug": "applied-data-science-with-python", "name": "Applied Data Science with Python", "category": "Computer Science / Data Science", "enabled": true}
+{"slug": "r-programming", "name": "R Programming", "category": "Computer Science / Data Science", "enabled": true}
+{"slug": "linux-and-bash-for-data-engineering", "name": "Linux and Bash for Data Engineering", "category": "Computer Science / DevOps", "enabled": true}
+{"slug": "introduction-to-devops", "name": "Introduction to DevOps", "category": "Computer Science / DevOps", "enabled": true}
+{"slug": "docker-kubernetes-the-big-picture", "name": "Docker and Kubernetes: The Big Picture", "category": "Computer Science / DevOps", "enabled": true}
+{"slug": "blockchain-basics", "name": "Blockchain Basics", "category": "Computer Science / Blockchain", "enabled": true}
+{"slug": "bitcoin-and-cryptocurrency-technologies", "name": "Bitcoin and Cryptocurrency Technologies", "category": "Computer Science / Blockchain", "enabled": true}
+{"slug": "mobile-app-development", "name": "Mobile App Development", "category": "Computer Science / Mobile Development", "enabled": true}
+{"slug": "ios-app-development-basics", "name": "iOS App Development Basics", "category": "Computer Science / Mobile Development", "enabled": true}
+{"slug": "android-app-development", "name": "Android App Development", "category": "Computer Science / Mobile Development", "enabled": true}
+{"slug": "distributed-systems", "name": "Distributed Systems", "category": "Computer Science / Systems", "enabled": true}
+{"slug": "computer-architecture", "name": "Computer Architecture", "category": "Computer Science / Systems", "enabled": true}
+{"slug": "compilers", "name": "Compilers", "category": "Computer Science / Systems", "enabled": true}
+{"slug": "introduction-to-computer-networks", "name": "Introduction to Computer Networks", "category": "Computer Science / Computer Networks", "enabled": true}
+{"slug": "build-a-computer", "name": "Build a Modern Computer from First Principles (Nand to Tetris)", "category": "Computer Science / Systems", "enabled": true}
+{"slug": "introduction-to-artificial-intelligence-ai", "name": "Introduction to Artificial Intelligence (AI)", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "fundamentals-of-machine-learning-and-ai", "name": "Fundamentals of Machine Learning and AI", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "nuts-and-bolts-of-machine-learning", "name": "The Nuts and Bolts of Machine Learning", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "getting-started-with-tensorflow2", "name": "Getting Started with TensorFlow 2", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "cyber-security-essentials", "name": "Cyber Security Essentials", "category": "Computer Science / Cybersecurity", "enabled": true}
+{"slug": "it-fundamentals-for-cybersecurity", "name": "IT Fundamentals for Cybersecurity", "category": "Computer Science / Cybersecurity", "enabled": true}
+{"slug": "usable-security", "name": "Usable Security", "category": "Computer Science / Cybersecurity", "enabled": true}
+{"slug": "design-patterns", "name": "Design Patterns", "category": "Computer Science / Software Engineering", "enabled": true}
+{"slug": "introduction-to-software-product-management", "name": "Introduction to Software Product Management", "category": "Computer Science / Software Engineering", "enabled": true}
+{"slug": "programming-fundamentals", "name": "Programming Fundamentals", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "object-oriented-data-structures-cpp", "name": "Object-Oriented Data Structures in C++", "category": "Computer Science / Programming", "enabled": true}
+{"slug": "cloud-computing-concepts-part1", "name": "Cloud Computing Concepts Part 1", "category": "Computer Science / Cloud Computing", "enabled": true}
+{"slug": "modern-big-data-analysis-sql", "name": "Modern Big Data Analysis with SQL", "category": "Computer Science / Databases", "enabled": true}
+{"slug": "python-for-data-visualization", "name": "Python for Data Visualization", "category": "Computer Science / Data Science", "enabled": true}
+{"slug": "human-centered-design-introduction", "name": "Human-Centered Design: an Introduction", "category": "Computer Science / HCI & UX", "enabled": true}
+{"slug": "introduction-to-ui-design", "name": "Introduction to UI Design", "category": "Computer Science / HCI & UX", "enabled": true}
+{"slug": "design-principles-introduction", "name": "Design Principles: an Introduction", "category": "Computer Science / HCI & UX", "enabled": true}
+{"slug": "foundations-of-user-experience-design", "name": "Foundations of User Experience (UX) Design", "category": "Computer Science / HCI & UX", "enabled": true}
+{"slug": "web-applications-for-everybody", "name": "Web Applications for Everybody", "category": "Computer Science / Web Development", "enabled": true}
+{"slug": "introduction-to-cybersecurity-essentials", "name": "Introduction to Cybersecurity Essentials", "category": "Computer Science / Cybersecurity", "enabled": true}
+{"slug": "machine-learning-in-production", "name": "Machine Learning in Production", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "agile-meets-design-thinking", "name": "Agile Meets Design Thinking", "category": "Computer Science / Software Engineering", "enabled": true}
+{"slug": "java-programming-software-engineering-fundamentals", "name": "Java Programming and Software Engineering Fundamentals", "category": "Computer Science / Software Engineering", "enabled": true}
+{"slug": "foundations-of-digital-marketing-and-e-commerce", "name": "Foundations of Digital Marketing and E-commerce", "category": "Business / Marketing", "enabled": true}
+{"slug": "introduction-to-social-media-marketing", "name": "Introduction to Social Media Marketing", "category": "Business / Marketing", "enabled": true}
+{"slug": "marketing-in-a-digital-world", "name": "Marketing in a Digital World", "category": "Business / Marketing", "enabled": true}
+{"slug": "brand-management-aligning-business-brand-and-behaviour", "name": "Brand Management: Aligning Business, Brand and Behaviour", "category": "Business / Marketing", "enabled": true}
+{"slug": "viral-marketing-and-how-to-craft-contagious-content", "name": "Viral Marketing and How to Craft Contagious Content", "category": "Business / Marketing", "enabled": true}
+{"slug": "the-strategy-of-content-marketing", "name": "The Strategy of Content Marketing", "category": "Business / Marketing", "enabled": true}
+{"slug": "wharton-marketing", "name": "Introduction to Marketing", "category": "Business / Marketing", "enabled": true}
+{"slug": "digital-marketing", "name": "Digital Marketing", "category": "Business / Marketing", "enabled": true}
+{"slug": "marketing-analytics", "name": "Marketing Analytics", "category": "Business / Marketing", "enabled": true}
+{"slug": "international-marketing", "name": "International Marketing", "category": "Business / Marketing", "enabled": true}
+{"slug": "social-media-marketing", "name": "Social Media Marketing", "category": "Business / Marketing", "enabled": true}
+{"slug": "content-marketing", "name": "Content Marketing", "category": "Business / Marketing", "enabled": true}
+{"slug": "financial-markets", "name": "Financial Markets", "category": "Business / Finance", "enabled": true}
+{"slug": "wharton-financial-accounting", "name": "Introduction to Financial Accounting", "category": "Business / Finance", "enabled": true}
+{"slug": "wharton-finance-accounting", "name": "Introduction to Finance and Accounting", "category": "Business / Finance", "enabled": true}
+{"slug": "wharton-corporate-finance", "name": "Introduction to Corporate Finance", "category": "Business / Finance", "enabled": true}
+{"slug": "behavioral-finance", "name": "Behavioral Finance", "category": "Business / Finance", "enabled": true}
+{"slug": "finance-for-non-finance-professionals", "name": "Finance for Non-Finance Professionals", "category": "Business / Finance", "enabled": true}
+{"slug": "corporate-finance-essentials", "name": "Corporate Finance Essentials", "category": "Business / Finance", "enabled": true}
+{"slug": "introduction-to-financial-markets", "name": "Introduction to Financial Markets", "category": "Business / Finance", "enabled": true}
+{"slug": "finance-for-non-financial-managers", "name": "Finance for Non-Financial Managers", "category": "Business / Finance", "enabled": true}
+{"slug": "investment-management", "name": "Investment Management", "category": "Business / Finance", "enabled": true}
+{"slug": "private-equity-and-venture-capital", "name": "Private Equity and Venture Capital", "category": "Business / Finance", "enabled": true}
+{"slug": "financial-planning", "name": "Financial Planning for Young Adults", "category": "Business / Finance", "enabled": true}
+{"slug": "foundations-of-project-management", "name": "Foundations of Project Management", "category": "Business / Project Management", "enabled": true}
+{"slug": "project-initiation-starting-a-successful-project", "name": "Project Initiation: Starting a Successful Project", "category": "Business / Project Management", "enabled": true}
+{"slug": "project-planning-putting-it-all-together", "name": "Project Planning: Putting It All Together", "category": "Business / Project Management", "enabled": true}
+{"slug": "project-execution-running-the-project", "name": "Project Execution: Running the Project", "category": "Business / Project Management", "enabled": true}
+{"slug": "project-management-capstone", "name": "Capstone: Applying Project Management in the Real World", "category": "Business / Project Management", "enabled": true}
+{"slug": "initiating-and-planning-projects", "name": "Initiating and Planning Projects", "category": "Business / Project Management", "enabled": true}
+{"slug": "budgeting-and-scheduling-projects", "name": "Budgeting and Scheduling Projects", "category": "Business / Project Management", "enabled": true}
+{"slug": "how-to-start-your-own-business", "name": "How to Start Your Own Business", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "basics-of-entrepreneurship-thinking-and-doing", "name": "Basics of Entrepreneurship: Thinking and Doing", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "entrepreneurship-launching-innovative-business", "name": "Entrepreneurship: Launching an Innovative Business", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "developing-innovative-ideas-for-new-ventures", "name": "Developing Innovative Ideas for New Ventures", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "innovation-for-entrepreneurs", "name": "Innovation for Entrepreneurs: From Idea to Marketplace", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "new-venture-finance", "name": "New Venture Finance: Startup Funding for Entrepreneurs", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "entrepreneurship-capstone", "name": "Entrepreneurship Capstone", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "design-thinking-for-innovation", "name": "Design Thinking for Innovation", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "strategic-leadership-and-management", "name": "Strategic Leadership and Management", "category": "Business / Leadership", "enabled": true}
+{"slug": "negotiation-skills", "name": "Successful Negotiation: Essential Strategies and Skills", "category": "Business / Leadership", "enabled": true}
+{"slug": "leading-people-and-teams", "name": "Leading People and Teams", "category": "Business / Leadership", "enabled": true}
+{"slug": "inspiring-and-motivating-individuals", "name": "Inspiring and Motivating Individuals", "category": "Business / Leadership", "enabled": true}
+{"slug": "managing-talent", "name": "Managing Talent", "category": "Business / Leadership", "enabled": true}
+{"slug": "organizational-analysis", "name": "Organizational Analysis", "category": "Business / Leadership", "enabled": true}
+{"slug": "high-performance-collaboration", "name": "High Performance Collaboration: Leadership, Teamwork, and Negotiation", "category": "Business / Leadership", "enabled": true}
+{"slug": "leadership-and-emotional-intelligence", "name": "Leadership and Emotional Intelligence", "category": "Business / Leadership", "enabled": true}
+{"slug": "foundations-of-everyday-leadership", "name": "Foundations of Everyday Leadership", "category": "Business / Leadership", "enabled": true}
+{"slug": "communication-strategies-for-a-virtual-age", "name": "Communication Strategies for a Virtual Age", "category": "Business / Leadership", "enabled": true}
+{"slug": "business-foundations", "name": "Business Foundations", "category": "Business / Strategy", "enabled": true}
+{"slug": "business-strategy", "name": "Business Strategy", "category": "Business / Strategy", "enabled": true}
+{"slug": "foundations-of-business-strategy", "name": "Foundations of Business Strategy", "category": "Business / Strategy", "enabled": true}
+{"slug": "business-and-financial-modeling", "name": "Business and Financial Modeling", "category": "Business / Strategy", "enabled": true}
+{"slug": "introduction-to-business", "name": "Introduction to Business", "category": "Business / Strategy", "enabled": true}
+{"slug": "strengthen-your-business-savvy", "name": "Strengthen Your Business Savvy", "category": "Business / Strategy", "enabled": true}
+{"slug": "boost-your-business-skills", "name": "Boost Your Business Skills", "category": "Business / Strategy", "enabled": true}
+{"slug": "competitive-strategy", "name": "Competitive Strategy", "category": "Business / Strategy", "enabled": true}
+{"slug": "business-model-canvas", "name": "Business Model Canvas", "category": "Business / Strategy", "enabled": true}
+{"slug": "strategic-management", "name": "Strategic Management", "category": "Business / Strategy", "enabled": true}
+{"slug": "business-analytics", "name": "Business Analytics", "category": "Business / Analytics", "enabled": true}
+{"slug": "business-analysis-process-management", "name": "Business Analysis and Process Management", "category": "Business / Analytics", "enabled": true}
+{"slug": "foundations-of-marketing-analytics", "name": "Foundations of Marketing Analytics", "category": "Business / Analytics", "enabled": true}
+{"slug": "customer-analytics", "name": "Customer Analytics", "category": "Business / Analytics", "enabled": true}
+{"slug": "operations-analytics", "name": "Operations Analytics", "category": "Business / Analytics", "enabled": true}
+{"slug": "people-analytics", "name": "People Analytics", "category": "Business / Analytics", "enabled": true}
+{"slug": "accounting-analytics", "name": "Accounting Analytics", "category": "Business / Analytics", "enabled": true}
+{"slug": "supply-chain-management", "name": "Supply Chain Management", "category": "Business / Supply Chain", "enabled": true}
+{"slug": "operations-management", "name": "Operations Management", "category": "Business / Supply Chain", "enabled": true}
+{"slug": "supply-chain-principles", "name": "Supply Chain Principles", "category": "Business / Supply Chain", "enabled": true}
+{"slug": "supply-chain-logistics", "name": "Supply Chain Logistics", "category": "Business / Supply Chain", "enabled": true}
+{"slug": "supply-chain-planning", "name": "Supply Chain Planning", "category": "Business / Supply Chain", "enabled": true}
+{"slug": "supply-chain-sourcing", "name": "Supply Chain Sourcing", "category": "Business / Supply Chain", "enabled": true}
+{"slug": "microeconomics", "name": "Microeconomics: The Power of Markets", "category": "Business / Economics", "enabled": true}
+{"slug": "macroeconomics", "name": "Macroeconomics for Business Management", "category": "Business / Economics", "enabled": true}
+{"slug": "game-theory", "name": "Game Theory", "category": "Business / Economics", "enabled": true}
+{"slug": "country-level-economics", "name": "Country Level Economics: Macroeconomic Variables and Markets", "category": "Business / Economics", "enabled": true}
+{"slug": "firm-level-economics", "name": "Firm Level Economics: Consumer and Producer Behavior", "category": "Business / Economics", "enabled": true}
+{"slug": "international-business", "name": "International Business", "category": "Business / Economics", "enabled": true}
+{"slug": "globalization-and-business", "name": "Globalization and Business", "category": "Business / Economics", "enabled": true}
+{"slug": "business-writing", "name": "Business Writing", "category": "Business / Communication", "enabled": true}
+{"slug": "business-english", "name": "Business English: Networking", "category": "Business / Communication", "enabled": true}
+{"slug": "effective-communication", "name": "Effective Communication: Writing, Design, and Presentation", "category": "Business / Communication", "enabled": true}
+{"slug": "presentation-skills", "name": "Presentation Skills: Speechwriting, Slides and Delivery", "category": "Business / Communication", "enabled": true}
+{"slug": "public-speaking", "name": "Introduction to Public Speaking", "category": "Business / Communication", "enabled": true}
+{"slug": "human-resource-management", "name": "Human Resource Management: HR for People Managers", "category": "Business / Human Resources", "enabled": true}
+{"slug": "recruiting-hiring-and-onboarding-employees", "name": "Recruiting, Hiring, and Onboarding Employees", "category": "Business / Human Resources", "enabled": true}
+{"slug": "managing-employee-performance", "name": "Managing Employee Performance", "category": "Business / Human Resources", "enabled": true}
+{"slug": "diversity-and-inclusion-in-the-workplace", "name": "Diversity and Inclusion in the Workplace", "category": "Business / Human Resources", "enabled": true}
+{"slug": "digital-product-management", "name": "Digital Product Management", "category": "Business / Product Management", "enabled": true}
+{"slug": "product-management-an-introduction", "name": "Product Management: An Introduction", "category": "Business / Product Management", "enabled": true}
+{"slug": "gamification", "name": "Gamification", "category": "Business / Innovation", "enabled": true}
+{"slug": "key-technologies-for-business", "name": "Key Technologies for Business", "category": "Business / Technology", "enabled": true}
+{"slug": "business-intelligence", "name": "Business Intelligence", "category": "Business / Analytics", "enabled": true}
+{"slug": "digital-transformation", "name": "Digital Transformation", "category": "Business / Strategy", "enabled": true}
+{"slug": "negotiation-mediation-and-conflict-resolution", "name": "Negotiation, Mediation, and Conflict Resolution", "category": "Business / Leadership", "enabled": true}
+{"slug": "business-english-networking", "name": "Business English: Networking", "category": "Business / Communication", "enabled": true}
+{"slug": "supply-chain-operations", "name": "Supply Chain Operations", "category": "Business / Supply Chain", "enabled": true}
+{"slug": "international-business-essentials", "name": "International Business Essentials", "category": "Business / Economics", "enabled": true}
+{"slug": "foundations-of-digital-marketing", "name": "Foundations of Digital Marketing", "category": "Business / Marketing", "enabled": true}
+{"slug": "google-digital-marketing-ecommerce", "name": "Google Digital Marketing and E-commerce", "category": "Business / Marketing", "enabled": true}
+{"slug": "wharton-accounting", "name": "Introduction to Financial Accounting", "category": "Business / Accounting", "enabled": true}
+{"slug": "wharton-operations", "name": "Introduction to Operations Management", "category": "Business / Operations", "enabled": true}
+{"slug": "foundations-business-strategy", "name": "Foundations of Business Strategy", "category": "Business / Business Strategy", "enabled": true}
+{"slug": "introduction-to-digital-marketing", "name": "Introduction to Digital Marketing", "category": "Business / Digital Marketing", "enabled": true}
+{"slug": "marketing-digital", "name": "Marketing in a Digital World", "category": "Business / Digital Marketing", "enabled": true}
+{"slug": "successful-negotiation", "name": "Successful Negotiation: Essential Strategies and Skills", "category": "Business / Negotiation", "enabled": true}
+{"slug": "supply-chain-excellence", "name": "Supply Chain Excellence", "category": "Business / Supply Chain", "enabled": true}
+{"slug": "organizational-leadership", "name": "Organizational Leadership", "category": "Business / Leadership", "enabled": true}
+{"slug": "leading-people-teams", "name": "Leading People and Teams", "category": "Business / Leadership", "enabled": true}
+{"slug": "management-fundamentals", "name": "Management Fundamentals", "category": "Business / Management", "enabled": true}
+{"slug": "fundamentals-of-management", "name": "Fundamentals of Management", "category": "Business / Management", "enabled": true}
+{"slug": "principles-of-management", "name": "Principles of Management", "category": "Business / Management", "enabled": true}
+{"slug": "finance-for-non-finance", "name": "Finance for Non-Finance Professionals", "category": "Business / Finance", "enabled": true}
+{"slug": "financial-accounting-fundamentals", "name": "Financial Accounting Fundamentals", "category": "Business / Accounting", "enabled": true}
+{"slug": "financial-management", "name": "Financial Management", "category": "Business / Finance", "enabled": true}
+{"slug": "entrepreneurship-1", "name": "Entrepreneurship 1: Developing the Opportunity", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "entrepreneurship-2", "name": "Entrepreneurship 2: Launching Your Start-Up", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "entrepreneurship-3", "name": "Entrepreneurship 3: Growth Strategies", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "how-start-business", "name": "How to Start Your Own Business", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "basics-entrepreneurship", "name": "Basics of Entrepreneurship: Thinking and Doing", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "startup-entrepreneurship", "name": "Startup Entrepreneurship", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "innovation-creativity-entrepreneurship", "name": "Innovation: From Creativity to Entrepreneurship", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "microeconomics-power-markets", "name": "Microeconomics: The Power of Markets", "category": "Business / Economics", "enabled": true}
+{"slug": "microeconomics-principles", "name": "Microeconomics Principles", "category": "Business / Economics", "enabled": true}
+{"slug": "economics-money-banking", "name": "Economics of Money and Banking", "category": "Business / Economics", "enabled": true}
+{"slug": "globalization-economic-growth-stability", "name": "Globalization, Economic Growth and Stability", "category": "Business / International Business", "enabled": true}
+{"slug": "fundamentals-international-business", "name": "Fundamentals of International Business", "category": "Business / International Business", "enabled": true}
+{"slug": "business-communication", "name": "Business Communication", "category": "Business / Communication", "enabled": true}
+{"slug": "improving-communication-skills", "name": "Improving Communication Skills", "category": "Business / Communication", "enabled": true}
+{"slug": "business-english-communication-skills", "name": "Business English Communication Skills", "category": "Business / Communication", "enabled": true}
+{"slug": "marketing-strategy", "name": "Marketing Strategy", "category": "Business / Marketing", "enabled": true}
+{"slug": "brand-management", "name": "Brand Management: Aligning Business, Brand and Behaviour", "category": "Business / Marketing", "enabled": true}
+{"slug": "integrated-marketing-communications", "name": "Integrated Marketing Communications", "category": "Business / Marketing", "enabled": true}
+{"slug": "business-and-marketing-strategies", "name": "Business and Marketing Strategies", "category": "Business / Marketing", "enabled": true}
+{"slug": "excel-skills-business-essentials", "name": "Excel Skills for Business: Essentials", "category": "Business / Business Essentials", "enabled": true}
+{"slug": "excel-skills-business-intermediate-1", "name": "Excel Skills for Business: Intermediate I", "category": "Business / Business Essentials", "enabled": true}
+{"slug": "excel-skills-business-intermediate-2", "name": "Excel Skills for Business: Intermediate II", "category": "Business / Business Essentials", "enabled": true}
+{"slug": "excel-skills-business-advanced", "name": "Excel Skills for Business: Advanced", "category": "Business / Business Essentials", "enabled": true}
+{"slug": "business-intelligence-tools", "name": "Business Intelligence Concepts, Tools, and Applications", "category": "Business / Business Analytics", "enabled": true}
+{"slug": "introduction-to-data-analytics", "name": "Introduction to Data Analytics", "category": "Business / Business Analytics", "enabled": true}
+{"slug": "data-driven-decision-making", "name": "Data-Driven Decision Making", "category": "Business / Business Analytics", "enabled": true}
+{"slug": "foundations-of-digital-marketing-and-ecommerce", "name": "Foundations of Digital Marketing and E-commerce", "category": "Business / Digital Marketing", "enabled": true}
+{"slug": "attract-and-engage-customers-with-digital-marketing", "name": "Attract and Engage Customers with Digital Marketing", "category": "Business / Digital Marketing", "enabled": true}
+{"slug": "think-outside-the-inbox-email-marketing", "name": "Think Outside the Inbox: Email Marketing", "category": "Business / Digital Marketing", "enabled": true}
+{"slug": "make-the-sale-build-launch-manage-ecommerce", "name": "Make the Sale: Build, Launch, and Manage E-commerce Stores", "category": "Business / E-commerce", "enabled": true}
+{"slug": "project-initiation-starting-successful-project", "name": "Project Initiation: Starting a Successful Project", "category": "Business / Project Management", "enabled": true}
+{"slug": "project-execution-running-project", "name": "Project Execution: Running the Project", "category": "Business / Project Management", "enabled": true}
+{"slug": "capstone-applying-project-management", "name": "Capstone: Applying Project Management in the Real World", "category": "Business / Project Management", "enabled": true}
+{"slug": "introduction-to-project-management", "name": "Introduction to Project Management", "category": "Business / Project Management", "enabled": true}
+{"slug": "construction-project-management", "name": "Construction Project Management", "category": "Business / Project Management", "enabled": true}
+{"slug": "engineering-project-management", "name": "Engineering Project Management", "category": "Business / Project Management", "enabled": true}
+{"slug": "ibm-project-manager", "name": "IBM Project Manager Professional Certificate", "category": "Business / Project Management", "enabled": true}
+{"slug": "microsoft-project-management", "name": "Microsoft Project Management", "category": "Business / Project Management", "enabled": true}
+{"slug": "supply-chain-analytics", "name": "Supply Chain Analytics", "category": "Business / Supply Chain Analytics", "enabled": true}
+{"slug": "art-of-negotiation", "name": "The Art of Negotiation", "category": "Business / Negotiation", "enabled": true}
+{"slug": "negotiation-fundamentals", "name": "Negotiation Fundamentals", "category": "Business / Negotiation", "enabled": true}
+{"slug": "negotiation-mediation-conflict-resolution", "name": "Negotiation, Mediation and Conflict Resolution", "category": "Business / Negotiation", "enabled": true}
+{"slug": "new-models-business-society", "name": "New Models of Business in Society", "category": "Business / Business Strategy", "enabled": true}
+{"slug": "global-impact-business-ethics", "name": "Global Impact: Business Ethics", "category": "Business / Business Ethics", "enabled": true}
+{"slug": "global-impact-multiculturalism", "name": "Global Impact: Multiculturalism", "category": "Business / International Business", "enabled": true}
+{"slug": "global-challenges-in-business", "name": "Global Challenges in Business", "category": "Business / International Business", "enabled": true}
+{"slug": "people-management-essentials", "name": "Google People Management Essentials", "category": "Business / HR & People Management", "enabled": true}
+{"slug": "introduction-to-finance-basics", "name": "Introduction to Finance: The Basics", "category": "Business / Finance", "enabled": true}
+{"slug": "finance-for-managers", "name": "Finance for Managers", "category": "Business / Finance", "enabled": true}
+{"slug": "discounted-cash-flow-modeling", "name": "Discounted Cash Flow Modeling", "category": "Business / Finance", "enabled": true}
+{"slug": "investment-risk-management", "name": "Investment Risk Management", "category": "Business / Finance", "enabled": true}
+{"slug": "financial-engineering-risk-management", "name": "Financial Engineering and Risk Management", "category": "Business / Finance", "enabled": true}
+{"slug": "private-equity-venture-capital", "name": "Private Equity and Venture Capital", "category": "Business / Finance", "enabled": true}
+{"slug": "strategic-business-leadership", "name": "Strategic Business Leadership", "category": "Business / Leadership", "enabled": true}
+{"slug": "effective-leadership-master-management-styles", "name": "Effective Leadership: Master Management Styles", "category": "Business / Leadership", "enabled": true}
+{"slug": "developing-yourself-as-a-leader", "name": "Developing Yourself as a Leader", "category": "Business / Leadership", "enabled": true}
+{"slug": "foundations-of-leadership", "name": "Foundations of Leadership", "category": "Business / Leadership", "enabled": true}
+{"slug": "boost-your-leadership-impact", "name": "Boost Your Leadership Impact", "category": "Business / Leadership", "enabled": true}
+{"slug": "global-procurement-and-sourcing", "name": "Global Procurement and Sourcing", "category": "Business / Supply Chain", "enabled": true}
+{"slug": "introduction-to-business-analysis", "name": "Introduction to Business Analysis", "category": "Business / Business Analysis", "enabled": true}
+{"slug": "ibm-business-analyst", "name": "IBM Business Analyst", "category": "Business / Business Analysis", "enabled": true}
+{"slug": "microsoft-business-analyst", "name": "Microsoft Business Analyst", "category": "Business / Business Analysis", "enabled": true}
+{"slug": "sap-business-analyst", "name": "SAP Business Analyst", "category": "Business / Business Analysis", "enabled": true}
+{"slug": "english-for-career-development", "name": "English for Career Development", "category": "Business / Communication", "enabled": true}
+{"slug": "emotional-intelligence-in-leadership", "name": "Emotional Intelligence in Leadership", "category": "Business / Leadership", "enabled": true}
+{"slug": "google-project-management", "name": "Google Project Management", "category": "Business / Project Management", "enabled": true}
+{"slug": "entrepreneurship-growing-your-business", "name": "Entrepreneurship: Growing Your Business", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "entrepreneurship-strategy-ideation-exit", "name": "Entrepreneurship Strategy: From Ideation to Exit", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "essentials-entrepreneurship-thinking-action", "name": "Essentials of Entrepreneurship: Thinking & Action", "category": "Business / Entrepreneurship", "enabled": true}
+{"slug": "influencing-people", "name": "Leadership and Influencing Skills", "category": "Business / Leadership", "enabled": true}
+{"slug": "global-business-communication", "name": "Global Business Communication", "category": "Business / Communication", "enabled": true}
