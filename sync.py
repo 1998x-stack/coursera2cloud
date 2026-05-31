@@ -42,6 +42,11 @@ def get_course_status(slug: str) -> dict:
     return load_status().get(slug, {})
 
 
+def is_course_complete(slug: str) -> bool:
+    s = get_course_status(slug)
+    return s.get("downloaded", False) and s.get("uploaded", False)
+
+
 def print_status() -> None:
     courses = load_courses()
     status = load_status()
@@ -368,6 +373,10 @@ def upload_course(baidu_bin: Path, config: dict, course: dict, local_dir: Path) 
 def process_course(coursera_cmd: list[str], baidu_bin: Path, config: dict, course: dict) -> bool:
     slug = course["slug"]
     retries = config["behavior"]["max_retries"]
+
+    if is_course_complete(slug):
+        logging.info("=== [%s] Already complete (status.json) — skipping ===", slug)
+        return True
 
     for attempt in range(1, retries + 1):
         logging.info("=== [%s] Attempt %d/%d ===", slug, attempt, retries)

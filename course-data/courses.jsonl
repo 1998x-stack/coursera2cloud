@@ -1,3 +1,5 @@
+{"slug": "executing-full-text-queries-with-elasticsearch", "name": "Executing Full Text Queries with Elasticsearch", "category": "Computer Science / Databases and Search", "enabled": true}
+{"slug": "information-theory", "name": "Information Theory", "category": "Computer Science / Theory", "enabled": true}
 {"slug": "machine-learning", "name": "Machine Learning", "category": "Computer Science / AI & Machine Learning", "enabled": false}
 {"slug": "ai-for-everyone", "name": "AI For Everyone", "category": "Computer Science / AI & Machine Learning", "enabled": false}
 {"slug": "neural-networks-deep-learning", "name": "Neural Networks and Deep Learning", "category": "Computer Science / AI & Machine Learning", "enabled": false}
@@ -219,3 +221,89 @@
 {"slug": "international-business-essentials", "name": "International Business Essentials", "category": "Business / Economics", "enabled": false}
 {"slug": "foundations-of-digital-marketing", "name": "Foundations of Digital Marketing", "category": "Business / Marketing", "enabled": false}
 {"slug": "google-digital-marketing-ecommerce", "name": "Google Digital Marketing and E-commerce", "category": "Business / Marketing", "enabled": false}
+{"slug": "wharton-accounting", "name": "Introduction to Financial Accounting", "category": "Business / Accounting", "enabled": false}
+{"slug": "wharton-operations", "name": "Introduction to Operations Management", "category": "Business / Operations", "enabled": false}
+{"slug": "foundations-business-strategy", "name": "Foundations of Business Strategy", "category": "Business / Business Strategy", "enabled": false}
+{"slug": "introduction-to-digital-marketing", "name": "Introduction to Digital Marketing", "category": "Business / Digital Marketing", "enabled": false}
+{"slug": "marketing-digital", "name": "Marketing in a Digital World", "category": "Business / Digital Marketing", "enabled": false}
+{"slug": "successful-negotiation", "name": "Successful Negotiation: Essential Strategies and Skills", "category": "Business / Negotiation", "enabled": false}
+{"slug": "supply-chain-excellence", "name": "Supply Chain Excellence", "category": "Business / Supply Chain", "enabled": false}
+{"slug": "organizational-leadership", "name": "Organizational Leadership", "category": "Business / Leadership", "enabled": false}
+{"slug": "leading-people-teams", "name": "Leading People and Teams", "category": "Business / Leadership", "enabled": false}
+{"slug": "management-fundamentals", "name": "Management Fundamentals", "category": "Business / Management", "enabled": false}
+{"slug": "fundamentals-of-management", "name": "Fundamentals of Management", "category": "Business / Management", "enabled": false}
+{"slug": "principles-of-management", "name": "Principles of Management", "category": "Business / Management", "enabled": false}
+{"slug": "finance-for-non-finance", "name": "Finance for Non-Finance Professionals", "category": "Business / Finance", "enabled": false}
+{"slug": "financial-accounting-fundamentals", "name": "Financial Accounting Fundamentals", "category": "Business / Accounting", "enabled": false}
+{"slug": "financial-management", "name": "Financial Management", "category": "Business / Finance", "enabled": false}
+{"slug": "entrepreneurship-1", "name": "Entrepreneurship 1: Developing the Opportunity", "category": "Business / Entrepreneurship", "enabled": false}
+{"slug": "entrepreneurship-2", "name": "Entrepreneurship 2: Launching Your Start-Up", "category": "Business / Entrepreneurship", "enabled": false}
+{"slug": "entrepreneurship-3", "name": "Entrepreneurship 3: Growth Strategies", "category": "Business / Entrepreneurship", "enabled": false}
+{"slug": "how-start-business", "name": "How to Start Your Own Business", "category": "Business / Entrepreneurship", "enabled": false}
+{"slug": "basics-entrepreneurship", "name": "Basics of Entrepreneurship: Thinking and Doing", "category": "Business / Entrepreneurship", "enabled": false}
+{"slug": "startup-entrepreneurship", "name": "Startup Entrepreneurship", "category": "Business / Entrepreneurship", "enabled": false}
+{"slug": "innovation-creativity-entrepreneurship", "name": "Innovation: From Creativity to Entrepreneurship", "category": "Business / Entrepreneurship", "enabled": false}
+{"slug": "microeconomics-power-markets", "name": "Microeconomics: The Power of Markets", "category": "Business / Economics", "enabled": false}
+{"slug": "microeconomics-principles", "name": "Microeconomics Principles", "category": "Business / Economics", "enabled": false}
+{"slug": "economics-money-banking", "name": "Economics of Money and Banking", "category": "Business / Economics", "enabled": false}
+{"slug": "globalization-economic-growth-stability", "name": "Globalization, Economic Growth and Stability", "category": "Business / International Business", "enabled": false}
+{"slug": "fundamentals-international-business", "name": "Fundamentals of International Business", "category": "Business / International Business", "enabled": false}
+{"slug": "business-communication", "name": "Business Communication", "category": "Business / Communication", "enabled": false}
+{"slug": "improving-communication-skills", "name": "Improving Communication Skills", "category": "Business / Communication", "enabled": false}
+{"slug": "business-english-communication-skills", "name": "Business English Communication Skills", "category": "Business / Communication", "enabled": false}
+{"slug": "marketing-strategy", "name": "Marketing Strategy", "category": "Business / Marketing", "enabled": false}
+{"slug": "brand-management", "name": "Brand Management: Aligning Business, Brand and Behaviour", "category": "Business / Marketing", "enabled": false}
+{"slug": "integrated-marketing-communications", "name": "Integrated Marketing Communications", "category": "Business / Marketing", "enabled": false}
+{"slug": "business-and-marketing-strategies", "name": "Business and Marketing Strategies", "category": "Business / Marketing", "enabled": false}
+{"slug": "excel-skills-business-essentials", "name": "Excel Skills for Business: Essentials", "category": "Business / Business Essentials", "enabled": false}
+{"slug": "excel-skills-business-intermediate-1", "name": "Excel Skills for Business: Intermediate I", "category": "Business / Business Essentials", "enabled": false}
+{"slug": "excel-skills-business-intermediate-2", "name": "Excel Skills for Business: Intermediate II", "category": "Business / Business Essentials", "enabled": false}
+{"slug": "excel-skills-business-advanced", "name": "Excel Skills for Business: Advanced", "category": "Business / Business Essentials", "enabled": false}
+{"slug": "business-intelligence-tools", "name": "Business Intelligence Concepts, Tools, and Applications", "category": "Business / Business Analytics", "enabled": false}
+{"slug": "introduction-to-data-analytics", "name": "Introduction to Data Analytics", "category": "Business / Business Analytics", "enabled": false}
+{"slug": "data-driven-decision-making", "name": "Data-Driven Decision Making", "category": "Business / Business Analytics", "enabled": false}
+{"slug": "foundations-of-digital-marketing-and-ecommerce", "name": "Foundations of Digital Marketing and E-commerce", "category": "Business / Digital Marketing", "enabled": false}
+{"slug": "attract-and-engage-customers-with-digital-marketing", "name": "Attract and Engage Customers with Digital Marketing", "category": "Business / Digital Marketing", "enabled": false}
+{"slug": "think-outside-the-inbox-email-marketing", "name": "Think Outside the Inbox: Email Marketing", "category": "Business / Digital Marketing", "enabled": false}
+{"slug": "make-the-sale-build-launch-manage-ecommerce", "name": "Make the Sale: Build, Launch, and Manage E-commerce Stores", "category": "Business / E-commerce", "enabled": false}
+{"slug": "project-initiation-starting-successful-project", "name": "Project Initiation: Starting a Successful Project", "category": "Business / Project Management", "enabled": false}
+{"slug": "project-execution-running-project", "name": "Project Execution: Running the Project", "category": "Business / Project Management", "enabled": false}
+{"slug": "capstone-applying-project-management", "name": "Capstone: Applying Project Management in the Real World", "category": "Business / Project Management", "enabled": false}
+{"slug": "introduction-to-project-management", "name": "Introduction to Project Management", "category": "Business / Project Management", "enabled": false}
+{"slug": "construction-project-management", "name": "Construction Project Management", "category": "Business / Project Management", "enabled": false}
+{"slug": "engineering-project-management", "name": "Engineering Project Management", "category": "Business / Project Management", "enabled": false}
+{"slug": "ibm-project-manager", "name": "IBM Project Manager Professional Certificate", "category": "Business / Project Management", "enabled": false}
+{"slug": "microsoft-project-management", "name": "Microsoft Project Management", "category": "Business / Project Management", "enabled": false}
+{"slug": "supply-chain-analytics", "name": "Supply Chain Analytics", "category": "Business / Supply Chain Analytics", "enabled": false}
+{"slug": "art-of-negotiation", "name": "The Art of Negotiation", "category": "Business / Negotiation", "enabled": false}
+{"slug": "negotiation-fundamentals", "name": "Negotiation Fundamentals", "category": "Business / Negotiation", "enabled": false}
+{"slug": "negotiation-mediation-conflict-resolution", "name": "Negotiation, Mediation and Conflict Resolution", "category": "Business / Negotiation", "enabled": false}
+{"slug": "new-models-business-society", "name": "New Models of Business in Society", "category": "Business / Business Strategy", "enabled": false}
+{"slug": "global-impact-business-ethics", "name": "Global Impact: Business Ethics", "category": "Business / Business Ethics", "enabled": false}
+{"slug": "global-impact-multiculturalism", "name": "Global Impact: Multiculturalism", "category": "Business / International Business", "enabled": false}
+{"slug": "global-challenges-in-business", "name": "Global Challenges in Business", "category": "Business / International Business", "enabled": false}
+{"slug": "people-management-essentials", "name": "Google People Management Essentials", "category": "Business / HR & People Management", "enabled": false}
+{"slug": "introduction-to-finance-basics", "name": "Introduction to Finance: The Basics", "category": "Business / Finance", "enabled": false}
+{"slug": "finance-for-managers", "name": "Finance for Managers", "category": "Business / Finance", "enabled": false}
+{"slug": "discounted-cash-flow-modeling", "name": "Discounted Cash Flow Modeling", "category": "Business / Finance", "enabled": false}
+{"slug": "investment-risk-management", "name": "Investment Risk Management", "category": "Business / Finance", "enabled": false}
+{"slug": "financial-engineering-risk-management", "name": "Financial Engineering and Risk Management", "category": "Business / Finance", "enabled": false}
+{"slug": "private-equity-venture-capital", "name": "Private Equity and Venture Capital", "category": "Business / Finance", "enabled": false}
+{"slug": "strategic-business-leadership", "name": "Strategic Business Leadership", "category": "Business / Leadership", "enabled": false}
+{"slug": "effective-leadership-master-management-styles", "name": "Effective Leadership: Master Management Styles", "category": "Business / Leadership", "enabled": false}
+{"slug": "developing-yourself-as-a-leader", "name": "Developing Yourself as a Leader", "category": "Business / Leadership", "enabled": false}
+{"slug": "foundations-of-leadership", "name": "Foundations of Leadership", "category": "Business / Leadership", "enabled": false}
+{"slug": "boost-your-leadership-impact", "name": "Boost Your Leadership Impact", "category": "Business / Leadership", "enabled": false}
+{"slug": "global-procurement-and-sourcing", "name": "Global Procurement and Sourcing", "category": "Business / Supply Chain", "enabled": false}
+{"slug": "introduction-to-business-analysis", "name": "Introduction to Business Analysis", "category": "Business / Business Analysis", "enabled": false}
+{"slug": "ibm-business-analyst", "name": "IBM Business Analyst", "category": "Business / Business Analysis", "enabled": false}
+{"slug": "microsoft-business-analyst", "name": "Microsoft Business Analyst", "category": "Business / Business Analysis", "enabled": false}
+{"slug": "sap-business-analyst", "name": "SAP Business Analyst", "category": "Business / Business Analysis", "enabled": false}
+{"slug": "english-for-career-development", "name": "English for Career Development", "category": "Business / Communication", "enabled": false}
+{"slug": "emotional-intelligence-in-leadership", "name": "Emotional Intelligence in Leadership", "category": "Business / Leadership", "enabled": false}
+{"slug": "google-project-management", "name": "Google Project Management", "category": "Business / Project Management", "enabled": false}
+{"slug": "entrepreneurship-growing-your-business", "name": "Entrepreneurship: Growing Your Business", "category": "Business / Entrepreneurship", "enabled": false}
+{"slug": "entrepreneurship-strategy-ideation-exit", "name": "Entrepreneurship Strategy: From Ideation to Exit", "category": "Business / Entrepreneurship", "enabled": false}
+{"slug": "essentials-entrepreneurship-thinking-action", "name": "Essentials of Entrepreneurship: Thinking & Action", "category": "Business / Entrepreneurship", "enabled": false}
+{"slug": "influencing-people", "name": "Leadership and Influencing Skills", "category": "Business / Leadership", "enabled": false}
+{"slug": "global-business-communication", "name": "Global Business Communication", "category": "Business / Communication", "enabled": false}
