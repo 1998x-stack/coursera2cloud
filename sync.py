@@ -14,6 +14,16 @@ import yaml
 
 PROJECT_ROOT = Path(__file__).resolve().parent
 STATE_FILE = PROJECT_ROOT / "logs" / "upload_state.json"
+COURSES_FILE = PROJECT_ROOT / "course-data" / "courses.jsonl"
+
+
+def load_courses() -> list[dict]:
+    courses = []
+    if COURSES_FILE.exists():
+        for line in COURSES_FILE.read_text().strip().split("\n"):
+            if line.strip():
+                courses.append(json.loads(line))
+    return courses
 
 
 def load_state() -> dict:
@@ -351,12 +361,13 @@ def main():
     coursera_cmd, baidu_bin = check_tools(config)
     login_baidu(baidu_bin, config)
 
-    enabled = [c for c in config["courses"] if c.get("enabled", True)]
+    courses = load_courses()
+    enabled = [c for c in courses if c.get("enabled", True)]
     if not enabled:
-        logging.warning("No enabled courses found in config.")
+        logging.warning("No enabled courses found in course-data/courses.jsonl.")
         return
 
-    logging.info("Courses to process: %d", len(enabled))
+    logging.info("Courses loaded: %d total, %d enabled", len(courses), len(enabled))
     results = {"ok": [], "fail": []}
 
     for i, course in enumerate(enabled):

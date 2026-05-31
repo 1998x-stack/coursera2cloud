@@ -8,4 +8,5 @@ bin/BaiduPCS-Go*
 config.yaml
 .env
 .DS_Store
-*-syllabus-parsed.json
+course-data/*.json
+!course-data/courses.jsonl
