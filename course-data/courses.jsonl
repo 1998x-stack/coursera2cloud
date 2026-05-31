@@ -1,27 +1,27 @@
 {"slug": "executing-full-text-queries-with-elasticsearch", "name": "Executing Full Text Queries with Elasticsearch", "category": "Computer Science / Databases and Search", "enabled": true}
 {"slug": "information-theory", "name": "Information Theory", "category": "Computer Science / Theory", "enabled": true}
-{"slug": "machine-learning", "name": "Machine Learning", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "ai-for-everyone", "name": "AI For Everyone", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "neural-networks-deep-learning", "name": "Neural Networks and Deep Learning", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "convolutional-neural-networks", "name": "Convolutional Neural Networks", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "nlp-sequence-models", "name": "Sequence Models", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "machine-learning-with-python", "name": "Machine Learning with Python", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "generative-ai-for-everyone", "name": "Generative AI for Everyone", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "introduction-to-generative-ai", "name": "Introduction to Generative AI", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "introduction-to-large-language-models", "name": "Introduction to Large Language Models", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "introduction-tensorflow", "name": "Introduction to TensorFlow", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "advanced-learning-algorithms", "name": "Advanced Learning Algorithms", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "unsupervised-learning-recommenders-reinforcement-learning", "name": "Unsupervised Learning, Recommenders, Reinforcement", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "deep-learning-specialization", "name": "Deep Learning Specialization", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "google-ai-essentials", "name": "Google AI Essentials", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "generative-ai-with-llms", "name": "Generative AI with Large Language Models", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "intro-to-gen-ai", "name": "Intro to Generative AI", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "prompt-engineering-for-chatgpt", "name": "Prompt Engineering for ChatGPT", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "tensorflow-advanced-techniques", "name": "TensorFlow: Advanced Techniques", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "natural-language-processing", "name": "Natural Language Processing", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "introduction-to-computer-vision", "name": "Introduction to Computer Vision", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "reinforcement-learning", "name": "Reinforcement Learning", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "responsible-ai", "name": "Responsible AI", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "machine-learning", "name": "Machine Learning", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "ai-for-everyone", "name": "AI For Everyone", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "neural-networks-deep-learning", "name": "Neural Networks and Deep Learning", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "convolutional-neural-networks", "name": "Convolutional Neural Networks", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "nlp-sequence-models", "name": "Sequence Models", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "machine-learning-with-python", "name": "Machine Learning with Python", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "generative-ai-for-everyone", "name": "Generative AI for Everyone", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "introduction-to-generative-ai", "name": "Introduction to Generative AI", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "introduction-to-large-language-models", "name": "Introduction to Large Language Models", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "introduction-tensorflow", "name": "Introduction to TensorFlow", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "advanced-learning-algorithms", "name": "Advanced Learning Algorithms", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "unsupervised-learning-recommenders-reinforcement-learning", "name": "Unsupervised Learning, Recommenders, Reinforcement", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "deep-learning-specialization", "name": "Deep Learning Specialization", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "google-ai-essentials", "name": "Google AI Essentials", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "generative-ai-with-llms", "name": "Generative AI with Large Language Models", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "intro-to-gen-ai", "name": "Intro to Generative AI", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "prompt-engineering-for-chatgpt", "name": "Prompt Engineering for ChatGPT", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "tensorflow-advanced-techniques", "name": "TensorFlow: Advanced Techniques", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "natural-language-processing", "name": "Natural Language Processing", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "introduction-to-computer-vision", "name": "Introduction to Computer Vision", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "reinforcement-learning", "name": "Reinforcement Learning", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "responsible-ai", "name": "Responsible AI", "category": "Computer Science / AI and Machine Learning", "enabled": true}
 {"slug": "python", "name": "Programming for Everybody (Python)", "category": "Computer Science / Programming", "enabled": true}
 {"slug": "python-data", "name": "Python Data Structures", "category": "Computer Science / Programming", "enabled": true}
 {"slug": "python-network-data", "name": "Using Python to Access Web Data", "category": "Computer Science / Programming", "enabled": true}
@@ -36,15 +36,15 @@
 {"slug": "object-oriented-programming-in-java", "name": "Object Oriented Programming in Java", "category": "Computer Science / Programming", "enabled": true}
 {"slug": "c-for-everyone", "name": "C for Everyone: Programming Fundamentals", "category": "Computer Science / Programming", "enabled": true}
 {"slug": "programming-languages", "name": "Programming Languages", "category": "Computer Science / Programming", "enabled": true}
-{"slug": "algorithms-part1", "name": "Algorithms, Part I", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
-{"slug": "algorithms-part2", "name": "Algorithms, Part II", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
-{"slug": "data-structures-algorithms", "name": "Data Structures and Algorithms", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
-{"slug": "algorithmic-toolbox", "name": "Algorithmic Toolbox", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
-{"slug": "data-structures", "name": "Data Structures", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
-{"slug": "algorithms-on-graphs", "name": "Algorithms on Graphs", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
-{"slug": "algorithms-on-strings", "name": "Algorithms on Strings", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
-{"slug": "advanced-algorithms-and-complexity", "name": "Advanced Algorithms and Complexity", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
-{"slug": "data-structures-and-performance", "name": "Data Structures and Performance", "category": "Computer Science / Data Structures & Algorithms", "enabled": true}
+{"slug": "algorithms-part1", "name": "Algorithms, Part I", "category": "Computer Science / Data Structures and Algorithms", "enabled": true}
+{"slug": "algorithms-part2", "name": "Algorithms, Part II", "category": "Computer Science / Data Structures and Algorithms", "enabled": true}
+{"slug": "data-structures-algorithms", "name": "Data Structures and Algorithms", "category": "Computer Science / Data Structures and Algorithms", "enabled": true}
+{"slug": "algorithmic-toolbox", "name": "Algorithmic Toolbox", "category": "Computer Science / Data Structures and Algorithms", "enabled": true}
+{"slug": "data-structures", "name": "Data Structures", "category": "Computer Science / Data Structures and Algorithms", "enabled": true}
+{"slug": "algorithms-on-graphs", "name": "Algorithms on Graphs", "category": "Computer Science / Data Structures and Algorithms", "enabled": true}
+{"slug": "algorithms-on-strings", "name": "Algorithms on Strings", "category": "Computer Science / Data Structures and Algorithms", "enabled": true}
+{"slug": "advanced-algorithms-and-complexity", "name": "Advanced Algorithms and Complexity", "category": "Computer Science / Data Structures and Algorithms", "enabled": true}
+{"slug": "data-structures-and-performance", "name": "Data Structures and Performance", "category": "Computer Science / Data Structures and Algorithms", "enabled": true}
 {"slug": "computer-science-algorithms-theory-machines", "name": "Computer Science: Algorithms, Theory, and Machines", "category": "Computer Science / Theory", "enabled": true}
 {"slug": "computer-science-programming-with-a-purpose", "name": "Computer Science: Programming with a Purpose", "category": "Computer Science / Fundamentals", "enabled": true}
 {"slug": "computational-thinking-problem-solving", "name": "Computational Thinking for Problem Solving", "category": "Computer Science / Fundamentals", "enabled": true}
@@ -98,10 +98,10 @@
 {"slug": "compilers", "name": "Compilers", "category": "Computer Science / Systems", "enabled": true}
 {"slug": "introduction-to-computer-networks", "name": "Introduction to Computer Networks", "category": "Computer Science / Computer Networks", "enabled": true}
 {"slug": "build-a-computer", "name": "Build a Modern Computer from First Principles (Nand to Tetris)", "category": "Computer Science / Systems", "enabled": true}
-{"slug": "introduction-to-artificial-intelligence-ai", "name": "Introduction to Artificial Intelligence (AI)", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "fundamentals-of-machine-learning-and-ai", "name": "Fundamentals of Machine Learning and AI", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "nuts-and-bolts-of-machine-learning", "name": "The Nuts and Bolts of Machine Learning", "category": "Computer Science / AI & Machine Learning", "enabled": true}
-{"slug": "getting-started-with-tensorflow2", "name": "Getting Started with TensorFlow 2", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "introduction-to-artificial-intelligence-ai", "name": "Introduction to Artificial Intelligence (AI)", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "fundamentals-of-machine-learning-and-ai", "name": "Fundamentals of Machine Learning and AI", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "nuts-and-bolts-of-machine-learning", "name": "The Nuts and Bolts of Machine Learning", "category": "Computer Science / AI and Machine Learning", "enabled": true}
+{"slug": "getting-started-with-tensorflow2", "name": "Getting Started with TensorFlow 2", "category": "Computer Science / AI and Machine Learning", "enabled": true}
 {"slug": "cyber-security-essentials", "name": "Cyber Security Essentials", "category": "Computer Science / Cybersecurity", "enabled": true}
 {"slug": "it-fundamentals-for-cybersecurity", "name": "IT Fundamentals for Cybersecurity", "category": "Computer Science / Cybersecurity", "enabled": true}
 {"slug": "usable-security", "name": "Usable Security", "category": "Computer Science / Cybersecurity", "enabled": true}
@@ -112,13 +112,13 @@
 {"slug": "cloud-computing-concepts-part1", "name": "Cloud Computing Concepts Part 1", "category": "Computer Science / Cloud Computing", "enabled": true}
 {"slug": "modern-big-data-analysis-sql", "name": "Modern Big Data Analysis with SQL", "category": "Computer Science / Databases", "enabled": true}
 {"slug": "python-for-data-visualization", "name": "Python for Data Visualization", "category": "Computer Science / Data Science", "enabled": true}
-{"slug": "human-centered-design-introduction", "name": "Human-Centered Design: an Introduction", "category": "Computer Science / HCI & UX", "enabled": true}
-{"slug": "introduction-to-ui-design", "name": "Introduction to UI Design", "category": "Computer Science / HCI & UX", "enabled": true}
-{"slug": "design-principles-introduction", "name": "Design Principles: an Introduction", "category": "Computer Science / HCI & UX", "enabled": true}
-{"slug": "foundations-of-user-experience-design", "name": "Foundations of User Experience (UX) Design", "category": "Computer Science / HCI & UX", "enabled": true}
+{"slug": "human-centered-design-introduction", "name": "Human-Centered Design: an Introduction", "category": "Computer Science / HCI and UX", "enabled": true}
+{"slug": "introduction-to-ui-design", "name": "Introduction to UI Design", "category": "Computer Science / HCI and UX", "enabled": true}
+{"slug": "design-principles-introduction", "name": "Design Principles: an Introduction", "category": "Computer Science / HCI and UX", "enabled": true}
+{"slug": "foundations-of-user-experience-design", "name": "Foundations of User Experience (UX) Design", "category": "Computer Science / HCI and UX", "enabled": true}
 {"slug": "web-applications-for-everybody", "name": "Web Applications for Everybody", "category": "Computer Science / Web Development", "enabled": true}
 {"slug": "introduction-to-cybersecurity-essentials", "name": "Introduction to Cybersecurity Essentials", "category": "Computer Science / Cybersecurity", "enabled": true}
-{"slug": "machine-learning-in-production", "name": "Machine Learning in Production", "category": "Computer Science / AI & Machine Learning", "enabled": true}
+{"slug": "machine-learning-in-production", "name": "Machine Learning in Production", "category": "Computer Science / AI and Machine Learning", "enabled": true}
 {"slug": "agile-meets-design-thinking", "name": "Agile Meets Design Thinking", "category": "Computer Science / Software Engineering", "enabled": true}
 {"slug": "java-programming-software-engineering-fundamentals", "name": "Java Programming and Software Engineering Fundamentals", "category": "Computer Science / Software Engineering", "enabled": true}
 {"slug": "foundations-of-digital-marketing-and-e-commerce", "name": "Foundations of Digital Marketing and E-commerce", "category": "Business / Marketing", "enabled": true}
@@ -282,7 +282,7 @@
 {"slug": "global-impact-business-ethics", "name": "Global Impact: Business Ethics", "category": "Business / Business Ethics", "enabled": true}
 {"slug": "global-impact-multiculturalism", "name": "Global Impact: Multiculturalism", "category": "Business / International Business", "enabled": true}
 {"slug": "global-challenges-in-business", "name": "Global Challenges in Business", "category": "Business / International Business", "enabled": true}
-{"slug": "people-management-essentials", "name": "Google People Management Essentials", "category": "Business / HR & People Management", "enabled": true}
+{"slug": "people-management-essentials", "name": "Google People Management Essentials", "category": "Business / HR and People Management", "enabled": true}
 {"slug": "introduction-to-finance-basics", "name": "Introduction to Finance: The Basics", "category": "Business / Finance", "enabled": true}
 {"slug": "finance-for-managers", "name": "Finance for Managers", "category": "Business / Finance", "enabled": true}
 {"slug": "discounted-cash-flow-modeling", "name": "Discounted Cash Flow Modeling", "category": "Business / Finance", "enabled": true}
