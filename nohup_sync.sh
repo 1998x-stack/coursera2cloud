@@ -16,8 +16,18 @@
 set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 LOG_FILE="${SCRIPT_DIR}/logs/sync.log"
+PID_FILE="${SCRIPT_DIR}/logs/sync.pid"
 
 cd "${SCRIPT_DIR}"
+
+# Prevent duplicate runs
+if [ -f "$PID_FILE" ]; then
+    OLD_PID=$(cat "$PID_FILE")
+    if kill -0 "$OLD_PID" 2>/dev/null; then
+        echo "ERROR: sync already running (PID $OLD_PID). Stop it first: kill $OLD_PID"
+        exit 1
+    fi
+fi
 
 # Load credentials from ~/.zshrc
 BDUSS_VAL=$(grep '^export BDUSS=' ~/.zshrc 2>/dev/null | sed 's/^export BDUSS=//')
@@ -36,6 +46,7 @@ echo "[$(date '+%Y-%m-%d %H:%M:%S')] Starting batch sync..." | tee -a "$LOG_FILE
 nohup python3 sync.py >> "$LOG_FILE" 2>&1 &
 
 PID=$!
+echo $PID > "$PID_FILE"
 echo "PID: $PID"
 echo "Log:  $LOG_FILE"
 echo "Status: python3 sync.py --status"

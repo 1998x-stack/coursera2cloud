@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 tmp/
 logs/*.log
+logs/sync.pid
 logs/upload_state.json
 bin/BaiduPCS-Go*
 !bin/.gitkeep

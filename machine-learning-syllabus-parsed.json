@@ -1,0 +1,1081 @@
+[
+    [
+        "week-1-introduction-to-machine-learning",
+        [
+            [
+                "overview-of-machine-learning",
+                [
+                    [
+                        "welcome-to-machine-learning",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/aMVMbBAnQn6FTGwQJ9J-JA.processed/full/720p/index.mp4?Expires=1780358400&Signature=NWFAljHDUItsmdJhYT29LB2s5MJ41b3h5uoy8gsmzEXrTSMVD~-2aUlcxcXx6OLqpfGi4UQYDXNbRa~YYuyXCZNyZhWxZcYJRTBGSpxf74vpKwmDcr4S7IVfKjiBO4jGb9rdSQhTX92O6pLwSgF5vS9ewqvMULVzFcKCTgpLYlU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/7y34Hn7RTZSt-B5-0T2ULg?expiry=1780358400000&hmac=mfYVXstLN-b2OjrV9R-_Wg932TY9S-JHxhUjZ_0FQYY&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/7y34Hn7RTZSt-B5-0T2ULg?expiry=1780358400000&hmac=XLRfYHddfiySFnyqnv5-Rdh-3uhqKYxcNhVnk1aVCZU&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "applications-of-machine-learning",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/6FOtMNUkRv6TrTDVJLb-ag.processed/full/720p/index.mp4?Expires=1780358400&Signature=BsnwQp~TojVA7DxXlTOVetCSD7g5PSiEUMyItW0lA0yDf3IivhcBP~1C9H5pbV0N44nr-PIjMftAyJflw~xkZ6gDHFbqndOLJBzEi6sqWXqyx7IXR2~hHu~LhE~uk72ijNB5iQWLDNlDo4C8eyvszONR4LmFXOUhrBX9IMVbKus_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/hCC6lERyQQ6gupREcmEOuA?expiry=1780358400000&hmac=lZNoyJHeiSWWplhR_1h38sk7-mhmd21OSq0zh5Kbq30&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/hCC6lERyQQ6gupREcmEOuA?expiry=1780358400000&hmac=UZ7jyYNaDlBTAm2qVNBgzyqIG5EETSXgQcMEEDs9FiY&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "join-the-deeplearning-ai-forum-to-ask-questions-get-support-or-share-amazing",
+                        {
+                            "html": [
+                                [
+                                    "#inmemory#<meta charset=\"utf-8\"/>\n<co-content>\n <p variant=\"body1\">\n  Hey Learner!\n </p>\n <p variant=\"body1\">\n  Excited about this course? Join the DeepLearning.AI  Forum to:\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p variant=\"body1\">\n    <strong>\n     Report\n    </strong>\n    any trouble with assignments\n   </p>\n  </li>\n  <li>\n   <p variant=\"body1\">\n    <strong>\n     Get support\n    </strong>\n    for any technical issues you might have with the course/platform\n   </p>\n  </li>\n  <li>\n   <p variant=\"body1\">\n    <strong>\n     Look for guidance\n    </strong>\n    on any questions you might have about the course\n   </p>\n  </li>\n  <li>\n   <p variant=\"body1\">\n    <strong>\n     Chat with others:\n    </strong>\n    Share ideas, ask questions, and discuss AI.\n   </p>\n  </li>\n  <li>\n   <p variant=\"body1\">\n    <strong>\n     Work together:\n    </strong>\n    Collaborate on AI projects and build something awesome.\n   </p>\n  </li>\n  <li>\n   <p variant=\"body1\">\n    <strong>\n     Stay in the loop:\n    </strong>\n    Get updates on courses, events, and AI news.\n   </p>\n  </li>\n </ul>\n <p variant=\"body1\">\n  Click on\n  <a href=\"https://bit.ly/44cz8nG\" title=\"\">\n   <strong>\n    this link\n   </strong>\n  </a>\n  to create your free account and connect with the global AI community!\n </p>\n <p variant=\"body1\">\n  - The DeepLearning.AI team\n </p>\n <p>\n </p>\n</co-content>\n<style>\n body {\n    padding: 50px 85px 50px 85px;\n}\n\ntable th, table td {\n    border: 1px solid #e0e0e0;\n    padding: 5px 20px;\n    text-align: left;\n}\ninput {\n    margin: 10px;\n}\n}\nth {\n    font-weight: bold;\n}\ntd, th {\n    display: table-cell;\n    vertical-align: inherit;\n}\nimg {\n    height: auto;\n    max-width: 100%;\n}\npre {\n    display: block;\n    margin: 20px;\n    background: #424242;\n    color: #fff;\n    font-size: 13px;\n    white-space: pre-wrap;\n    padding: 9.5px;\n    margin: 0 0 10px;\n    border: 1px solid #ccc;\n}\n</style>\n<script async=\"\" src=\"https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\" type=\"text/javascript\">\n</script>\n<script type=\"text/x-mathjax-config\">\n MathJax.Hub.Config({\n    tex2jax: {\n      inlineMath: [ ['$$','$$'], ['$','$'] ],\n      displayMath: [ [\"\\\\[\",\"\\\\]\"] ],\n      processEscapes: true\n    }\n  });\n</script>\n",
+                                    "instructions"
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            ],
+            [
+                "supervised-vs-unsupervised-machine-learning",
+                [
+                    [
+                        "what-is-machine-learning",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/JO9Kp6VyROivSqelcoToZg.processed/full/720p/index.mp4?Expires=1780358400&Signature=Cw8LXilLEcnCVzjwLNJTQJf6Cz~iXJ2-IgM8hTHZvZ8j9SPE1U6ifvxBcecv~9mB5EMXTx2U3MqdnuqXIP7Fgm5keJAuRrfeueqEFuPsfcjow~DZbrCYV0AxH0-w7hmWiRkbXQBZcU1Oapvdh4uukud0z81iza5Tng314wtLvg4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/rvavoykQQLG2r6MpECCxnw?expiry=1780358400000&hmac=79ZvZYE4FVB9LmKDtLzI7bcfjB5v7babv_29i9yf43Q&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/rvavoykQQLG2r6MpECCxnw?expiry=1780358400000&hmac=4zSDCl-4OQZNqOSe-Z6EKaCxsIyUdhUT8mS38fAAIuk&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "supervised-learning-part-1",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/zCFaNCfUQ7ShWjQn1CO0nQ.processed/full/720p/index.mp4?Expires=1780358400&Signature=O4XuwE9kN5~LGYbPgDHbmiB-zOAO-xPbB5OnUSK4BrOqtWFsw1ZQHUDphu75jNZrcJMfKc3JU-mgGx8vk7~L5HafOggTvaKMp-KVBAGjQCZYNIcORTspFXm2biiP8cIP7DWp3oXRHg9PuWkplGoPTZ93kYyx5B8FIzQfIHNfG-M_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/PyQw7ib-SWakMO4m_jlm8w?expiry=1780358400000&hmac=0xR1mUa3tlRk94qDRL5oLPI8oLTajp-elw2ddRGqM4g&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/PyQw7ib-SWakMO4m_jlm8w?expiry=1780358400000&hmac=RhGa_YhGWOV4_wHQaidipLNUYykpQnVdLW7iuVSrp_4&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "supervised-learning-part-2",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/x3gLe65uS3e4C3uubmt3sw.processed/full/720p/index.mp4?Expires=1780358400&Signature=HSd63BGwzGJ3Br5MdblQfg2HB6AYywts99zKqyf8eGU8pyUNv9ZWJV5n7hvfI4WUH9oysK3n61VrSdYA17H5yLikFFmr4GbZdZNIx1OMfsVpCQ9mo2gzNwkZu6r9UAhInzn4N-EnDZd-r-VdqWVl4qy~LXi5V6XMCvcQ1~CxcDM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/7N3bOS3vRoid2zkt7-aIew?expiry=1780358400000&hmac=Jf9nLew5hDUZTrT6qvsBgMusvD7RQSo3fong-7pqKyY&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/7N3bOS3vRoid2zkt7-aIew?expiry=1780358400000&hmac=gefgdxV4p2AiR0xMbukSOnvoAWwN9fDTmVjavhdlAbE&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "unsupervised-learning-part-1",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/COvGk96oRmSrxpPeqLZkZg.processed/full/720p/index.mp4?Expires=1780358400&Signature=c5KZxivRdo880MoH8qL6xtOt01rlTtV-cAzdf3-SL0GBNct05~2hCMydiO2Q3iuDd9e26O0g0MsLe-cUBJuRbw9mPv5nyrawB2M8lnue1zdTbGIryuK10RDUK-Xho7wkv1Mk08H4NtMYdss8haw3zMM110JEUdl5EY~Ok1-QaMo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/TwP5E56NSlKD-ROejQpSRw?expiry=1780358400000&hmac=yP0buiguGtg9YBzF6zestX0hOMIivz1j46izMtzO6CM&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/TwP5E56NSlKD-ROejQpSRw?expiry=1780358400000&hmac=q1UIIKX90QiaxJvN3_MLavGnfGBVueOWP2e_G9P7tpI&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "unsupervised-learning-part-2",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/l82ISKZBRZ-NiEimQQWfWg.processed/full/720p/index.mp4?Expires=1780358400&Signature=Z488wQoVEkh1hLv~h2f1zTViuqTx47F6jHQ0xxfzHN3O7r9T~SguvgRl8dnoHSE~Kp6bCaB1BSfu7i1iZCsHXxgCu-D~-yhaRqmwNkfGzXY4G4tOIhpg5vFWU3wzGrzW65zfz4ggSWY~h9inxSYv7R-5e~YgWS6i5OKkjyZzqwU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/RLOZ7QilRrezme0Ipaa3SA?expiry=1780358400000&hmac=Dkn7wv4k2gAWdJ8nea-jT_jp6AoK9r0A-0a9-X3ghtQ&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/RLOZ7QilRrezme0Ipaa3SA?expiry=1780358400000&hmac=Nu_Vn1C_k0bOr2fAaz9H9Qo8qK-Fq7_DNP7Ci4wwTUM&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "jupyter-notebooks",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/CfgMr6woTsy4DK-sKP7M3w.processed/full/720p/index.mp4?Expires=1780358400&Signature=LZ3JiwytPwqNfND69Vp724f5lJ7~dTiIs-LqgHmkJfnz8vv8Qk9b9pqCR5U1u8IVKaCst1RQdodFC-knxkQMCbvGTkYoONTz0NJh7d8GemlaJRdSPEspJHm00LePY6kAFeyv1qWLINVNrTZtpoOwQa5RhoZoo6L6~zur9akUAK4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/BWdqwxMTRyWnasMTEyclzQ?expiry=1780358400000&hmac=b1hr1qVIPoKuAhvfdBm1IeEAKtdMZFbd7JuJWpT5I-o&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/BWdqwxMTRyWnasMTEyclzQ?expiry=1780358400000&hmac=3HPNvtlx6-gVsF-37MSODuPgOOKgk1n8YKma9HRk_yk&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            ],
+            [
+                "regression-model",
+                [
+                    [
+                        "linear-regression-model-part-1",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/AO0c6xOyQvOtHOsTsiLzog.processed/full/720p/index.mp4?Expires=1780358400&Signature=Pn033b0HozrdlQou-LZ02G7UIyyHOV0hc4TpT9bsERN-s56JUtBeKIRHI6DFMWI33Di1fGca2a6Kk6BZXGqecr3~XGEGhbxPKV2SwNfCP-yCXi3gckSMnKaUl1wuqMj3uz6U2B~4wQgkcRRRYdZ75-iyCnoGbZbWduw6ICHR0hQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/y5A0laNJSJSQNJWjSZiUNg?expiry=1780358400000&hmac=Mw3xlmeZXA6H4lXM75g_kwJIJJwBnTGMSUeeWvc4IHs&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/y5A0laNJSJSQNJWjSZiUNg?expiry=1780358400000&hmac=XhpXt7fImkoqoj7gyQuDnB7Fd9hkEgEks8cVeP2BdT4&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "linear-regression-model-part-2",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/P1-TSrUWTMOfk0q1FvzDWw.processed/full/720p/index.mp4?Expires=1780358400&Signature=JRPfHbu0~-e7HzgXXywH07iZIRsiEsMMjM6rAZkArs5HI56BlnC6IBI7I9eTmtuv6HqFSIHUPkFtS57FgbeuNDZUTBACurmJo9Q-BASdDgr0SC1ciKW5s6bIEboPjLx7-FmS9WUdkba6FvVox~nuKA6Ycln~yQy6JOEQNCdrBTM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/D_WmlCBfQYe1ppQgX5GH5g?expiry=1780358400000&hmac=BT7dqm6S0e8S6M0HWvKKFPDcVSFwUS9vnU1FQotm3D0&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/D_WmlCBfQYe1ppQgX5GH5g?expiry=1780358400000&hmac=X6fS_ivjAVOHz6vjRSCaOscXedWVcCLB3f5i6R5bhus&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "cost-function-formula",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/bHMKq_OASzWzCqvzgIs1sA.processed/full/720p/index.mp4?Expires=1780358400&Signature=ZcN-sp0wPxrA0iI9Ph~Ppp7WHrGHMFSbkn5RsRQ1j3tx-zXcTg~Hc1GfgfINf7BLSzNXBHLrqPiqJs~UF2TDubwhpJss52rOITBpr-doMtOUpcqxVzOAi3WUs8AxGQYFw6c4GwV7Xqs1AHe5hvDm5M0t7sTwcCvKOY2fRmZda8Y_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/x6TeX3fYSt6k3l932Arexw?expiry=1780358400000&hmac=5zj30oU2rhoG0kiF-oTC2P3ap1ohpognstmsNgdE6Es&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/x6TeX3fYSt6k3l932Arexw?expiry=1780358400000&hmac=FWVwbGw9a-nsznQoINf_KLkY6_P9fIVkNSOOrhvCn5Q&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "cost-function-intuition",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/4cDgBYUORfCA4AWFDoXwuw.processed/full/720p/index.mp4?Expires=1780358400&Signature=CAugeQhYh-qHs05s4d3ytwjt9VmG9T45fj3hSiA~hw3JKiVn0YSjLcuYGkFk5eLstivnTn0RWVrRKa68BJ2Ugw0jJoe81iLrZOTOWnAaljOGu0pceuDJY3B8mAhA10T6eT27e832fMH0gHVcglSCYEueypJyZ2ZoZ7ClCLUP6iM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/aMYAoI_wRxyGAKCP8GccJQ?expiry=1780358400000&hmac=9gP8u-_Aztm21FSOHnhs1EWMBetmJGSL8nzzUTGd5jo&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/aMYAoI_wRxyGAKCP8GccJQ?expiry=1780358400000&hmac=_dSIbt_sfyh7ZEbyQuDffFu1YpadvG0yuPLI2EGsDeM&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "visualizing-the-cost-function",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/utUjP-bOQZeVIz_mzuGXQg.processed/full/720p/index.mp4?Expires=1780358400&Signature=OOHBA238ZBecKjJa32lXx3xZ~8RAHOZETGKbM4oLzzX9c9yPMsbHTrfcZ8XsWGFkc0LELlP3ikSHKu~~iKKOzE8ADYmo5I6F-5zALUEBzSQUO1TBNVeARg6Tsb32toMjL2Y2OH4DgQEaW0~KUcDO0WEzPp2kW1Dj4EH6sdjn2T0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/1UmIcb5wS7yJiHG-cHu8DA?expiry=1780358400000&hmac=Kc_91fCIHbjzXvtzX6eXBa35vUUGwNO3u_Kw6ZFFDJo&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/1UmIcb5wS7yJiHG-cHu8DA?expiry=1780358400000&hmac=tYkFYAQsWmcNRKFlLb2375xl5JiHWVCIFWAIo8nQ1tw&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "visualization-examples",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/cT_xUx-8Tl-_8VMfvG5fRQ.processed/full/720p/index.mp4?Expires=1780358400&Signature=WsoGdmnRLDD5XdV3afNc6vT5FblVFd6gfS6NIoVVttwrFseDTJ~aIkgcZ8kUOJHoKoYNa2Q9zITeBPFIJptFcJAeAr3swTFGYto0jrTlRNJ6ZzDv~~rIr7~gh00YEOyt0czLJ6gdYcIZ6DsLszflSsanRUq9tnOFQXKNdFE7spA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/WCmfOExER0ipnzhMRHdIrg?expiry=1780358400000&hmac=Ryd4qOfBdJJRycfHZTEqeV5Axd-_y3MbUAbxGwEI1wM&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/WCmfOExER0ipnzhMRHdIrg?expiry=1780358400000&hmac=f3uAgI1WT3AlHO77IVbU-BSHZdMUCftMBaOIB3dSOCA&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            ],
+            [
+                "train-the-model-with-gradient-descent",
+                [
+                    [
+                        "gradient-descent",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/C5Z_GpajT-qWfxqWo6_qsg.processed/full/720p/index.mp4?Expires=1780358400&Signature=Nh9ffHXMPEE7hW1LGhxjsF94Pt9MjdZFwlUQ5-7fKkl7gzZyZxX4BgEDuduOYvoLbdSKAwgvejiGfsMGxXY9Ym5ppEvQsmeVRg6VdmWONvE8j~P5B11T9JT78LlHzlTRhh9B6B8k3oNyd8p65Kit~essbFbeTweatJ54qnuOq-0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/CxjzliPdTF2Y85Yj3YxdDQ?expiry=1780358400000&hmac=0r-GFnR6xHestqEbqNe4r6Gn-YsR9qNiO0Heh2oQnkY&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/CxjzliPdTF2Y85Yj3YxdDQ?expiry=1780358400000&hmac=I7TqVQvqScEKuPm_9g-_05brIwwOhMZlpe3v9E4JFIQ&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "implementing-gradient-descent",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/aD0Fx6BsTue9BcegbG7noA.processed/full/720p/index.mp4?Expires=1780358400&Signature=H0uXSh8SKMbx0HmVTA3XQ9eqX5vBnstJ0u~C~6xr6azEMqq4XHXBwLzPUjTyGJJRs-OWTN6DmZnIBWHVitNkiNXyX6-FKb2KAgVB0JRo7~WdSN571s8pg2un~yTitKKNpzBCYTneKOH2hdtkGaAzcpSE-IfydxTZeflm4i6igYA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/JnTjghlKRZi044IZSjWY8A?expiry=1780358400000&hmac=Hc1gw2sqPAmQFDu0aFlM8Xi3y8wCo0Oex-pdyIcuvn8&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/JnTjghlKRZi044IZSjWY8A?expiry=1780358400000&hmac=eocpVH4XnnE92lID-EildqdeG9lxZ9_ujGP6clRtZ_I&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "gradient-descent-intuition",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/qsARE1oKQZmAERNaCtGZPg.processed/full/720p/index.mp4?Expires=1780358400&Signature=dASm44AODfToN-HMLiyf8s-2TI6UNn8ZBH3N4~PHEX2BjFdjcdtBwgh4yslORpUFW7USmtiuTNQkk2xJYpVJh3cKJFtazmUwBw3zmRe4smtRdSYoLiB06hvXCQj12poFZNA22ajaamJLd7J7Dm1IoNbvt3Kl3XK9dx2C2IARFgE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/SWaRCIqFSo-mkQiKhaqPLw?expiry=1780358400000&hmac=souHT4RSmz-Muw5lq8CQ_DdFOkn-giphCwYxPTgE5zs&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/SWaRCIqFSo-mkQiKhaqPLw?expiry=1780358400000&hmac=aUvuaYHvIt4tAmmB3MNvpIbForCWz5fbJKrRG3rmrlM&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "learning-rate",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/ytHMzoNCQnCRzM6DQgJwZw.processed/full/720p/index.mp4?Expires=1780358400&Signature=Yet8CD4IrIJDVRnUtWJ9IDM98Oh0qGs5RyGFZjeUHWRk~WhCiiGBuJhocyPmmiPPLphwhZHky4aBxSoMX0CnUzh-zclqhBXOHIPG1l1Hy7lZ4qMQruHjKFfR-Y2q0aIdVQpwptZNYgKD5UZ4vJWTztyvlMPb8TCFZqtKbY4TYXA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/ql94Jir6RoafeCYq-saGPQ?expiry=1780358400000&hmac=aotfUBKcZjuBNpGkBGGW_GtUV6JPki_YtNCgHjFijns&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/ql94Jir6RoafeCYq-saGPQ?expiry=1780358400000&hmac=BBvhEEyu71kNbw7Oi43Pwk4kt-4bWrEEEJ0GBcz-3xQ&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "gradient-descent-for-linear-regression",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/Ir2HK__1RDe9hyv_9aQ34A.processed/full/720p/index.mp4?Expires=1780358400&Signature=gEyJ7wW9m-01NZPC1mFHig4sbPlP2roQEKCBC8X7q1FmCtDaha10nTJMbOEkIN9qceuaiRMYUaEOut~nJuEiaJkeAVNqZ0C4ZJ91DYc~n4WotYjtr7H8FL~SjpWcCX~-giroSEFm-DpMsXo87LaHdvrbUDRKoaHxzR2~7HUQsq4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/pftDWd3yThe7Q1nd8h4XhA?expiry=1780358400000&hmac=ARWsVYLhO1fDq7W4V9sRBPBlBYLHJ8nIguVi_-vEqXk&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/pftDWd3yThe7Q1nd8h4XhA?expiry=1780358400000&hmac=ggASvij3ysN15XCHdLwpgM6XXOQbjVZErPVE0nM6aMg&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "running-gradient-descent",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/TNUDXedtSaOVA13nbbmjUA.processed/full/720p/index.mp4?Expires=1780358400&Signature=IEAFEegpDUZZWYJW0sXFBxKkTAAuJ0lap-vXoiHOANbGJ4BO3F4XBKBp4A333c6Y9VycRKzCLOe9wdH3Yil1n4mWt0duE84JSyx93A4R8TTr8elHHgRuhU2AzQ~4fQD3p0LSFNx-NKiUvUs6gh8ydfJhuLlYiEDmEmLdMp0JsJA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/6PiXmosdQzS4l5qLHXM0Wg?expiry=1780358400000&hmac=hpsWkVdDMPuUgks9_TpJsNcG3vYO-Kyb8ZcagNrsQpc&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/6PiXmosdQzS4l5qLHXM0Wg?expiry=1780358400000&hmac=Sckb_MXahzEEoMb5cqG8rQp2Kmw7DXzKvJQwy9aAi8w&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            ]
+        ]
+    ],
+    [
+        "week-2-regression-with-multiple-input-variables",
+        [
+            [
+                "multiple-linear-regression",
+                [
+                    [
+                        "multiple-features",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/7-fr8f7QSHOn6_H-0Chzcg.processed/full/720p/index.mp4?Expires=1780358400&Signature=I8ptcjmmxaH3oUgSJoE1HgDhXjAtMnmevWo5oiJYRgoCxKwTUOgJ7z05NX73bkuJkb5dCOCUyKbssHAKZiSbJTDXTcprUZFQ3ELKHgv9QeTNcjXBY2aYddDD6lBZWxbuUiidScz-eWCBQ4fEIlRZEn9Gc~zyVRHS85tHmiXg6gc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/ml36bWg0SLKd-m1oNLiyvg?expiry=1780358400000&hmac=JWZ70gb_g5Wptk0DnJJ0tm-aUu8a7S0FeOUREWC8TNM&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/ml36bWg0SLKd-m1oNLiyvg?expiry=1780358400000&hmac=no9NAkQB2IJPTvg-djy_V-_lVijzaFekjb5THsoMVJA&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "vectorization-part-1",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/iSqTT_6bTECqk0_-m2xAIw.processed/full/720p/index.mp4?Expires=1780358400&Signature=ZjlGInQR8~ZkgFEmmf-sgDnRqUmocuwT7k0Ar2g0D-40WI-85ED6mxlAZqVugVwrdw8gUc4u~r9M-dQ8965Jhceex3Dt6Xc6vLL61MeYJeJFq6ogwkPj3Qdeuk7uMhcH6J2CsNgMBWqlVe4~4nZMW~d3zfrE4iaoj8VwQtLkuJo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/HbfSzjuOSEm30s47jrhJFg?expiry=1780358400000&hmac=f7DIuNzNuhZexrYliHk_lTEyFoyV239xggg74FYj3IA&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/HbfSzjuOSEm30s47jrhJFg?expiry=1780358400000&hmac=Tnj_t_sg2rhlbSnkwyh4mZXtHMQxnSgmGZAfQB1fWkM&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "vectorization-part-2",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/krxMZyLeQr28TGci3vK9_A.processed/full/720p/index.mp4?Expires=1780358400&Signature=Z-qUP4QiGxbBDCsTNC61tIg6rDt5b6xTcVta6jwVrRrTlvvBa90jg0GP57BafCCzXV-ldDJkiY4jHnicsG88M8hYIFH7gW78lrynEqGVhYBEM10~WXVPjNux6PEt1eSArollKXQNLRF5snLXP8LeuP-PZXEIN7eLBZhlb5iDNWo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/G3RB1qb7Q120Qdam-wNd8A?expiry=1780358400000&hmac=2eaY9f7DJ8eGlWFJT9X7QYXoleozkSUmAy-l1Qim9yY&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/G3RB1qb7Q120Qdam-wNd8A?expiry=1780358400000&hmac=FLMc2m4ML0qvty7ykNIZEzbebXr_J0V9JQ9NQpBkAuk&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "gradient-descent-for-multiple-linear-regression",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/NNylO2lAQROcpTtpQHETDg.processed/full/720p/index.mp4?Expires=1780358400&Signature=P2t3924DGPNvHX7BWWjCYq1O2mv4ThdOxKBUhQWhmYm-NaqL19MRV~fEw2Ot6rwL7wov-F~IyWQrJ0eLRXlaWva86iZYiBPks2bpEI-bb1BvaUqXOVDmZPCKco-nNlGVYZuzpuiad1y8Hr2bS41QEVz6P5iTGze2dybNYmrOdNM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/8DuI4VuKSZu7iOFbiombOg?expiry=1780358400000&hmac=PXBFoTpwoGVgO87_-f2JZ3YX0I7nQU-q068wvri-1lU&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/8DuI4VuKSZu7iOFbiombOg?expiry=1780358400000&hmac=CtQk7inGeaUq54yBnJbZUqxvTde6DDswkQ-GFbi23Jg&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            ],
+            [
+                "gradient-descent-in-practice",
+                [
+                    [
+                        "feature-scaling-part-1",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/Grdg8rzQT363YPK80K9-Wg.processed/full/720p/index.mp4?Expires=1780358400&Signature=Z0YWr9GnXga0hOslztuA0AX3x39d6-36fpKWPSowbkJLite~xDWQEmM0gpvUmzR3jODiWCwxDaZBt38tQ-7UZpJWjuWMx8E~tN4ESwTo9YbmNfdThpsx-vnC5Np~3oxG7ttBJApep1Rj5zX5eub~o-FPMCfNDCTpDqbYsz89ijs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/OF2odRipTwKdqHUYqR8CTA?expiry=1780358400000&hmac=WpWYCA9vS5JxOgbrEIFWBGVIC7MdWGUItqQPpRPwUp0&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/OF2odRipTwKdqHUYqR8CTA?expiry=1780358400000&hmac=OX1X6019uxjzcEOTRE3Bm9WIGMKIvnLJC9H-5PIpFTQ&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "feature-scaling-part-2",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/qvw1tTXsT5m8NbU17L-ZkQ.processed/full/720p/index.mp4?Expires=1780358400&Signature=QPyPzw7cILCZtrZOAx9qIDcHxU8i~8pcu9X53iWKGI2PafXoRlL1Jf6QA2yRhRdxdmXFlcpoCbOU0vCMxUCF1eGLZT7Z2kVmLE5K5InP39InPro8BaVyLkjD5nazlYb4aICariXWhMqc2PZYs9PyO8gqG5Frsoe8Md98a7lYNR4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/51dgv7F7RLOXYL-xe7SzIw?expiry=1780358400000&hmac=yfvbablfWCu_T3BKNJ9HuRQ5Gok78a33yRb3rv4hU0w&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/51dgv7F7RLOXYL-xe7SzIw?expiry=1780358400000&hmac=fvzasJ0GEMGaFbRFcRb94MHd_Xm1Rb5072Rrk171diA&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "checking-gradient-descent-for-convergence",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/OY1OpDDOQ2ONTqQwzkNjaA.processed/full/720p/index.mp4?Expires=1780358400&Signature=MLJMjU--ZUgioialLzYvqlh-Q0OaRO0L1XqW-IUVB-08~DFX3Ef3nPInHTCXgLHT67ogjxwxbtvTJKDK4WFsiHCAuDDdMWjPTePlzew~rLjYaC1TJ2GjxZJHu5q5aN0CxWWsePsIq0MSl5yxRg-rKHixs-yOOJTUx~YVz9EMvjU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/RBVk0pVjTnuVZNKVY457Uw?expiry=1780358400000&hmac=WMdMhdF1SG0KfTrfi-fKDxOFLS3VvSPggU6C4eQnu2s&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/RBVk0pVjTnuVZNKVY457Uw?expiry=1780358400000&hmac=PbbT0X4m7pkGtQrkWI0OvA1m41iPE-_ubTvP9HHaGzE&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "choosing-the-learning-rate",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/ELkvBmysT9-5LwZsrE_fCg.processed/full/720p/index.mp4?Expires=1780358400&Signature=MxDj5tmIOSANnE3LWjqWvWlHi7YMu0uLGw7OQgMHoV4C2cOevEdXZMLxXpyTgON9pmSzD1rYN6wtdplJIJxoc49h1tNl25j5zSWTpecmL~nQlZp-CfxuTNBSE~mZT-fHwzbahWQSyo9-Qw8z5grUO1P8GC6jWKjOP~a02jt2wrI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/B-ILYuR8Ta-iC2LkfL2vlg?expiry=1780358400000&hmac=Lo_dtHgWxCBfdqsydgU9r1ZnRcGbumoSOxg7BNA_300&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/B-ILYuR8Ta-iC2LkfL2vlg?expiry=1780358400000&hmac=YpDRaTPxsgOeduhBT_MhHGDTg2bl-_gvHsNPtcSU1sg&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "feature-engineering",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/2gTCFsmhT_eEwhbJof_3OQ.processed/full/720p/index.mp4?Expires=1780358400&Signature=aXJ32FkuQsWZ-pXjRkMdiHXiKpR6NSEE4Ll4IJAkQXo4WYac0QKDUj-b0-9gngqbVS1ZawMcgUMEeCCSQ2fQJDs~skjbAKFDRH6fVaUgTyPdqqY6oDb5VttriB3se5JEnEkJcLQs8O7LysmK9gOiLIBuEfqssSZ8bnXudSggkRI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/roB2OroJT96Adjq6CV_evw?expiry=1780358400000&hmac=PAsnCjDDpYSmZDEUJlq1fYyv6rbPylCuuFd4pxOsIqc&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/roB2OroJT96Adjq6CV_evw?expiry=1780358400000&hmac=NLx102OnUZtDVBO99oZNNhC3tIW2inMuffE8_L6uTj8&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "polynomial-regression",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/7dpx3giVSgCacd4IlSoAiw.processed/full/720p/index.mp4?Expires=1780358400&Signature=DkTWbjIZsceu3wCIR72c8PLbUJX5GpCcQ5j3JYYbFfJPCXwJDqDZ7~dinA2AjmhIPVxmAjzjisZcER4~FchcbyWhVySBqjHHyQ7utmfo8ySTFao5O68kvv-PTJdpJ8dS3SmOGaHcRqoKNsB4LtTKlR2djCkofOX4fwTeI0hebUM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/3tIdPcoyQOqSHT3KMjDqIQ?expiry=1780358400000&hmac=8FlxqD5eGU2Ykw_UtLInf7Vl65SP6a_q9Jfc0CYVaZw&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/3tIdPcoyQOqSHT3KMjDqIQ?expiry=1780358400000&hmac=7UsenQFJT4CIInV17suQjDBU97XwfOR0fZKZH5CsmEI&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            ]
+        ]
+    ],
+    [
+        "week-3-classification",
+        [
+            [
+                "classification-with-logistic-regression",
+                [
+                    [
+                        "motivations",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/VP8oxDdSSIe_KMQ3UmiHfg.processed/full/720p/index.mp4?Expires=1780358400&Signature=g5iQQfl~atkokvMJ4CK0PrhxSR138i8a4MHZ6qjKMRCIlThaSzpsb~zhFttL0R0KHuepIqKToadPo9oZLG0oQTM1~~pu5FJ1rgYYVg6khKPqPWwLpaZRWsDeDJdUPgBIsX5k6F804o17irvaoPkmHdeZAWGW0yC9gTt~ljfNtmU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/-74fpcy1QC--H6XMtRAvQw?expiry=1780358400000&hmac=fezefeNR-AaeFSlWYkJq2JIlcBxCGLjzhnmlF_gIVSI&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/-74fpcy1QC--H6XMtRAvQw?expiry=1780358400000&hmac=E03zS10UtbtP-rQcb8D6Lcvkoy453iECKGM8wdRzgCY&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "logistic-regression",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/BVwFV1ueROWcBVdbniTl8g.processed/full/720p/index.mp4?Expires=1780358400&Signature=Kp-9K6z4WTTuztaW6m4JeGyhivKtgxf7HLkI0jVvDKodrlvN9D1sCKTDaumh9mTCRzKHcIulC0lPH49n82CCR-QxzUY9ElnGQONt3evHO-0Un9N~XP4KLRm-MjgM8PE4K-hvO2q7WhA4Xsb86sQsUBJilLJBqcNcrPlpEMBVQdw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/_NKWkR3LSvOSlpEdy8rzzQ?expiry=1780358400000&hmac=Tn_w6L7O6alp30bXGUvx3xNH-AAr3eFU8HgzPDRO7Tc&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/_NKWkR3LSvOSlpEdy8rzzQ?expiry=1780358400000&hmac=Cak6xmGySS4JJHLF7YI6BBP9sOZq-PcDHbkxDltk650&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "decision-boundary",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/LqOitbNUT6ijorWzVM-opA.processed/full/720p/index.mp4?Expires=1780358400&Signature=GJOulCS9RNZ9XsMWKq6-9KvLsJLLZENy1joo-Oo6p0dAQ0JY4E7tt6Ehhwrt17dNrqqMmp2XHhWZQzUFYJMKAsHRYkmu-1mLG9Xx6dLTiz2H-jfJcv6g74ydg-b~kNaoKjqcpxVZWreeHpqitBD7P-p-lTbrVSlh70~NnGNo990_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/dhqMPZWYSy6ajD2VmGsukA?expiry=1780358400000&hmac=qmfaR3BTH_wbeK_cKUXBUWtYbq8sr_UwhOwnf2dG3gY&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/dhqMPZWYSy6ajD2VmGsukA?expiry=1780358400000&hmac=6o822o-CjjS0BelK7h_fazrLdQIG-NyvgQG6-xwfkQw&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            ],
+            [
+                "cost-function-for-logistic-regression",
+                [
+                    [
+                        "cost-function-for-logistic-regression",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/liNdVVB7Tm2jXVVQe25t7g.processed/full/720p/index.mp4?Expires=1780358400&Signature=aPdijUv9LOjPRkobmrKrusKDMUrjTEf2fSvCxhcyOpHtHxg0bPKpXbJovB93qhgobxZribCzugZxvbSSZbUD2cZ1hMIKTJmNlICPXejsW0VEveiPyzEiwIFuPgErnZQXvcgXICptIk29s65GmuntzVxHMB39tPgOBkK~H6ngnDU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/Z6ZxqRMMQEamcakTDDBGOw?expiry=1780358400000&hmac=CzbSVC211Y5ChbOrSVVGWhT6WE_3Bzk0r9Kl1HIotHE&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/Z6ZxqRMMQEamcakTDDBGOw?expiry=1780358400000&hmac=PcJ5_aT2oWRiqyeZkohCKEaRTtC66zjdWXF1GBB5kXY&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "simplified-cost-function-for-logistic-regression",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/uho2i8PiS72aNovD4ru93g.processed/full/720p/index.mp4?Expires=1780358400&Signature=lVOYFW0FRrTDoiT~uprGaYNpkj8sCyc3VBb0g-qBjq-Wq-j8PfmL9rDP1O4ZB8npvt39zexOXg6WbyIekTnkCxxl1fNyakgcnCTRMQNLZT~avpYHPT0x335ua-7SD9kPH1Pgsim7qQt6SF5pDacvMFOPNProR4Fr546arGiFDU4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/eG2j-BmkSFato_gZpIhWMQ?expiry=1780358400000&hmac=tvwe-MyEZ0PVH9XFTi63xchkgQtnQCjyx9NJcqGH0NA&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/eG2j-BmkSFato_gZpIhWMQ?expiry=1780358400000&hmac=V0EcFXTvmlQ-62ZyOhC4QYp8n3jNI0t89tWoWI8v6d8&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            ],
+            [
+                "gradient-descent-for-logistic-regression",
+                [
+                    [
+                        "gradient-descent-implementation",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/Gz4Tq4ZnTA6-E6uGZywOeA.processed/full/720p/index.mp4?Expires=1780358400&Signature=aHLqgkFPr-r6~OanrcGOyxrczq7Jp-m6ff7kNEwJwfd5Jmlg9xcMqZfcm3c0qW22r6Nl1BuGVZHGwUqtX~RHu00YBht4Oa4Ev13I2MBT9sdVM4bBXmdaF80dtQ6ccK5lU-iYqbhDOtv0~pfI9k307V2h1Hixqz5UVZjbWPNnon0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/WRI1ZLO4QqCSNWSzuLKg3Q?expiry=1780358400000&hmac=pkjLN_IBD9OI61VugrAOCavBxnLIdv9ozU8GwtSsn1w&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/WRI1ZLO4QqCSNWSzuLKg3Q?expiry=1780358400000&hmac=FyG8suN0s_2W_o0BSmPxhapfSe0RpuIuUIreTbLdn-A&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            ],
+            [
+                "the-problem-of-overfitting",
+                [
+                    [
+                        "the-problem-of-overfitting",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/UZV4A8lnQ4-VeAPJZ_OPoA.processed/full/720p/index.mp4?Expires=1780358400&Signature=KBd4c89MJxSu6UHyTETmAWgsEw2mVN-zcw2QCGkT7BkjxTZdYOBrJdhU5sbA2fyPuELxHeDeQnfSevm8O7hhXv8KQ1ZQrTn10xDmUSLVwLalxUA5d8IODbfLhjKF~E7zmWC0tQRxrnPo0nnz5Vo3hOtth0uybPwZOX8C6HiVUVU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/yMCJ6h1nSQKAieodZ8kC_w?expiry=1780358400000&hmac=q0lE0BE_xg_NjrvLtQffAzPFomY9E8MB94-KF1uequc&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/yMCJ6h1nSQKAieodZ8kC_w?expiry=1780358400000&hmac=AxtiPBDZqMsLDk7in3z2Gk5rp6s1p6E9JjnprKsmIIY&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "addressing-overfitting",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/yVaFhue-SGuWhYbnvhhrLA.processed/full/720p/index.mp4?Expires=1780358400&Signature=OXSQm56~gGkgTvp2BfAxCzowlJ7jHqqjHHjE0gmKR9T4df5oF21mEQL1VXmC8jbsKnBbNGmrkenxvkYKj3YnejSPCRRt5NW12jrrhKr0FD38SDtTSCEk61pU1yt8Vy1UA6RXg8yC1bpYaRXdnmSI0AnqKWX9IIT6a2RGopjGFd8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/CUkZ20gmSM2JGdtIJqjNWw?expiry=1780358400000&hmac=NqqNoEi4fou6MKEBbNH05wJIfII8dPeILtKzQ-LPUwA&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/CUkZ20gmSM2JGdtIJqjNWw?expiry=1780358400000&hmac=SeS7lhNKteHk-9Es-zOh-VLUcr06ENYg5IdEW-pPFq0&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "cost-function-with-regularization",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/TMgoG542SauIKBueNmmrDg.processed/full/720p/index.mp4?Expires=1780358400&Signature=IuaH81zGvdUV~3bGVaX~Of52PpVx9HEeLaTLqPsfumVsyCueEdxnEgovw0MbELdObR4p7JfMzHp0c-ZOMDDwLAB~3x03GtHdtMVf7xd~48XpYVbqCaBMZKwa-NWCvR0et2qivsqBKaMy9HzSBzaLpEWCQbzj0jG8Jh4j5npSN3w_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/aAikF1SjSm-IpBdUo_pvGA?expiry=1780358400000&hmac=i5KMxFWyzjjmgRmc6oUveDXb2l9OnNJ9ObaUTyzZRvY&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/aAikF1SjSm-IpBdUo_pvGA?expiry=1780358400000&hmac=7utAHee7Yn49Y4pTd7qymmzWQrCjy7chlLfzYwcVtuU&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "regularized-linear-regression",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/GzQbgPGRRE60G4DxkdROgA.processed/full/720p/index.mp4?Expires=1780358400&Signature=G~jbt--JoYdjZNukbVxZdwGCwangsmVgsyEgelY-tU25R~3gfq5oB0BQPQLbsSwBHdOaIIByI~7ByUc1UTfz2ql2eg3VH5A~sdU6mKKYkktjY3w9TZvMuwVEZym5kvY02wmMEOa~cvo1Q6Elsnu7g36GDLsg9MFv6PjC5HQjTmo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/i1BhQzB4QxiQYUMweBMYZw?expiry=1780358400000&hmac=oJStQWrFoj-qKV3TxsNt_K8Td8MBt9sW-KcqQGCQCO4&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/i1BhQzB4QxiQYUMweBMYZw?expiry=1780358400000&hmac=zhA8e8m1emSFtuDFuGsKXO-4qbEVl39uNfMoBf4y240&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        "regularized-logistic-regression",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/_NYXZ3CJSXSWF2dwiel0OQ.processed/full/720p/index.mp4?Expires=1780358400&Signature=SG4VPuE-m2E5YBdaKKqACHHBk8V-wMP~LZcHfKWEaD40R22PQA1IiiSIXxXdbmTCph9pDID2sJvHfATDVskHaFFuPC8sAZ-b1pSpqcq5jjeypi20DP64wxnKFFHvyBKtvyQ~rEV-ZGqY~7sx5REhA6TTFHlIRqnSjCNc7i9lMeE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/HJfOZRrsSouXzmUa7PqLlQ?expiry=1780358400000&hmac=q40QPdzRwN23KoAupGFLjlCs5XUZhEMIu7wtfpUw3iA&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/HJfOZRrsSouXzmUa7PqLlQ?expiry=1780358400000&hmac=eXEuOANhL0mIalkM_rqTyFrEdxgwGYFM3zK0v2gBq6g&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            ],
+            [
+                "end-of-access-to-lab-notebooks",
+                [
+                    [
+                        "important-reminder-about-end-of-access-to-lab-notebooks",
+                        {
+                            "html": [
+                                [
+                                    "#inmemory#<meta charset=\"utf-8\"/>\n<co-content>\n <p variant=\"body1\">\n  Hi learner!\n </p>\n <p variant=\"body1\">\n  The next item(s) is/are the final graded item(s) of this course. If you pass it/them and have also passed all previous graded items, you will be able to get the course certificate. Congratulations!\n </p>\n <p variant=\"body1\">\n  <strong>\n   Please note\n  </strong>\n  that, as per\n  <a href=\"https://www.coursera.org/about/terms#payments-and-refund-policy\" title=\"\">\n   Coursera\u2019s Payment and Refund Policy\n  </a>\n  ,\n  <strong>\n   your access\n  </strong>\n  <strong>\n   to graded items (as well as Ungraded Labs hosted on Coursera) will end\n  </strong>\n  once your subscription expires. If you want to keep your lab notebooks for reference, we highly recommend that you\n  <a href=\"https://community.deeplearning.ai/t/downloading-your-notebook-downloading-your-workspace-and-refreshing-your-workspace/475495\" title=\"\">\n   download them\n  </a>\n  <strong>\n   before you complete the course or Specialization\n  </strong>\n  .\n </p>\n <p>\n  You can reach out to the\n  <a href=\"https://www.coursera.support/s/article/360036160591-How-to-contact-Coursera?language=en_US\" title=\"\">\n   Coursera Learner Help Center\n  </a>\n  if you have questions about this policy, or if you get locked while having an active subscription.\n </p>\n <p>\n  Thank you and keep learning!\nDeepLearning.AI QA Team\n </p>\n</co-content>\n<style>\n body {\n    padding: 50px 85px 50px 85px;\n}\n\ntable th, table td {\n    border: 1px solid #e0e0e0;\n    padding: 5px 20px;\n    text-align: left;\n}\ninput {\n    margin: 10px;\n}\n}\nth {\n    font-weight: bold;\n}\ntd, th {\n    display: table-cell;\n    vertical-align: inherit;\n}\nimg {\n    height: auto;\n    max-width: 100%;\n}\npre {\n    display: block;\n    margin: 20px;\n    background: #424242;\n    color: #fff;\n    font-size: 13px;\n    white-space: pre-wrap;\n    padding: 9.5px;\n    margin: 0 0 10px;\n    border: 1px solid #ccc;\n}\n</style>\n<script async=\"\" src=\"https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\" type=\"text/javascript\">\n</script>\n<script type=\"text/x-mathjax-config\">\n MathJax.Hub.Config({\n    tex2jax: {\n      inlineMath: [ ['$$','$$'], ['$','$'] ],\n      displayMath: [ [\"\\\\[\",\"\\\\]\"] ],\n      processEscapes: true\n    }\n  });\n</script>\n",
+                                    "instructions"
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            ],
+            [
+                "conversations-with-andrew-optional",
+                [
+                    [
+                        "andrew-ng-and-fei-fei-li-on-human-centered-ai",
+                        {
+                            "mp4": [
+                                [
+                                    "https://d3c33hcgiwev3.cloudfront.net/nbA7CDP2S8-O8CnRiuc7RQ.processed/full/720p/index.mp4?Expires=1780358400&Signature=O~aH-QEAm7Fx-dcw2YoCfyuBrw9YAJ6KGgSHq~7sV5V748oWoek7N7L6-MiBoZILDgE9nQ9Dav708jp1pTXv9UcNBlbYVea94zqqOyANmPrzH1YMadX1jsMfq-CC8cd9btcGAbgYFd9m0xCicu9fKgNeYj2roieFwpYPu7pPfFU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    ""
+                                ]
+                            ],
+                            "en.srt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/ns0EoiwGS22NBKIsBpttqw?expiry=1780358400000&hmac=7zuUC_FoI1LMqCoviJcfHlb3e0WJvwxrclU-RzusEOI&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
+                            "en.txt": [
+                                [
+                                    "https://api.coursera.org/api/subtitleAssetProxy.v1/ns0EoiwGS22NBKIsBpttqw?expiry=1780358400000&hmac=y3PG2R5Tt_K_ymyXaaj05KJBb1nSzmysF1CNHScbQnA&fileExtension=txt",
+                                    ""
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            ],
+            [
+                "acknowledgments",
+                [
+                    [
+                        "acknowledgments",
+                        {
+                            "html": [
+                                [
+                                    "#inmemory#<meta charset=\"utf-8\"/>\n<co-content>\n <p>\n  Our sincerest thanks to YOU, for enrolling in this Specialization and becoming part of our global community of learners!\n </p>\n <p>\n  We'd also like to thank the following for their work in creating the Machine Learning Specialization:\n </p>\n <p>\n  <strong>\n   Instruction &amp; Course Design\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Andrew Ng\n   </p>\n  </li>\n </ul>\n <p>\n  <strong>\n   Instructional Design &amp; Project Management\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Eddy Shyu\n   </p>\n  </li>\n </ul>\n <p>\n  <strong>\n   Curriculum Engineering\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Aarti Bagul\n   </p>\n  </li>\n  <li>\n   <p>\n    Geoff Ladwig\n   </p>\n  </li>\n  <li>\n   <p>\n    Andres Castillo\n   </p>\n  </li>\n </ul>\n <p>\n  <strong>\n   Curriculum Development\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Robert Perry\n   </p>\n  </li>\n  <li>\n   <p>\n    Kin Cheung\n   </p>\n  </li>\n </ul>\n <p>\n  <strong>\n   Program Management\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Inhae Koo\n   </p>\n  </li>\n  <li>\n   <p>\n    Lara Pheatt-Pitzer\n   </p>\n  </li>\n </ul>\n <p>\n  <strong>\n   Course Maintenance\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Chris Favila\n   </p>\n  </li>\n </ul>\n <p>\n  <strong>\n   Additional Curriculum Engineering Support\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Juan Delgado\n   </p>\n  </li>\n  <li>\n   <p>\n    Lucas Coutinho\n   </p>\n  </li>\n </ul>\n <p>\n  <strong>\n   Additional Curriculum Development Support\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Daniel Villarraga\n   </p>\n  </li>\n  <li>\n   <p>\n    Ivy Ngong\n   </p>\n  </li>\n </ul>\n <p>\n  <strong>\n   Video Production\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Nic Camp\n   </p>\n  </li>\n  <li>\n   <p>\n    Geoff Stebbins\n   </p>\n  </li>\n  <li>\n   <p>\n    Rajiv Smith-Mahabir\n   </p>\n  </li>\n  <li>\n   <p>\n    Caroline Cuny\n   </p>\n  </li>\n </ul>\n <p>\n  <strong>\n   Graphic Design Support\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Peter Cascio\n   </p>\n  </li>\n  <li>\n   <p>\n    Maryam Fizza\n   </p>\n  </li>\n </ul>\n <p>\n  <strong>\n   Alpha Testing and Mentorship Management\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Giovanni Lignarolo\n   </p>\n  </li>\n  <li>\n   <p>\n    Deepthi Locanindi\n   </p>\n  </li>\n </ul>\n <p>\n  <strong>\n   Partnership Management\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Ortal Arel\n   </p>\n  </li>\n  <li>\n   <p>\n    Ryan Keenan\n   </p>\n  </li>\n  <li>\n   <p>\n    Brandon Iljas\n   </p>\n  </li>\n </ul>\n <p>\n  <strong>\n   Marketing\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Ishita Chaudhary\n   </p>\n  </li>\n  <li>\n   <p>\n    Alice Lin\n   </p>\n  </li>\n </ul>\n <p>\n  <strong>\n   Alpha Testers\n  </strong>\n </p>\n <ul bullettype=\"bullets\">\n  <li>\n   <p>\n    Wendy Cook\n   </p>\n  </li>\n  <li>\n   <p>\n    Raymond Kwok\n   </p>\n  </li>\n  <li>\n   <p>\n    RJ Vogel\n   </p>\n  </li>\n  <li>\n   <p>\n    Sam Reiswig\n   </p>\n  </li>\n  <li>\n   <p>\n    Vishesh Mittal\n   </p>\n  </li>\n  <li>\n   <p>\n    Aiden Moy\n   </p>\n  </li>\n  <li>\n   <p>\n    Shanup Peer\n   </p>\n  </li>\n  <li>\n   <p>\n    Pedro Diniz\n   </p>\n  </li>\n  <li>\n   <p>\n    Luis Alaniz\n   </p>\n  </li>\n  <li>\n   <p>\n    A. Rosa Castillo\n   </p>\n  </li>\n  <li>\n   <p>\n    Ammar Mohanna\n   </p>\n  </li>\n  <li>\n   <p>\n    Reinoud Bosch\n   </p>\n  </li>\n  <li>\n   <p>\n    Sebin Sunny P\n   </p>\n  </li>\n  <li>\n   <p>\n    Tom Mosher\n   </p>\n  </li>\n  <li>\n   <p>\n    Md Youshuf Khan Rakib\n   </p>\n  </li>\n  <li>\n   <p>\n    Mohamed Ibrahim\n   </p>\n  </li>\n  <li>\n   <p>\n    Yuanfang Peng\n   </p>\n  </li>\n  <li>\n   <p>\n    Siddharth Gupta\n   </p>\n  </li>\n  <li>\n   <p>\n    Lukas Mendes\n   </p>\n  </li>\n  <li>\n   <p>\n    Yi Liu\n   </p>\n  </li>\n  <li>\n   <p>\n    Skanda Subramanyan\n   </p>\n  </li>\n  <li>\n   <p>\n    Siddhartha Priya\n   </p>\n  </li>\n  <li>\n   <p>\n    Benjamin Mace\n   </p>\n  </li>\n  <li>\n   <p>\n    Gordon Robinson\n   </p>\n  </li>\n  <li>\n   <p>\n    Dalila Ahemed\n   </p>\n  </li>\n  <li>\n   <p>\n    Javier Benitez\n   </p>\n  </li>\n  <li>\n   <p>\n    David Erwan\n   </p>\n  </li>\n  <li>\n   <p>\n    Toyan Unal\n   </p>\n  </li>\n  <li>\n   <p>\n    Charles Zivancev\n   </p>\n  </li>\n  <li>\n   <p>\n    Chia Tung Chang\n   </p>\n  </li>\n  <li>\n   <p>\n    Lazarus Amaha\n   </p>\n  </li>\n  <li>\n   <p>\n    Muhammad Fahad\n   </p>\n  </li>\n  <li>\n   <p>\n    Daewook Kim\n   </p>\n  </li>\n </ul>\n</co-content>\n<style>\n body {\n    padding: 50px 85px 50px 85px;\n}\n\ntable th, table td {\n    border: 1px solid #e0e0e0;\n    padding: 5px 20px;\n    text-align: left;\n}\ninput {\n    margin: 10px;\n}\n}\nth {\n    font-weight: bold;\n}\ntd, th {\n    display: table-cell;\n    vertical-align: inherit;\n}\nimg {\n    height: auto;\n    max-width: 100%;\n}\npre {\n    display: block;\n    margin: 20px;\n    background: #424242;\n    color: #fff;\n    font-size: 13px;\n    white-space: pre-wrap;\n    padding: 9.5px;\n    margin: 0 0 10px;\n    border: 1px solid #ccc;\n}\n</style>\n<script async=\"\" src=\"https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\" type=\"text/javascript\">\n</script>\n<script type=\"text/x-mathjax-config\">\n MathJax.Hub.Config({\n    tex2jax: {\n      inlineMath: [ ['$$','$$'], ['$','$'] ],\n      displayMath: [ [\"\\\\[\",\"\\\\]\"] ],\n      processEscapes: true\n    }\n  });\n</script>\n",
+                                    "instructions"
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            ]
+        ]
+    ]
+]
