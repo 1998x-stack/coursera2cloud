@@ -8,6 +8,1231 @@
     "uploaded": true
   },
   "neural-networks-deep-learning": {
-    "downloaded": true
+    "downloaded": false,
+    "uploaded": false
+  },
+  "machine-learning": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "ai-for-everyone": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "convolutional-neural-networks": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "nlp-sequence-models": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "machine-learning-with-python": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "generative-ai-for-everyone": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-generative-ai": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-large-language-models": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-tensorflow": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "advanced-learning-algorithms": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "unsupervised-learning-recommenders-reinforcement-learning": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "deep-learning-specialization": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "google-ai-essentials": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "generative-ai-with-llms": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "intro-to-gen-ai": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "prompt-engineering-for-chatgpt": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "tensorflow-advanced-techniques": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "natural-language-processing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-computer-vision": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "reinforcement-learning": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "responsible-ai": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "python": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "python-data": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "python-network-data": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "python-databases": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "crash-course-on-python": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "python-for-data-science-ai-development": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "python-basics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "interactive-python-1": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "interactive-python-2": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "java-programming": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "java-programming-arrays-lists-data": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "object-oriented-programming-in-java": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "c-for-everyone": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "programming-languages": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "algorithms-part1": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "algorithms-part2": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "data-structures-algorithms": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "algorithmic-toolbox": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "data-structures": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "algorithms-on-graphs": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "algorithms-on-strings": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "advanced-algorithms-and-complexity": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "data-structures-and-performance": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "computer-science-algorithms-theory-machines": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "computer-science-programming-with-a-purpose": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "computational-thinking-problem-solving": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-discrete-mathematics-for-computer-science": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-computer-science-and-programming": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "html-css-javascript-for-web-developers": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "front-end-web-development-with-react": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "server-side-development-with-nodejs-express-and-mongodb": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "full-stack-web-development": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "web-development": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "responsive-web-design": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "sql-for-data-science": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-databases": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "foundations-of-cybersecurity": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-cybersecurity-tools-and-cyber-attacks": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "cryptography": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "computer-security": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "network-security": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "cybersecurity-compliance-framework-standards-regulations": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "ethical-hacking": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-cloud-computing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "google-cloud-fundamentals-core-infrastructure": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "aws-cloud-technical-essentials": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "aws-fundamentals": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "developing-applications-with-google-cloud": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "data-engineering-with-google-cloud": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-software-engineering": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "software-development-lifecycle": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "agile-project-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "java-programming-and-software-engineering-fundamentals": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "computer-networking": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "operating-systems": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "system-administration-it-infrastructure-services": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "technical-support-fundamentals": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "what-is-data-science": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-data-science-in-python": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "data-science-methodology": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "data-analysis-with-python": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "applied-data-science-with-python": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "r-programming": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "linux-and-bash-for-data-engineering": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-devops": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "docker-kubernetes-the-big-picture": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "blockchain-basics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "bitcoin-and-cryptocurrency-technologies": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "mobile-app-development": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "ios-app-development-basics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "android-app-development": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "distributed-systems": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "computer-architecture": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "compilers": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-computer-networks": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "build-a-computer": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-artificial-intelligence-ai": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "fundamentals-of-machine-learning-and-ai": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "nuts-and-bolts-of-machine-learning": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "getting-started-with-tensorflow2": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "cyber-security-essentials": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "it-fundamentals-for-cybersecurity": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "usable-security": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "design-patterns": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-software-product-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "programming-fundamentals": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "object-oriented-data-structures-cpp": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "cloud-computing-concepts-part1": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "modern-big-data-analysis-sql": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "python-for-data-visualization": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "human-centered-design-introduction": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-ui-design": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "design-principles-introduction": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "foundations-of-user-experience-design": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "web-applications-for-everybody": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-cybersecurity-essentials": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "machine-learning-in-production": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "agile-meets-design-thinking": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "java-programming-software-engineering-fundamentals": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "foundations-of-digital-marketing-and-e-commerce": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-social-media-marketing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "marketing-in-a-digital-world": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "brand-management-aligning-business-brand-and-behaviour": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "viral-marketing-and-how-to-craft-contagious-content": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "the-strategy-of-content-marketing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "wharton-marketing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "digital-marketing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "marketing-analytics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "international-marketing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "social-media-marketing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "content-marketing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "financial-markets": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "wharton-financial-accounting": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "wharton-finance-accounting": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "wharton-corporate-finance": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "behavioral-finance": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "finance-for-non-finance-professionals": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "corporate-finance-essentials": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-financial-markets": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "finance-for-non-financial-managers": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "investment-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "private-equity-and-venture-capital": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "financial-planning": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "foundations-of-project-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "project-initiation-starting-a-successful-project": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "project-planning-putting-it-all-together": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "project-execution-running-the-project": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "project-management-capstone": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "initiating-and-planning-projects": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "budgeting-and-scheduling-projects": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "how-to-start-your-own-business": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "basics-of-entrepreneurship-thinking-and-doing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "entrepreneurship-launching-innovative-business": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "developing-innovative-ideas-for-new-ventures": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "innovation-for-entrepreneurs": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "new-venture-finance": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "entrepreneurship-capstone": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "design-thinking-for-innovation": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "strategic-leadership-and-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "negotiation-skills": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "leading-people-and-teams": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "inspiring-and-motivating-individuals": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "managing-talent": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "organizational-analysis": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "high-performance-collaboration": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "leadership-and-emotional-intelligence": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "foundations-of-everyday-leadership": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "communication-strategies-for-a-virtual-age": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-foundations": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-strategy": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "foundations-of-business-strategy": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-and-financial-modeling": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-business": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "strengthen-your-business-savvy": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "boost-your-business-skills": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "competitive-strategy": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-model-canvas": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "strategic-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-analytics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-analysis-process-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "foundations-of-marketing-analytics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "customer-analytics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "operations-analytics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "people-analytics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "accounting-analytics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "supply-chain-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "operations-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "supply-chain-principles": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "supply-chain-logistics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "supply-chain-planning": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "supply-chain-sourcing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "microeconomics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "macroeconomics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "game-theory": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "country-level-economics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "firm-level-economics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "international-business": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "globalization-and-business": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-writing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-english": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "effective-communication": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "presentation-skills": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "public-speaking": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "human-resource-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "recruiting-hiring-and-onboarding-employees": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "managing-employee-performance": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "diversity-and-inclusion-in-the-workplace": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "digital-product-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "product-management-an-introduction": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "gamification": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "key-technologies-for-business": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-intelligence": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "digital-transformation": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "negotiation-mediation-and-conflict-resolution": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-english-networking": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "supply-chain-operations": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "international-business-essentials": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "foundations-of-digital-marketing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "google-digital-marketing-ecommerce": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "wharton-accounting": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "wharton-operations": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "foundations-business-strategy": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-digital-marketing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "marketing-digital": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "successful-negotiation": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "supply-chain-excellence": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "organizational-leadership": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "leading-people-teams": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "management-fundamentals": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "fundamentals-of-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "principles-of-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "finance-for-non-finance": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "financial-accounting-fundamentals": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "financial-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "entrepreneurship-1": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "entrepreneurship-2": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "entrepreneurship-3": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "how-start-business": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "basics-entrepreneurship": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "startup-entrepreneurship": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "innovation-creativity-entrepreneurship": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "microeconomics-power-markets": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "microeconomics-principles": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "economics-money-banking": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "globalization-economic-growth-stability": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "fundamentals-international-business": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-communication": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "improving-communication-skills": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-english-communication-skills": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "marketing-strategy": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "brand-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "integrated-marketing-communications": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-and-marketing-strategies": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "excel-skills-business-essentials": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "excel-skills-business-intermediate-1": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "excel-skills-business-intermediate-2": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "excel-skills-business-advanced": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "business-intelligence-tools": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-data-analytics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "data-driven-decision-making": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "foundations-of-digital-marketing-and-ecommerce": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "attract-and-engage-customers-with-digital-marketing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "think-outside-the-inbox-email-marketing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "make-the-sale-build-launch-manage-ecommerce": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "project-initiation-starting-successful-project": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "project-execution-running-project": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "capstone-applying-project-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-project-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "construction-project-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "engineering-project-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "ibm-project-manager": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "microsoft-project-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "supply-chain-analytics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "art-of-negotiation": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "negotiation-fundamentals": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "negotiation-mediation-conflict-resolution": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "new-models-business-society": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "global-impact-business-ethics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "global-impact-multiculturalism": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "global-challenges-in-business": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "people-management-essentials": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-finance-basics": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "finance-for-managers": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "discounted-cash-flow-modeling": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "investment-risk-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "financial-engineering-risk-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "private-equity-venture-capital": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "strategic-business-leadership": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "effective-leadership-master-management-styles": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "developing-yourself-as-a-leader": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "foundations-of-leadership": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "boost-your-leadership-impact": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "global-procurement-and-sourcing": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "introduction-to-business-analysis": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "ibm-business-analyst": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "microsoft-business-analyst": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "sap-business-analyst": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "english-for-career-development": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "emotional-intelligence-in-leadership": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "google-project-management": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "entrepreneurship-growing-your-business": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "entrepreneurship-strategy-ideation-exit": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "essentials-entrepreneurship-thinking-action": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "influencing-people": {
+    "downloaded": false,
+    "uploaded": false
+  },
+  "global-business-communication": {
+    "downloaded": false,
+    "uploaded": false
   }
 }
