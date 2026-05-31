@@ -10,3 +10,4 @@ config.yaml
 .DS_Store
 course-data/*.json
 !course-data/courses.jsonl
+!course-data/status.json

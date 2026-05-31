@@ -15,6 +15,7 @@ import yaml
 PROJECT_ROOT = Path(__file__).resolve().parent
 STATE_FILE = PROJECT_ROOT / "logs" / "upload_state.json"
 COURSES_FILE = PROJECT_ROOT / "course-data" / "courses.jsonl"
+STATUS_FILE = PROJECT_ROOT / "course-data" / "status.json"
 
 
 def load_courses() -> list[dict]:
@@ -24,6 +25,54 @@ def load_courses() -> list[dict]:
             if line.strip():
                 courses.append(json.loads(line))
     return courses
+
+
+def load_status() -> dict:
+    if STATUS_FILE.exists():
+        return json.loads(STATUS_FILE.read_text())
+    return {}
+
+
+def save_status(status: dict) -> None:
+    STATUS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    STATUS_FILE.write_text(json.dumps(status, indent=2, ensure_ascii=False))
+
+
+def get_course_status(slug: str) -> dict:
+    return load_status().get(slug, {})
+
+
+def print_status() -> None:
+    courses = load_courses()
+    status = load_status()
+    if not courses:
+        print("No courses found in course-data/courses.jsonl")
+        return
+    print(f"{'SLUG':<55} {'DOWNLOADED':>12} {'UPLOADED':>12}")
+    print("-" * 81)
+    for c in courses:
+        s = status.get(c["slug"], {})
+        dl = "✅" if s.get("downloaded") else "⬜"
+        up = "✅" if s.get("uploaded") else "⬜"
+        print(f"{c['slug']:<55} {dl:>12} {up:>12}")
+
+
+def mark_download_status(slug: str) -> None:
+    status = load_status()
+    status.setdefault(slug, {})["downloaded"] = True
+    save_status(status)
+
+
+def mark_upload_status(slug: str) -> None:
+    status = load_status()
+    status.setdefault(slug, {})["uploaded"] = True
+    save_status(status)
+
+
+def clear_status(slug: str) -> None:
+    status = load_status()
+    status.pop(slug, None)
+    save_status(status)
 
 
 def load_state() -> dict:
@@ -250,6 +299,7 @@ def download_course(coursera_cmd: list[str], config: dict, course: dict) -> Opti
         return None
 
     mark_download_done(slug)
+    mark_download_status(slug)
     logging.info("Download complete: %s", slug)
     return course_dir
 
@@ -328,6 +378,7 @@ def process_course(coursera_cmd: list[str], baidu_bin: Path, config: dict, cours
             continue
 
         if upload_course(baidu_bin, config, course, course_dir):
+            mark_upload_status(slug)
             if config["behavior"]["cleanup_after_upload"]:
                 shutil.rmtree(course_dir)
                 clear_course_state(slug)
@@ -341,6 +392,10 @@ def process_course(coursera_cmd: list[str], baidu_bin: Path, config: dict, cours
 
 
 def main():
+    if "--status" in sys.argv:
+        print_status()
+        return
+
     config_path = PROJECT_ROOT / "config.yaml"
 
     logging.basicConfig(
