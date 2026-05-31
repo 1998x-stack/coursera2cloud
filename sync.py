@@ -3,6 +3,7 @@
 import json
 import logging
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -10,6 +11,7 @@ import time
 from pathlib import Path
 from typing import Optional
 
+import requests
 import yaml
 
 PROJECT_ROOT = Path(__file__).resolve().parent
@@ -25,6 +27,48 @@ def load_courses() -> list[dict]:
             if line.strip():
                 courses.append(json.loads(line))
     return courses
+
+
+def resolve_course_name(slug: str, timeout: int = 10) -> Optional[dict]:
+    url = f"https://www.coursera.org/learn/{slug}"
+    try:
+        resp = requests.get(url, timeout=timeout, allow_redirects=True,
+                           headers={"User-Agent": "Mozilla/5.0"})
+    except requests.RequestException:
+        return None
+    if resp.status_code != 200:
+        return None
+    match = re.search(r'<meta[^>]+property="og:title"[^>]+content="([^"]+)"', resp.text)
+    if not match:
+        match = re.search(r"<title>(.*?)</title>", resp.text)
+    name = match.group(1).strip() if match else slug
+    return {"slug": slug, "name": name, "url": url, "status": resp.status_code}
+
+
+def resolve_all_courses() -> None:
+    courses = load_courses()
+    total = len(courses)
+    ok, fail = 0, 0
+    for i, c in enumerate(courses):
+        slug = c["slug"]
+        result = resolve_course_name(slug)
+        if result:
+            ok += 1
+            old_name = c["name"]
+            if result["name"] != old_name:
+                c["name"] = result["name"]
+                print(f"[{i+1:3d}/{total}] ✅ {slug}")
+                print(f"            old: {old_name}")
+                print(f"            new: {result['name']}")
+            else:
+                print(f"[{i+1:3d}/{total}] ✅ {slug}")
+        else:
+            fail += 1
+            print(f"[{i+1:3d}/{total}] ❌ {slug} (not found)")
+    with open(COURSES_FILE, "w") as f:
+        for c in courses:
+            f.write(json.dumps(c, ensure_ascii=False) + "\n")
+    print(f"\nDone: {ok} valid, {fail} not found")
 
 
 def load_status() -> dict:
@@ -406,6 +450,9 @@ def process_course(coursera_cmd: list[str], baidu_bin: Path, config: dict, cours
 def main():
     if "--status" in sys.argv:
         print_status()
+        return
+    if "--resolve" in sys.argv:
+        resolve_all_courses()
         return
 
     config_path = PROJECT_ROOT / "config.yaml"
