@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+tmp/
+logs/*.log
+logs/upload_state.json
+bin/BaiduPCS-Go*
+!bin/.gitkeep
+config.yaml
+.env
+.DS_Store
+*-syllabus-parsed.json
