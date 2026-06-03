@@ -5,7 +5,7 @@
 # Usage:
 #   bash nohup_sync.sh          # start in background
 #   tail -f logs/sync.log       # watch progress
-#   python3 sync.py --status    # check completion status
+#   python3.11 sync.py --status    # check completion status
 #
 # Status updates:
 #   - status.json is updated after EACH course completes
@@ -20,14 +20,21 @@ PID_FILE="${SCRIPT_DIR}/logs/sync.pid"
 
 cd "${SCRIPT_DIR}"
 
-# Prevent duplicate runs
-if [ -f "$PID_FILE" ]; then
-    OLD_PID=$(cat "$PID_FILE")
-    if kill -0 "$OLD_PID" 2>/dev/null; then
-        echo "ERROR: sync already running (PID $OLD_PID). Stop it first: kill $OLD_PID"
-        exit 1
-    fi
+# Prevent duplicate runs — kill any lingering sync processes + orphans
+EXISTING=$(pgrep -f "python3.11.*sync.py" 2>/dev/null || true)
+if [ -n "$EXISTING" ]; then
+    echo "Killing existing sync processes: $EXISTING"
+    kill $EXISTING 2>/dev/null
+    sleep 2
 fi
+# Also kill orphaned coursera-helper downloads
+ORPHANS=$(pgrep -f "coursera_helper.coursera_dl" 2>/dev/null || true)
+if [ -n "$ORPHANS" ]; then
+    echo "Killing orphaned downloads: $ORPHANS"
+    kill $ORPHANS 2>/dev/null
+    sleep 1
+fi
+rm -f "$PID_FILE"
 
 # Load credentials from ~/.zshrc
 BDUSS_VAL=$(grep '^export BDUSS=' ~/.zshrc 2>/dev/null | sed 's/^export BDUSS=//')
@@ -43,11 +50,11 @@ mkdir -p "$(dirname "$LOG_FILE")"
 
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] Starting batch sync..." | tee -a "$LOG_FILE"
 
-nohup python3 sync.py >> "$LOG_FILE" 2>&1 &
+nohup python3.11 sync.py >> "$LOG_FILE" 2>&1 &
 
 PID=$!
 echo $PID > "$PID_FILE"
 echo "PID: $PID"
 echo "Log:  $LOG_FILE"
-echo "Status: python3 sync.py --status"
+echo "Status: python3.11 sync.py --status"
 echo "Stop:   kill $PID"

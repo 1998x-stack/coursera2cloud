@@ -11,4 +11,4 @@ export STOKEN="${STOKEN_VAL}"
 export CAUTH="${CAUTH_VAL}"
 
 cd "${SCRIPT_DIR}"
-exec python3 sync.py "$@"
+exec python3.11 sync.py "$@"

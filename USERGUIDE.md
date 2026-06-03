@@ -73,17 +73,15 @@ export CAUTH="your-cauth-value"
 
 ### Step 4: Configure courses
 
-Edit `config.yaml`:
+Edit `course-data/courses.jsonl` (JSON Lines format):
 
-```yaml
-courses:
-  - slug: "executing-full-text-queries-with-elasticsearch"
-    name: "Executing Full Text Queries with Elasticsearch"
-    category: "Computer Science / Databases & Search"
-    enabled: true
+```json
+{"slug": "executing-full-text-queries-with-elasticsearch", "name": "Executing Full Text Queries with Elasticsearch", "category": "Computer Science / Databases and Search", "enabled": true}
 ```
 
 The slug comes from the course URL: `coursera.org/learn/`**`executing-full-text-queries-with-elasticsearch`**
+
+> ⚠️ **Gotcha 9 — Category names with `&`, `#`, `?`**: These characters break BaiduPCS-Go paths. The pipeline now auto-sanitizes them at upload time (`&` → `and`, `#`/`?` removed) and logs a warning at course load. However, you should still use clean names in `courses.jsonl` to avoid mismatches between local and remote status.
 
 ---
 
@@ -107,6 +105,14 @@ python3 sync.py
 
 > ⚠️ **Gotcha 8 — Special characters in CAUTH**: The CAUTH cookie value contains `.` and `_` characters. When using `eval`, wrap the export in single quotes to prevent shell interpretation.
 
+### Status commands:
+
+```bash
+python3 sync.py --status       # print per-course completion table
+python3 sync.py --resolve      # refresh course names from Coursera.org
+python3 sync.py --sync-status  # sync status.json from Baidu directory listing
+```
+
 ---
 
 ## Gotchas & Resolved Issues
@@ -123,19 +129,21 @@ python3 sync.py
 | G6 | BDUSS/STOKEN expired | ~30 day TTL | Re-extract from browser |
 | G7 | Env vars lost between bash calls | OpenCode subprocess isolation | Use `run.sh` wrapper |
 | G8 | CAUTH special chars cause eval issues | `.` and `_` interpreted by shell | Single-quote the export value |
+| G9 | Category names with `&`, `#`, `?` break paths | Baidu API treats them as shell special chars | Auto-sanitized at upload time; warning at load |
 
 ### Runtime Gotchas
 
 | # | Issue | Root Cause | Resolution |
 |---|-------|-----------|------------|
 | R1 | `coursera-helper` crashes on Python 3.14 | `distutils` removed in Python 3.12+ | Use `python3.11 -m coursera_helper.coursera_dl` |
-| R2 | coursera-helper requires `-u` or `-n` | Argparse validation at line 519 | Ensure CAUTH is non-empty AND correctly passed as `-ca` |
+| R2 | coursera-helper requires `-u` or `-n` | Argparse validation | Ensure CAUTH is non-empty AND correctly passed |
 | R3 | Baidu quota error 31045 | Stale BDUSS token | Re-extract fresh BDUSS from browser |
 | R4 | Download returns 0 sections | CAUTH expired or incorrect | Verify CAUTH in browser, re-extract |
-| R5 | Download timeout (>10 min) | Large courses (e.g., Information Theory) | Increase subprocess timeout in sync.py (`timeout=7200`) |
-| R6 | Upload returns success but files missing on Baidu | `&` in category path treated as shell special character by Baidu API | **Use `and` instead of `&` in category names**; avoid `&`, `#`, `?` in Baidu paths |
+| R5 | Download timeout (>10 min) | Large courses | Increase subprocess timeout (`timeout=7200`) |
+| R6 | Upload files missing on Baidu | `&`, `#`, `?` in category path | Auto-sanitized: `&` → `and`, `#`/`?` removed |
+| R7 | BaiduPCS-Go `ls` error 31062 | `--` in path names | Both `verify_upload` and `ensure_remote_dir` detect and skip |
 
-### Code Bugs Fixed (in sync.py)
+### Code Architecture Fixes
 
 | # | Bug | Impact | Fix |
 |---|-----|--------|-----|
@@ -147,6 +155,11 @@ python3 sync.py
 | B6 | Hardcoded `"coursera-helper"` binary name | Doesn't use resolved Python 3.11 path | `check_tools()` now returns resolved command list |
 | B7 | `load_config()` crashes on missing keys | Optional config keys cause crash | Added try/except KeyError guards |
 | B8 | Dead code in `upload_course()` | Confusing remote_target overwrite | Removed dead variable, unified path logic |
+| B9 | `verify_upload` recursive count vs flat `ls` | False verification failures on nested week dirs | `rglob("*")` → `glob("*")` (flat comparison) |
+| B10 | State file writes non-atomic | Crash mid-write = corrupted JSON | Write to `.tmp` first, then `replace()` |
+| B11 | Corrupted state files crash on load | Unhandled `JSONDecodeError` | `try/except` with warning + auto-reset |
+| B12 | `--sync-status` hardcoded paths | Ignores `config.yaml` settings | Now reads `binary_path` and `remote_root` from config |
+| B13 | Syllabus JSONs in project root | `coursera_helper` writes to CWD | Moved to `course-data/`, added to `.gitignore` |
 
 ---
 
@@ -171,12 +184,8 @@ eval "$(grep -E '^export (BDUSS|STOKEN)=' ~/.zshrc)"
 eval "$(grep '^export CAUTH=' ~/.zshrc)"
 python3.11 -m coursera_helper.coursera_dl -ca "$CAUTH" --path ./tmp --list-courses
 
-# 5. Config
-python3 -c "
-import yaml
-c = yaml.safe_load(open('config.yaml'))
-print(f'{len(c[\"courses\"])} courses configured')
-"
+# 5. Check course list and status
+python3 sync.py --status
 ```
 
 If all 5 checks pass, run: `bash run.sh`
@@ -206,16 +215,15 @@ bash setup_baidu.sh
 
 ### Adding new courses
 
-Edit `config.yaml`, add a new entry:
+Add a line to `course-data/courses.jsonl`:
 
-```yaml
-  - slug: "new-course-slug"
-    name: "New Course Name"
-    category: "Category / Subcategory"
-    enabled: true
+```json
+{"slug": "new-course-slug", "name": "New Course Name", "category": "Category / Subcategory", "enabled": true}
 ```
 
 Then run: `bash run.sh`
+
+If you only know the slug, add the line with any placeholder name, then run `python3 sync.py --resolve` to auto-fetch the official name from Coursera.
 
 ### Force re-download
 
@@ -229,9 +237,24 @@ behavior:
 
 Run once with this flag, then set back to `false`.
 
+Note: `force_redownload` only works if the course is NOT already marked complete in `status.json`. If a previously-completed course needs re-downloading, clear its entry from `status.json` first or delete `course-data/status.json` entirely.
+
 ---
 
 ## Architecture Notes
+
+### Module Structure (8 files)
+
+```
+sync.py          — main() entry, argument dispatch
+constants.py     — PROJECT_ROOT + file path constants
+utils.py         — subprocess runner + sanitize_baidu_path()
+config.py        — YAML loading, _nested_get, resolve_path
+courses.py       — catalog, status/state persistence, resolve, sync_status
+baidu.py         — BaiduPCS-Go login, mkdir, upload, verify_upload
+downloader.py    — coursera-helper tool detection + download_course
+pipeline.py      — upload_course + process_course orchestration
+```
 
 ### Why Python 3.11 for coursera-helper?
 
@@ -263,7 +286,7 @@ run.sh
 ```
 /coursera/
   Computer Science /
-    Databases & Search /
+    Databases and Search /
       Executing Full Text Queries with Elasticsearch /
         01_introduction-to-elasticsearch/
           ... (videos, slides, quizzes)

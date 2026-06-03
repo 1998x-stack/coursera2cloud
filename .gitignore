@@ -12,3 +12,4 @@ config.yaml
 course-data/*.json
 !course-data/courses.jsonl
 !course-data/status.json
+*syllabus-parsed.json

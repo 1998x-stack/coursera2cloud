@@ -21,7 +21,7 @@ bash setup_baidu.sh
 #    export BDUSS="..."    # from pan.baidu.com cookies
 #    export STOKEN="..."   # from pan.baidu.com cookies
 
-# 3. Configure courses in config.yaml
+# 3. Configure courses in course-data/courses.jsonl (JSON Lines)
 
 # 4. Run
 bash run.sh
@@ -52,7 +52,7 @@ run.sh → sync.py → coursera-helper → BaiduPCS-Go → cleanup
 ```
 /coursera/
   Computer Science /
-    Databases & Search /
+    Databases and Search /
       Executing Full Text Queries with Elasticsearch /
         01_introduction-to-elasticsearch/
           ... (videos, slides, quizzes)
@@ -65,14 +65,13 @@ run.sh → sync.py → coursera-helper → BaiduPCS-Go → cleanup
 
 ## Configuration
 
-```yaml
-# config.yaml
-courses:
-  - slug: "machine-learning"
-    name: "Machine Learning"
-    category: "Computer Science / AI & ML"
-    enabled: true
+Course catalog lives in `course-data/courses.jsonl` (JSON Lines):
+
+```json
+{"slug": "machine-learning", "name": "Machine Learning", "category": "Computer Science / AI and Machine Learning", "enabled": true}
 ```
+
+`config.yaml` contains global settings:
 
 | Setting | Default | Options |
 |---------|---------|---------|
@@ -81,6 +80,8 @@ courses:
 | `baidu.upload_policy` | `rsync` | skip / overwrite / rsync |
 | `behavior.max_retries` | `3` | Retry count on failure |
 | `behavior.force_redownload` | `false` | Set `true` for interrupted downloads |
+
+> ⚠️ Category and course names containing `&`, `#`, `?` break BaiduPCS-Go paths. Use `and` instead of `&` (auto-sanitized at upload time, with a warning at load).
 
 ---
 
@@ -99,16 +100,25 @@ courses:
 
 ```
 coursera-sync/
-├── run.sh            Launcher (reads ~/.zshrc for credentials)
-├── sync.py           Orchestrator
-├── config.yaml       Course catalog + settings
-├── setup_baidu.sh    BaiduPCS-Go installer
-├── requirements.txt  pyyaml
-├── README.md         This file
-├── USERGUIDE.md      Full guide + gotchas
-├── bin/BaiduPCS-Go   Binary
-├── logs/             Log output
-└── tmp/              Temp downloads
+├── sync.py             Orchestrator (77 lines)
+├── constants.py        Root path constants
+├── config.py           YAML config loading + path resolution
+├── courses.py          Course catalog, status/state persistence
+├── baidu.py            BaiduPCS-Go login, upload, verify
+├── downloader.py       coursera-helper download + tool detection
+├── pipeline.py         Upload + process orchestration
+├── utils.py            Subprocess runner + Baidu path sanitization
+├── run.sh              Launcher (reads ~/.zshrc for credentials)
+├── nohup_sync.sh       Background sync with PID lock + log
+├── setup_baidu.sh      BaiduPCS-Go installer
+├── requirements.txt    pyyaml, requests
+├── README.md           This file
+├── USERGUIDE.md        Full guide + gotchas
+├── config.yaml         Settings (gitignored)
+├── course-data/        Course catalog + state + syllabus JSONs
+├── bin/                BaiduPCS-Go binary
+├── logs/               Log output + upload_state.json
+└── tmp/                Temp downloads
 ```
 
 ## License

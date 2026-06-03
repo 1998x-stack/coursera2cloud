@@ -8,43 +8,39 @@
     "uploaded": true
   },
   "neural-networks-deep-learning": {
-    "downloaded": false,
-    "uploaded": false
-  },
-  "machine-learning": {
-    "downloaded": false,
-    "uploaded": false
+    "downloaded": true,
+    "uploaded": true
   },
   "ai-for-everyone": {
-    "downloaded": false,
-    "uploaded": false
+    "downloaded": true,
+    "uploaded": true
   },
   "convolutional-neural-networks": {
-    "downloaded": false,
-    "uploaded": false
+    "downloaded": true,
+    "uploaded": true
   },
   "nlp-sequence-models": {
-    "downloaded": false,
-    "uploaded": false
+    "downloaded": true,
+    "uploaded": true
   },
   "machine-learning-with-python": {
-    "downloaded": false,
-    "uploaded": false
+    "downloaded": true,
+    "uploaded": true
   },
   "generative-ai-for-everyone": {
-    "downloaded": false,
-    "uploaded": false
+    "downloaded": true,
+    "uploaded": true
   },
   "introduction-to-generative-ai": {
-    "downloaded": false,
-    "uploaded": false
+    "downloaded": true,
+    "uploaded": true
   },
   "introduction-to-large-language-models": {
-    "downloaded": false,
-    "uploaded": false
+    "downloaded": true,
+    "uploaded": true
   },
   "introduction-tensorflow": {
-    "downloaded": false,
+    "downloaded": true,
     "uploaded": false
   },
   "advanced-learning-algorithms": {
@@ -1234,5 +1230,9 @@
   "global-business-communication": {
     "downloaded": false,
     "uploaded": false
+  },
+  "machine-learning": {
+    "downloaded": true,
+    "uploaded": true
   }
 }
