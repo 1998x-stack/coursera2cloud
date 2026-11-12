@@ -1,6 +1,7 @@
 """coursera-helper download and tool detection."""
 
 import logging
+import re
 import shutil
 import subprocess
 import sys
@@ -10,6 +11,8 @@ from typing import Optional
 from config import resolve_path
 from courses import is_download_done, mark_download_done, mark_download_status, clear_course_state
 from utils import run as _run
+
+_SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 
 
 def check_tools(config: dict) -> tuple[list[str], Path]:
@@ -41,6 +44,11 @@ def check_tools(config: dict) -> tuple[list[str], Path]:
 
 def download_course(coursera_cmd: list[str], config: dict, course: dict) -> Optional[Path]:
     slug = course["slug"]
+
+    if not _SLUG_RE.match(slug):
+        logging.error("Invalid course slug (must be kebab-case): %r", slug)
+        return None
+
     tmp_dir = resolve_path(config, "download.tmp_dir")
     course_dir = tmp_dir / slug
     cauth = config["auth"]["coursera_cauth"]
@@ -82,12 +90,24 @@ def download_course(coursera_cmd: list[str], config: dict, course: dict) -> Opti
     logging.info("Downloading: %s", slug)
     result = subprocess.run(
         cmd, text=True,
-        stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE,
+        stdin=subprocess.DEVNULL, stdout=subprocess.PIPE, stderr=subprocess.PIPE,
         timeout=3600,
     )
 
+    if result.stdout:
+        logging.debug("coursera-helper stdout:\n%s", result.stdout)
+
     if result.returncode != 0:
         logging.error("Download failed for %s:\n%s", slug, result.stderr)
+        return None
+
+    if not course_dir.exists() or not any(
+        d.is_dir() and any(d.iterdir()) for d in course_dir.iterdir()
+    ):
+        logging.error(
+            "Download produced empty or missing course directory: %s (exit code was 0)",
+            course_dir,
+        )
         return None
 
     mark_download_status(slug)

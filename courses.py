@@ -1,6 +1,7 @@
 """Course catalog, status / state persistence, and remote sync."""
 
 import json
+import logging
 import os
 import re
 import subprocess
@@ -29,7 +30,6 @@ def load_courses() -> list[dict]:
                 for field in ("category", "name"):
                     val = c.get(field, "")
                     if has_baidu_unsafe_chars(val):
-                        import logging
                         logging.warning(
                             "Course '%s' has '%s' containing chars that break BaiduPCS-Go (& # ?): %r",
                             c.get("slug", "?"), field, val
@@ -91,7 +91,6 @@ def load_status() -> dict:
         try:
             return json.loads(STATUS_FILE.read_text())
         except (json.JSONDecodeError, OSError):
-            import logging
             logging.warning("status.json corrupted — resetting")
     return {}
 
@@ -154,7 +153,6 @@ def load_state() -> dict:
         try:
             return json.loads(STATE_FILE.read_text())
         except (json.JSONDecodeError, OSError):
-            import logging
             logging.warning("upload_state.json corrupted — resetting")
     return {}
 

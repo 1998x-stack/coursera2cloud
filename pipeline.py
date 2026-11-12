@@ -10,12 +10,10 @@ from courses import (
     clear_course_state, is_course_complete,
 )
 from downloader import download_course
-from utils import run as _run
+from utils import run as _run, sanitize_baidu_path
 
 
 def upload_course(baidu_bin: Path, config: dict, course: dict, local_dir: Path) -> bool:
-    from utils import sanitize_baidu_path
-
     slug = course["slug"]
     name = sanitize_baidu_path(course["name"])
     # Split category path components and strip whitespace around "/"

@@ -41,18 +41,18 @@
   },
   "introduction-tensorflow": {
     "downloaded": true,
-    "uploaded": false
+    "uploaded": true
   },
   "advanced-learning-algorithms": {
-    "downloaded": false,
-    "uploaded": false
+    "downloaded": true,
+    "uploaded": true
   },
   "unsupervised-learning-recommenders-reinforcement-learning": {
-    "downloaded": false,
-    "uploaded": false
+    "downloaded": true,
+    "uploaded": true
   },
   "deep-learning-specialization": {
-    "downloaded": false,
+    "downloaded": true,
     "uploaded": false
   },
   "google-ai-essentials": {
